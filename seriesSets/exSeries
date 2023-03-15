@@ -1,0 +1,146 @@
+[
+    {
+        "id": "ex1",
+        "number": "01",
+        "name": "EX Ruby & Sapphire",
+        "completeSet": "109",
+        "masterSet": "210",
+        "exclusives": "46",
+        "releaseDate": "Jun 18, 2003"
+    },
+    {
+        "id": "ex2",
+        "number": "02",
+        "name": "EX Sandstorm",
+        "completeSet": "100",
+        "masterSet": "193",
+        "exclusives": "22",
+        "releaseDate": "Sep 17, 2003"
+    },
+    {
+        "id": "ex3",
+        "number": "03",
+        "name": "EX Dragon",
+        "completeSet": "100",
+        "masterSet": "188",
+        "exclusives": "20",
+        "releaseDate": "Nov 24, 2003"
+    },
+    {
+        "id": "ex4",
+        "number": "04",
+        "name": "EX Team Magma vs Team Aqua",
+        "completeSet": "97",
+        "masterSet": "185",
+        "exclusives": "20",
+        "releaseDate": "Mar 15, 2004"
+    },
+    {
+        "id": "ex5",
+        "number": "05",
+        "name": "EX Hidden Legends",
+        "completeSet": "102",
+        "masterSet": "194",
+        "exclusives": "39",
+        "releaseDate": "Jun 14, 2004"
+    },
+    {
+        "id": "ex6",
+        "number": "06",
+        "name": "EX FireRed & LeafGreen",
+        "completeSet": "116",
+        "masterSet": "219",
+        "exclusives": "31",
+        "releaseDate": "Aug 30, 2004"
+    },
+    {
+        "id": "ex7",
+        "number": "07",
+        "name": "EX Team Rocket Returns",
+        "completeSet": "111",
+        "masterSet": "206",
+        "exclusives": "33",
+        "releaseDate": "Nov 08, 2004"
+    },
+    {
+        "id": "ex8",
+        "number": "08",
+        "name": "EX Deoxys",
+        "completeSet": "108",
+        "masterSet": "203",
+        "exclusives": "34",
+        "releaseDate": "Feb 14, 2005"
+    },
+    {
+        "id": "ex9",
+        "number": "09",
+        "name": "EX Emerald",
+        "completeSet": "107",
+        "masterSet": "196",
+        "exclusives": "31",
+        "releaseDate": "May 09, 2005"
+    },
+    {
+        "id": "ex10",
+        "number": "10",
+        "name": "EX Unseen Forces",
+        "completeSet": "145",
+        "masterSet": "245",
+        "exclusives": "27",
+        "releaseDate": "Aug 22, 2005"
+    },
+    {
+        "id": "ex11",
+        "number": "11",
+        "name": "EX Delta Species",
+        "completeSet": "114",
+        "masterSet": "221",
+        "exclusives": "44",
+        "releaseDate": "Oct 31, 2005"
+    },
+    {
+        "id": "ex12",
+        "number": "12",
+        "name": "EX Legend Maker",
+        "completeSet": "93",
+        "masterSet": "175",
+        "exclusives": "23",
+        "releaseDate": "Feb 13, 2006"
+    },
+    {
+        "id": "ex13",
+        "number": "13",
+        "name": "EX Holon Phantoms",
+        "completeSet": "111",
+        "masterSet": "209",
+        "exclusives": "21",
+        "releaseDate": "May 03, 2006"
+    },
+    {
+        "id": "ex14",
+        "number": "14",
+        "name": "EX Crystal Guardians",
+        "completeSet": "101",
+        "masterSet": "190",
+        "exclusives": "26",
+        "releaseDate": "Aug 30, 2006"
+    },
+    {
+        "id": "ex15",
+        "number": "15",
+        "name": "EX Dragon Frontiers",
+        "completeSet": "101",
+        "masterSet": "190",
+        "exclusives": "26",
+        "releaseDate": "Nov 08, 2006"
+    },
+    {
+        "id": "ex16",
+        "number": "16",
+        "name": "EX Power Keepers",
+        "completeSet": "108",
+        "masterSet": "199",
+        "exclusives": "23",
+        "releaseDate": "Feb 14, 2007"
+    }
+]
