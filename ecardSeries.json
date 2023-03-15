@@ -1,0 +1,29 @@
+[
+    {
+        "id": "ecard1",
+        "number": "01",
+        "name": "Expedition Base Set",
+        "completeSet": "165",
+        "masterSet": "324",
+        "exclusives": "8",
+        "releaseDate": "Sep 15, 2002"
+    },
+    {
+        "id": "ecard2",
+        "number": "02",
+        "name": "Aquapolis",
+        "completeSet": "186",
+        "masterSet": "337",
+        "exclusives": "6",
+        "releaseDate": "Jan 15, 2003"
+    },
+    {
+        "id": "ecard3",
+        "number": "03",
+        "name": "Skyridge",
+        "completeSet": "182",
+        "masterSet": "332",
+        "exclusives": "7",
+        "releaseDate": "May 12, 2003"
+    }
+]

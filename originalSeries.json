@@ -1,0 +1,65 @@
+[
+    {
+        "id": "base1",
+        "number": "01",
+        "name": "Base Set",
+        "completeSet": "102",
+        "masterSet": "408",
+        "exclusives": "9",
+        "releaseDate": "Jan 09, 1999"
+    },
+    {
+        "id": "base2",
+        "number": "02",
+        "name": "Jungle",
+        "completeSet": "64",
+        "masterSet": "128",
+        "exclusives": "4",
+        "releaseDate": "Jun 16, 1999"
+    },
+    {
+        "id": "base3",
+        "number": "03",
+        "name": "Fossil",
+        "completeSet": "62",
+        "masterSet": "124",
+        "exclusives": "9",
+        "releaseDate": "Oct 10, 1999"
+    },
+    {
+        "id": "base4",
+        "number": "04",
+        "name": "Base Set 2",
+        "completeSet": "130",
+        "masterSet": "130",
+        "exclusives": "1",
+        "releaseDate": "Feb 24, 2000"
+    },
+    {
+        "id": "base5",
+        "number": "05",
+        "name": "Team Rocket",
+        "completeSet": "83",
+        "masterSet": "166",
+        "exclusives": "3",
+        "releaseDate": "Apr 24, 2000"
+    },
+    {
+        "id": "base6",
+        "number": "06",
+        "name": "Gym Heroes",
+        "completeSet": "132",
+        "masterSet": "264",
+        "exclusives": "3",
+        "releaseDate": "Aug 14, 2000"
+    },
+    {
+        "id": "base7",
+        "number": "07",
+        "name": "Gym Challenge",
+        "completeSet": "132",
+        "masterSet": "264",
+        "exclusives": "2",
+        "releaseDate": "Oct 16, 2000"
+    }
+]
