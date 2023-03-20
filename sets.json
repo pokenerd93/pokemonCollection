@@ -952,5 +952,77 @@
         "completeSet": "230",
         "masterSet": "342",
         "releaseDate": "Jan 20, 2023"
+    },
+    {
+        "id": "promos1",
+        "number": "01",
+        "name": "Wizards Black Star Promos",
+        "series": "Promos",
+        "completeSet": "53",
+        "masterSet": "53",
+        "releaseDate": "Jan 01, 1999"
+    },
+    {
+        "id": "promos2",
+        "number": "02",
+        "name": "Nintendo Black Star Promos",
+        "series": "Promos",
+        "completeSet": "40",
+        "masterSet": "40",
+        "releaseDate": "Oct 01, 2003"
+    },
+    {
+        "id": "promos3",
+        "number": "03",
+        "name": "DP Black Star Promos",
+        "series": "Promos",
+        "completeSet": "56",
+        "masterSet": "56",
+        "releaseDate": "May 01, 2007"
+    },
+    {
+        "id": "promos4",
+        "number": "04",
+        "name": "HGSS Black Star Promos",
+        "series": "Promos",
+        "completeSet": "25",
+        "masterSet": "25",
+        "releaseDate": "Feb 01, 2010"
+    },
+    {
+        "id": "promos5",
+        "number": "05",
+        "name": "BW Black Star Promos",
+        "series": "Promos",
+        "completeSet": "101",
+        "masterSet": "101",
+        "releaseDate": "Mar 01, 2011"
+    },
+    {
+        "id": "promos6",
+        "number": "06",
+        "name": "XY Black Star Promos",
+        "series": "Promos",
+        "completeSet": "216",
+        "masterSet": "216",
+        "releaseDate": "Sep 30, 2013"
+    },
+    {
+        "id": "promos7",
+        "number": "07",
+        "name": "SM Black Star Promos",
+        "series": "Promos",
+        "completeSet": "250",
+        "masterSet": "250",
+        "releaseDate": "Oct 31, 2016"
+    },
+    {
+        "id": "promos8",
+        "number": "08",
+        "name": "SWSH Black Star Promos",
+        "series": "Promos",
+        "completeSet": "291",
+        "masterSet": "291",
+        "releaseDate": "Nov 15, 2019"
     }
 ]
