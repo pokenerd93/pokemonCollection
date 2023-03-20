@@ -799,5 +799,50 @@
         "completeSet": "271",
         "masterSet": "464",
         "releaseDate": "Nov 01, 2019"
+    },
+    {
+        "id": "swsh1",
+        "number": "01",
+        "name": "Sword & Shield",
+        "series": "Sword & Shield Series",
+        "completeSet": "216",
+        "masterSet": "381",
+        "releaseDate": "Feb 07, 2020"
+    },
+    {
+        "id": "swsh2",
+        "number": "02",
+        "name": "Rebel Clash",
+        "series": "Sword & Shield Series",
+        "completeSet": "209",
+        "masterSet": "360",
+        "releaseDate": "May 01, 2020"
+    },
+    {
+        "id": "swsh3",
+        "number": "03",
+        "name": "Darkness Ablaze",
+        "series": "Sword & Shield Series",
+        "completeSet": "201",
+        "masterSet": "356",
+        "releaseDate": "Aug 14, 2020"
+    },
+    {
+        "id": "sp8",
+        "number": "08",
+        "name": "Champion's Path",
+        "series": "Special/Holiday Series",
+        "completeSet": "80",
+        "masterSet": "134",
+        "releaseDate": "Sep 25, 2020"
+    },
+    {
+        "id": "swsh4",
+        "number": "04",
+        "name": "Vivid Voltage",
+        "series": "Sword & Shield Series",
+        "completeSet": "203",
+        "masterSet": "345",
+        "releaseDate": "Nov 13, 2020"
     }
 ]
