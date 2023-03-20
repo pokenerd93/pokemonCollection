@@ -844,5 +844,113 @@
         "completeSet": "203",
         "masterSet": "345",
         "releaseDate": "Nov 13, 2020"
+    },
+    {
+        "id": "sp9",
+        "number": "09",
+        "name": "Shining Fates",
+        "series": "Special/Holiday Series",
+        "completeSet": "195",
+        "masterSet": "241",
+        "releaseDate": "Feb 19, 2021"
+    },
+    {
+        "id": "swsh5",
+        "number": "05",
+        "name": "Battle Styles",
+        "series": "Sword & Shield Series",
+        "completeSet": "183",
+        "masterSet": "306",
+        "releaseDate": "Mar 19, 2021"
+    },
+    {
+        "id": "swsh6",
+        "number": "06",
+        "name": "Chilling Reign",
+        "series": "Sword & Shield Series",
+        "completeSet": "233",
+        "masterSet": "369",
+        "releaseDate": "Jun 18, 2021"
+    },
+    {
+        "id": "swsh7",
+        "number": "07",
+        "name": "Evolving Skies",
+        "series": "Sword & Shield Series",
+        "completeSet": "237",
+        "masterSet": "369",
+        "releaseDate": "Aug 27, 2021"
+    },
+    {
+        "id": "sp10",
+        "number": "10",
+        "name": "Celebrations",
+        "series": "Special/Holiday Series",
+        "completeSet": "50",
+        "masterSet": "50",
+        "releaseDate": "Oct 08, 2021"
+    },
+    {
+        "id": "swsh8",
+        "number": "08",
+        "name": "Fusion Strike",
+        "series": "Sword & Shield Series",
+        "completeSet": "284",
+        "masterSet": "501",
+        "releaseDate": "Nov 12, 2021"
+    },
+    {
+        "id": "swsh9",
+        "number": "09",
+        "name": "Brilliant Stars",
+        "series": "Sword & Shield Series",
+        "completeSet": "216",
+        "masterSet": "340",
+        "releaseDate": "Feb 25, 2022"
+    },
+    {
+        "id": "swsh10",
+        "number": "10",
+        "name": "Astral Radiance",
+        "series": "Sword & Shield Series",
+        "completeSet": "246",
+        "masterSet": "374",
+        "releaseDate": "May 27, 2022"
+    },
+    {
+        "id": "sp11",
+        "number": "11",
+        "name": "Pokémon GO",
+        "series": "Special/Holiday Series",
+        "completeSet": "88",
+        "masterSet": "145",
+        "releaseDate": "Jul 01, 2022"
+    },
+    {
+        "id": "swsh11",
+        "number": "11",
+        "name": "Lost Origin",
+        "series": "Sword & Shield Series",
+        "completeSet": "247",
+        "masterSet": "396",
+        "releaseDate": "Sep 09, 2022"
+    },
+    {
+        "id": "swsh12",
+        "number": "12",
+        "name": "Silver Tempest",
+        "series": "Sword & Shield Series",
+        "completeSet": "245",
+        "masterSet": "387",
+        "releaseDate": "Nov 11, 2022"
+    },
+    {
+        "id": "swsh13",
+        "number": "13",
+        "name": "Crown Zenith",
+        "series": "Sword & Shield Series",
+        "completeSet": "230",
+        "masterSet": "342",
+        "releaseDate": "Jan 20, 2023"
     }
 ]
