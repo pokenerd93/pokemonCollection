@@ -1024,5 +1024,86 @@
         "completeSet": "291",
         "masterSet": "291",
         "releaseDate": "Nov 15, 2019"
+    },
+    {
+        "id": "pop1",
+        "number": "01",
+        "name": "POP Series 1",
+        "series": "POP Series",
+        "completeSet": "17",
+        "masterSet": "17",
+        "releaseDate": "Sep 01, 2004"
+    },
+    {
+        "id": "pop2",
+        "number": "02",
+        "name": "POP Series 2",
+        "series": "POP Series",
+        "completeSet": "17",
+        "masterSet": "17",
+        "releaseDate": "Aug 01, 2005"
+    },
+    {
+        "id": "pop3",
+        "number": "03",
+        "name": "POP Series 3",
+        "series": "POP Series",
+        "completeSet": "17",
+        "masterSet": "17",
+        "releaseDate": "Apr 01, 2006"
+    },
+    {
+        "id": "pop4",
+        "number": "04",
+        "name": "POP Series 4",
+        "series": "POP Series",
+        "completeSet": "17",
+        "masterSet": "17",
+        "releaseDate": "Aug 01, 2006"
+    },
+    {
+        "id": "pop5",
+        "number": "05",
+        "name": "POP Series 5",
+        "series": "POP Series",
+        "completeSet": "17",
+        "masterSet": "17",
+        "releaseDate": "Mar 01, 2007"
+    },
+    {
+        "id": "pop6",
+        "number": "06",
+        "name": "POP Series 6",
+        "series": "POP Series",
+        "completeSet": "17",
+        "masterSet": "17",
+        "releaseDate": "Sep 01, 2007"
+    },
+    {
+        "id": "pop7",
+        "number": "07",
+        "name": "POP Series 7",
+        "series": "POP Series",
+        "completeSet": "17",
+        "masterSet": "17",
+        "releaseDate": "Mar 01, 2008"
+    },
+    {
+        "id": "pop8",
+        "number": "08",
+        "name": "POP Series 8",
+        "series": "POP Series",
+        "completeSet": "17",
+        "masterSet": "17",
+        "releaseDate": "Sep 01, 2008"
+    },
+    {
+        "id": "pop9",
+        "number": "09",
+        "name": "POP Series 9",
+        "series": "POP Series",
+        "completeSet": "17",
+        "masterSet": "17",
+        "releaseDate": "Mar 01, 2009"
     }
 ]
