@@ -1026,6 +1026,15 @@
         "releaseDate": "Nov 15, 2019"
     },
     {
+        "id": "promos9",
+        "number": "09",
+        "name": "Unnumbered Promos",
+        "series": "Promos",
+        "completeSet": "01",
+        "masterSet": "01",
+        "releaseDate": "Jan 09, 1999"
+    },
+    {
         "id": "pop1",
         "number": "01",
         "name": "POP Series 1",
@@ -1456,5 +1465,176 @@
         "completeSet": "60",
         "masterSet": "60",
         "releaseDate": "Mar 25, 2022"
+    },
+    {
+        "id": "en1",
+        "number": "01",
+        "name": "Energize Your Game Cycle 2002",
+        "series": "Energies",
+        "completeSet": "08",
+        "masterSet": "08",
+        "releaseDate": "Jan 01, 2002"
+    },
+    {
+        "id": "en2",
+        "number": "02",
+        "name": "2005 Energies",
+        "series": "Energies",
+        "completeSet": "06",
+        "masterSet": "06",
+        "releaseDate": "Jan 01, 2005"
+    },
+    {
+        "id": "en3",
+        "number": "03",
+        "name": "2006 Energies",
+        "series": "Energies",
+        "completeSet": "06",
+        "masterSet": "12",
+        "releaseDate": "Jan 01, 2006"
+    },
+    {
+        "id": "en4",
+        "number": "04",
+        "name": "2007 Energies",
+        "series": "Energies",
+        "completeSet": "08",
+        "masterSet": "16",
+        "releaseDate": "May 23, 2007"
+    },
+    {
+        "id": "en5",
+        "number": "05",
+        "name": "2009 Energies",
+        "series": "Energies",
+        "completeSet": "08",
+        "masterSet": "08",
+        "releaseDate": "Jan 01, 2009"
+    },
+    {
+        "id": "en6",
+        "number": "06",
+        "name": "2010 Energies",
+        "series": "Energies",
+        "completeSet": "08",
+        "masterSet": "08",
+        "releaseDate": "Jan 01, 2010"
+    },
+    {
+        "id": "en7",
+        "number": "07",
+        "name": "2011 Energies",
+        "series": "Energies",
+        "completeSet": "08",
+        "masterSet": "08",
+        "releaseDate": "Jan 01, 2011"
+    },
+    {
+        "id": "en8",
+        "number": "08",
+        "name": "2013 Energies",
+        "series": "Energies",
+        "completeSet": "09",
+        "masterSet": "18",
+        "releaseDate": "Jan 01, 2013"
+    },
+    {
+        "id": "en9",
+        "number": "09",
+        "name": "2017 Energies",
+        "series": "Energies",
+        "completeSet": "09",
+        "masterSet": "18",
+        "releaseDate": "Feb 03, 2017"
+    },
+    {
+        "id": "en10",
+        "number": "10",
+        "name": "2019 Energies",
+        "series": "Energies",
+        "completeSet": "09",
+        "masterSet": "18",
+        "releaseDate": "Feb 01, 2019"
+    },
+    {
+        "id": "en11",
+        "number": "11",
+        "name": "2020 Energies",
+        "series": "Energies",
+        "completeSet": "09",
+        "masterSet": "18",
+        "releaseDate": "Feb 07, 2020"
+    },
+    {
+        "id": "en12",
+        "number": "12",
+        "name": "2022 Energies",
+        "series": "Energies",
+        "completeSet": "08",
+        "masterSet": "16",
+        "releaseDate": "Feb 07, 2020"
+    },
+    {
+        "id": "ot1",
+        "number": "01",
+        "name": "Southern Islands",
+        "series": "Other Series",
+        "completeSet": "18",
+        "masterSet": "18",
+        "releaseDate": "Jul 31, 2001"
+    },
+    {
+        "id": "ot2",
+        "number": "02",
+        "name": "Box Toppers (Legendary Collection)",
+        "series": "Other Series",
+        "completeSet": "04",
+        "masterSet": "04",
+        "releaseDate": "May 24, 2002"
+    },
+    {
+        "id": "ot3",
+        "number": "03",
+        "name": "Box Toppers (e-Card Series)",
+        "series": "Other Series",
+        "completeSet": "12",
+        "masterSet": "12",
+        "releaseDate": "Sep 15, 2002"
+    },
+    {
+        "id": "ot4",
+        "number": "04",
+        "name": "Best of Game",
+        "series": "Other Series",
+        "completeSet": "07",
+        "masterSet": "07",
+        "releaseDate": "Dec 01, 2002"
+    },
+    {
+        "id": "ot5",
+        "number": "05",
+        "name": "Poké Card Creator Pack",
+        "series": "Other Series",
+        "completeSet": "05",
+        "masterSet": "05",
+        "releaseDate": "Jul 01, 2004"
+    },
+    {
+        "id": "ot6",
+        "number": "06",
+        "name": "Pokémon Rumble",
+        "series": "Other Series",
+        "completeSet": "16",
+        "masterSet": "16",
+        "releaseDate": "Dec 02, 2009"
+    },
+    {
+        "id": "ot7",
+        "number": "07",
+        "name": "Pokémon Futsal",
+        "series": "Other Series",
+        "completeSet": "05",
+        "masterSet": "05",
+        "releaseDate": "Sep 11, 2020"
     }
 ]
