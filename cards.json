@@ -604,11 +604,11 @@
     "variants": [
         {
             "variant": "Unlimited",
-            "variantValue": "-"
+            "variantValue": " "
         },
         {
             "variant": "Shadowless",
-            "variantValue": "-"
+            "variantValue": " "
         },
         {
             "variant": "1st Edition Shadowless",
