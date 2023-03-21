@@ -1636,5 +1636,113 @@
         "completeSet": "05",
         "masterSet": "05",
         "releaseDate": "Sep 11, 2020"
+    },
+    {
+        "id": "topps1",
+        "number": "01",
+        "name": "Pokémon Series 1",
+        "series": "Topps Series",
+        "completeSet": "90",
+        "masterSet": "268",
+        "releaseDate": "------------"
+    },
+    {
+        "id": "topps2",
+        "number": "02",
+        "name": "Pokémon Series 2",
+        "series": "Topps Series",
+        "completeSet": "72",
+        "masterSet": "214",
+        "releaseDate": "------------"
+    },
+    {
+        "id": "topps3",
+        "number": "03",
+        "name": "Pokémon Series 3",
+        "series": "Topps Series",
+        "completeSet": "72",
+        "masterSet": "214",
+        "releaseDate": "------------"
+    },
+    {
+        "id": "topps4",
+        "number": "04",
+        "name": "Pokémon The First Movie",
+        "series": "Topps Series",
+        "completeSet": "72",
+        "masterSet": "244",
+        "releaseDate": "------------"
+    },
+    {
+        "id": "topps5",
+        "number": "05",
+        "name": "Pokémon The Movie 2000",
+        "series": "Topps Series",
+        "completeSet": "72",
+        "masterSet": "230",
+        "releaseDate": "------------"
+    },
+    {
+        "id": "topps6",
+        "number": "06",
+        "name": "Pokémon Johto Series 1",
+        "series": "Topps Series",
+        "completeSet": "90",
+        "masterSet": "275",
+        "releaseDate": "------------"
+    },
+    {
+        "id": "topps7",
+        "number": "07",
+        "name": "Pokémon Johto League Champions",
+        "series": "Topps Series",
+        "completeSet": "50",
+        "masterSet": "154",
+        "releaseDate": "------------"
+    },
+    {
+        "id": "topps8",
+        "number": "08",
+        "name": "Pokémon Johto Series 3",
+        "series": "Topps Series",
+        "completeSet": "70",
+        "masterSet": "139",
+        "releaseDate": "------------"
+    },
+    {
+        "id": "topps9",
+        "number": "09",
+        "name": "Pokémon Advanced",
+        "series": "Topps Series",
+        "completeSet": "90",
+        "masterSet": "206",
+        "releaseDate": "------------"
+    },
+    {
+        "id": "topps9",
+        "number": "09",
+        "name": "Pokémon Advanced Challenge",
+        "series": "Topps Series",
+        "completeSet": "90",
+        "masterSet": "206",
+        "releaseDate": "------------"
+    },
+    {
+        "id": "topps10",
+        "number": "10",
+        "name": "Pokémon Chrome Series 1",
+        "series": "Topps Series",
+        "completeSet": "78",
+        "masterSet": "312",
+        "releaseDate": "------------"
+    },
+    {
+        "id": "topps11",
+        "number": "11",
+        "name": "Pokémon Chrome Series 2",
+        "series": "Topps Series",
+        "completeSet": "73",
+        "masterSet": "292",
+        "releaseDate": "------------"
     }
 ]
