@@ -13,10 +13,22 @@
       "Psychic"
     ],
     "variants": [
-        "Unlimited": "-",
-        "Shadowless": "-",
-        "1st Edition Shadowless": "-",
-        "4th Print": "-"
+        {
+            "variant": "Unlimited",
+            "variantValue": "-"
+        },
+        {
+            "variant": "Shadowless",
+            "variantValue": "-"
+        },
+        {
+            "variant": "1st Edition Shadowless",
+            "variantValue": "-"
+        },
+        {
+            "variant": "4th Print",
+            "variantValue": "-"
+        }
     ],
     "evolvesFrom": "Kadabra",
     "abilities": [
