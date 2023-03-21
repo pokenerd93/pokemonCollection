@@ -1105,5 +1105,356 @@
         "completeSet": "17",
         "masterSet": "17",
         "releaseDate": "Mar 01, 2009"
+    },
+    {
+        "id": "mcd1",
+        "number": "01",
+        "name": "McDonald's Collection 2011",
+        "series": "McDonald's Series",
+        "completeSet": "12",
+        "masterSet": "12",
+        "releaseDate": "Jun 17, 2011"
+    },
+    {
+        "id": "mcd2",
+        "number": "02",
+        "name": "McDonald's Collection 2012",
+        "series": "McDonald's Series",
+        "completeSet": "12",
+        "masterSet": "12",
+        "releaseDate": "Jun 15, 2012"
+    },
+    {
+        "id": "mcd3",
+        "number": "03",
+        "name": "McDonald's Collection 2013",
+        "series": "McDonald's Series",
+        "completeSet": "12",
+        "masterSet": "12",
+        "releaseDate": "Oct 13, 2013"
+    },
+    {
+        "id": "mcd4",
+        "number": "04",
+        "name": "McDonald's Collection 2014",
+        "series": "McDonald's Series",
+        "completeSet": "12",
+        "masterSet": "12",
+        "releaseDate": "May 23, 2014"
+    },
+    {
+        "id": "mcd5",
+        "number": "05",
+        "name": "McDonald's Collection 2015",
+        "series": "McDonald's Series",
+        "completeSet": "12",
+        "masterSet": "12",
+        "releaseDate": "Nov 25, 2015"
+    },
+    {
+        "id": "mcd6",
+        "number": "06",
+        "name": "McDonald's Collection 2016",
+        "series": "McDonald's Series",
+        "completeSet": "12",
+        "masterSet": "12",
+        "releaseDate": "Aug 20, 2016"
+    },
+    {
+        "id": "mcd7",
+        "number": "07",
+        "name": "McDonald's Collection 2017",
+        "series": "McDonald's Series",
+        "completeSet": "12",
+        "masterSet": "12",
+        "releaseDate": "Aug 03, 2017"
+    },
+    {
+        "id": "mcd8",
+        "number": "08",
+        "name": "McDonald's Collection 2018",
+        "series": "McDonald's Series",
+        "completeSet": "12",
+        "masterSet": "12",
+        "releaseDate": "Oct 19, 2018"
+    },
+    {
+        "id": "mcd9",
+        "number": "09",
+        "name": "McDonald's Collection 2019",
+        "series": "McDonald's Series",
+        "completeSet": "12",
+        "masterSet": "12",
+        "releaseDate": "Oct 15, 2019"
+    },
+    {
+        "id": "mcd10",
+        "number": "10",
+        "name": "McDonald's Collection 2021",
+        "series": "McDonald's Series",
+        "completeSet": "25",
+        "masterSet": "50",
+        "releaseDate": "Feb 09, 2021"
+    },
+    {
+        "id": "mcd11",
+        "number": "11",
+        "name": "McDonald's Match Battle 2022",
+        "series": "McDonald's Series",
+        "completeSet": "15",
+        "masterSet": "15",
+        "releaseDate": "Aug 03, 2022"
+    },
+    {
+        "id": "tk1",
+        "number": "01",
+        "name": "EX Trainer Kit (Latias)",
+        "series": "Trainer/Deck Kits",
+        "completeSet": "10",
+        "masterSet": "10",
+        "releaseDate": "Jun 01, 2004"
+    },
+    {
+        "id": "tk2",
+        "number": "02",
+        "name": "EX Trainer Kit (Latios)",
+        "series": "Trainer/Deck Kits",
+        "completeSet": "10",
+        "masterSet": "10",
+        "releaseDate": "Jun 01, 2004"
+    },
+    {
+        "id": "tk3",
+        "number": "03",
+        "name": "EX Trainer Kit 2 (Minun)",
+        "series": "Trainer/Deck Kits",
+        "completeSet": "12",
+        "masterSet": "12",
+        "releaseDate": "Mar 15, 2005"
+    },
+    {
+        "id": "tk4",
+        "number": "04",
+        "name": "EX Trainer Kit 2 (Plusle)",
+        "series": "Trainer/Deck Kits",
+        "completeSet": "12",
+        "masterSet": "12",
+        "releaseDate": "Mar 15, 2005"
+    },
+    {
+        "id": "tk5",
+        "number": "05",
+        "name": "DP Trainer Kit (Lucario)",
+        "series": "Trainer/Deck Kits",
+        "completeSet": "11",
+        "masterSet": "11",
+        "releaseDate": "Sep 01, 2007"
+    },
+    {
+        "id": "tk6",
+        "number": "06",
+        "name": "DP Trainer Kit (Manaphy)",
+        "series": "Trainer/Deck Kits",
+        "completeSet": "12",
+        "masterSet": "12",
+        "releaseDate": "Sep 01, 2007"
+    },
+    {
+        "id": "tk7",
+        "number": "07",
+        "name": "HGSS Trainer Kit (Gyarados)",
+        "series": "Trainer/Deck Kits",
+        "completeSet": "30",
+        "masterSet": "30",
+        "releaseDate": "May 01, 2010"
+    },
+    {
+        "id": "tk8",
+        "number": "08",
+        "name": "HGSS Trainer Kit (Raichu)",
+        "series": "Trainer/Deck Kits",
+        "completeSet": "30",
+        "masterSet": "30",
+        "releaseDate": "May 01, 2010"
+    },
+    {
+        "id": "tk9",
+        "number": "09",
+        "name": "BW Trainer Kit (Excadrill)",
+        "series": "Trainer/Deck Kits",
+        "completeSet": "30",
+        "masterSet": "30",
+        "releaseDate": "Sep 01, 2011"
+    },
+    {
+        "id": "tk10",
+        "number": "10",
+        "name": "BW Trainer Kit (Zoroark)",
+        "series": "Trainer/Deck Kits",
+        "completeSet": "30",
+        "masterSet": "30",
+        "releaseDate": "Sep 01, 2011"
+    },
+    {
+        "id": "tk11",
+        "number": "11",
+        "name": "XY Trainer Kit (Noivern)",
+        "series": "Trainer/Deck Kits",
+        "completeSet": "30",
+        "masterSet": "30",
+        "releaseDate": "Mar 12, 2014"
+    },
+    {
+        "id": "tk12",
+        "number": "12",
+        "name": "XY Trainer Kit (Sylveon)",
+        "series": "Trainer/Deck Kits",
+        "completeSet": "30",
+        "masterSet": "30",
+        "releaseDate": "Mar 12, 2014"
+    },
+    {
+        "id": "tk13",
+        "number": "13",
+        "name": "XY Trainer Kit (Bisharp)",
+        "series": "Trainer/Deck Kits",
+        "completeSet": "30",
+        "masterSet": "30",
+        "releaseDate": "Nov 01, 2014"
+    },
+    {
+        "id": "tk14",
+        "number": "14",
+        "name": "XY Trainer Kit (Wigglytuff)",
+        "series": "Trainer/Deck Kits",
+        "completeSet": "30",
+        "masterSet": "30",
+        "releaseDate": "Nov 01, 2014"
+    },
+    {
+        "id": "tk15",
+        "number": "15",
+        "name": "XY Trainer Kit (Latias)",
+        "series": "Trainer/Deck Kits",
+        "completeSet": "30",
+        "masterSet": "30",
+        "releaseDate": "Apr 29, 2015"
+    },
+    {
+        "id": "tk16",
+        "number": "16",
+        "name": "XY Trainer Kit (Latios)",
+        "series": "Trainer/Deck Kits",
+        "completeSet": "30",
+        "masterSet": "30",
+        "releaseDate": "Apr 29, 2015"
+    },
+    {
+        "id": "tk17",
+        "number": "17",
+        "name": "XY Trainer Kit (Pikachu Libre)",
+        "series": "Trainer/Deck Kits",
+        "completeSet": "30",
+        "masterSet": "30",
+        "releaseDate": "Apr 27, 2016"
+    },
+    {
+        "id": "tk18",
+        "number": "18",
+        "name": "XY Trainer Kit (Suicune)",
+        "series": "Trainer/Deck Kits",
+        "completeSet": "30",
+        "masterSet": "30",
+        "releaseDate": "Apr 27, 2016"
+    },
+    {
+        "id": "tk19",
+        "number": "19",
+        "name": "SM Trainer Kit (Alolan Raichu)",
+        "series": "Trainer/Deck Kits",
+        "completeSet": "30",
+        "masterSet": "30",
+        "releaseDate": "Apr 21, 2017"
+    },
+    {
+        "id": "tk20",
+        "number": "20",
+        "name": "SM Trainer Kit (Lycanroc)",
+        "series": "Trainer/Deck Kits",
+        "completeSet": "30",
+        "masterSet": "30",
+        "releaseDate": "Apr 21, 2017"
+    },
+    {
+        "id": "tk21",
+        "number": "21",
+        "name": "SM Trainer Kit (Alolan Ninetales)",
+        "series": "Trainer/Deck Kits",
+        "completeSet": "30",
+        "masterSet": "30",
+        "releaseDate": "Jun 01, 2018"
+    },
+    {
+        "id": "tk22",
+        "number": "22",
+        "name": "SM Trainer Kit (Alolan Sandslash)",
+        "series": "Trainer/Deck Kits",
+        "completeSet": "30",
+        "masterSet": "30",
+        "releaseDate": "Jun 01, 2018"
+    },
+    {
+        "id": "tk23",
+        "number": "23",
+        "name": "Battle Academy 2020 (Charizard)",
+        "series": "Trainer/Deck Kits",
+        "completeSet": "60",
+        "masterSet": "60",
+        "releaseDate": "Jun 21, 2020"
+    },
+    {
+        "id": "tk24",
+        "number": "24",
+        "name": "Battle Academy 2020 (Mewtwo)",
+        "series": "Trainer/Deck Kits",
+        "completeSet": "17",
+        "masterSet": "17",
+        "releaseDate": "Jun 21, 2020"
+    },
+    {
+        "id": "tk25",
+        "number": "25",
+        "name": "Battle Academy 2020 (Pikachu)",
+        "series": "Trainer/Deck Kits",
+        "completeSet": "60",
+        "masterSet": "60",
+        "releaseDate": "Jun 21, 2020"
+    },
+    {
+        "id": "tk26",
+        "number": "26",
+        "name": "Battle Academy 2022 (Cinderace)",
+        "series": "Trainer/Deck Kits",
+        "completeSet": "60",
+        "masterSet": "60",
+        "releaseDate": "Mar 25, 2022"
+    },
+    {
+        "id": "tk27",
+        "number": "27",
+        "name": "Battle Academy 2022 (Eevee)",
+        "series": "Trainer/Deck Kits",
+        "completeSet": "18",
+        "masterSet": "18",
+        "releaseDate": "Mar 25, 2022"
+    },
+    {
+        "id": "tk28",
+        "number": "28",
+        "name": "Battle Academy 2022 (Pikachu)",
+        "series": "Trainer/Deck Kits",
+        "completeSet": "60",
+        "masterSet": "60",
+        "releaseDate": "Mar 25, 2022"
     }
 ]
