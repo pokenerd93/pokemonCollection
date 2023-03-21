@@ -77,5 +77,2010 @@
       "small": "https://images.pokemontcg.io/base1/1.png",
       "large": "https://images.pokemontcg.io/base1/1_hires.png"
     }
+  },
+  {
+    "id": "base1-2",
+    "name": "Blastoise",
+    "set": "Base Set",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 2"
+    ],
+    "level": "52",
+    "hp": "100",
+    "types": [
+      "Water"
+    ],
+    "variants": [
+        {
+            "variant": "Unlimited",
+            "variantValue": "-"
+        },
+        {
+            "variant": "Shadowless",
+            "variantValue": "-"
+        },
+        {
+            "variant": "1st Edition Shadowless",
+            "variantValue": "-"
+        },
+        {
+            "variant": "4th Print",
+            "variantValue": "-"
+        }
+    ],
+    "evolvesFrom": "Wartortle",
+    "abilities": [
+      {
+        "name": "Rain Dance",
+        "text": "As often as you like during your turn (before your attack), you may attach 1 Water Energy card to 1 of your Water Pokémon. (This doesn't use up your 1 Energy card attachment for the turn.) This power can't be used if Blastoise is Asleep, Confused, or Paralyzed.",
+        "type": "Pokémon Power"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Hydro Pump",
+        "cost": [
+          "Water",
+          "Water",
+          "Water"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "40+",
+        "text": "Does 40 damage plus 10 more damage for each Water Energy attached to Blastoise but not used to pay for this attack's Energy cost. Extra Water Energy after the 2nd doesn't count."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "2",
+    "artist": "Ken Sugimori",
+    "rarity": "Rare Holo",
+    "flavorText": "A brutal Pokémon with pressurized water jets on its shell. They are used for high-speed tackles.",
+    "nationalPokedexNumbers": [
+      9
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/base1/2.png",
+      "large": "https://images.pokemontcg.io/base1/2_hires.png"
+    }
+  },
+  {
+    "id": "base1-3",
+    "name": "Chansey",
+    "set": "Base Set",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "level": "55",
+    "hp": "120",
+    "types": [
+      "Colorless"
+    ],
+    "variants": [
+        {
+            "variant": "Unlimited",
+            "variantValue": "-"
+        },
+        {
+            "variant": "Shadowless",
+            "variantValue": "-"
+        },
+        {
+            "variant": "1st Edition Shadowless",
+            "variantValue": "-"
+        },
+        {
+            "variant": "4th Print",
+            "variantValue": "-"
+        }
+    ],
+    "evolvesTo": [
+      "Blissey"
+    ],
+    "attacks": [
+      {
+        "name": "Scrunch",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "",
+        "text": "Flip a coin. If heads, prevent all damage done to Chansey during your opponent's next turn. (Any other effects of attacks still happen.)"
+      },
+      {
+        "name": "Double-edge",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "80",
+        "text": "Chansey does 80 damage to itself."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Psychic",
+        "value": "-30"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "3",
+    "artist": "Ken Sugimori",
+    "rarity": "Rare Holo",
+    "flavorText": "A rare and elusive Pokémon that is said to bring happiness to those who manage to catch it.",
+    "nationalPokedexNumbers": [
+      113
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/base1/3.png",
+      "large": "https://images.pokemontcg.io/base1/3_hires.png"
+    }
+  },
+  {
+    "id": "base1-4",
+    "name": "Charizard",
+    "set": "Base Set",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 2"
+    ],
+    "level": "76",
+    "hp": "120",
+    "types": [
+      "Fire"
+    ],
+    "variants": [
+        {
+            "variant": "Unlimited",
+            "variantValue": "-"
+        },
+        {
+            "variant": "Shadowless",
+            "variantValue": "-"
+        },
+        {
+            "variant": "1st Edition Shadowless",
+            "variantValue": "-"
+        },
+        {
+            "variant": "4th Print",
+            "variantValue": "-"
+        }
+    ],
+    "evolvesFrom": "Charmeleon",
+    "abilities": [
+      {
+        "name": "Energy Burn",
+        "text": "As often as you like during your turn (before your attack), you may turn all Energy attached to Charizard into Fire Energy for the rest of the turn. This power can't be used if Charizard is Asleep, Confused, or Paralyzed.",
+        "type": "Pokémon Power"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Fire Spin",
+        "cost": [
+          "Fire",
+          "Fire",
+          "Fire",
+          "Fire"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "100",
+        "text": "Discard 2 Energy cards attached to Charizard in order to use this attack."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "4",
+    "artist": "Mitsuhiro Arita",
+    "rarity": "Rare Holo",
+    "flavorText": "Spits fire that is hot enough to melt boulders. Known to unintentionally cause forest fires.",
+    "nationalPokedexNumbers": [
+      6
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/base1/4.png",
+      "large": "https://images.pokemontcg.io/base1/4_hires.png"
+    }
+  },
+  {
+    "id": "base1-5",
+    "name": "Clefairy",
+    "set": "Base Set",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "level": "14",
+    "hp": "40",
+    "types": [
+      "Colorless"
+    ],
+    "variants": [
+        {
+            "variant": "Unlimited",
+            "variantValue": "-"
+        },
+        {
+            "variant": "Shadowless",
+            "variantValue": "-"
+        },
+        {
+            "variant": "1st Edition Shadowless",
+            "variantValue": "-"
+        },
+        {
+            "variant": "4th Print",
+            "variantValue": "-"
+        }
+    ],
+    "evolvesTo": [
+      "Clefable"
+    ],
+    "attacks": [
+      {
+        "name": "Sing",
+        "cost": [
+          "Colorless"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "",
+        "text": "Flip a coin. If heads, the Defending Pokémon is now Asleep."
+      },
+      {
+        "name": "Metronome",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "",
+        "text": "Choose 1 of the Defending Pokémon's attacks. Metronome copies that attack except for its Energy costs and anything else required in order to use that attack, such as discarding Energy cards. (No matter what type the Defending Pokémon is, Clefairy's type is still Colorless.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Psychic",
+        "value": "-30"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "5",
+    "artist": "Ken Sugimori",
+    "rarity": "Rare Holo",
+    "flavorText": "Its magical and cute appeal has many admirers. It is rare and found only in certain areas.",
+    "nationalPokedexNumbers": [
+      35
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/base1/5.png",
+      "large": "https://images.pokemontcg.io/base1/5_hires.png"
+    }
+  },
+  {
+    "id": "base1-6",
+    "name": "Gyarados",
+    "set": "Base Set",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "level": "41",
+    "hp": "100",
+    "types": [
+      "Water"
+    ],
+    "variants": [
+        {
+            "variant": "Unlimited",
+            "variantValue": "-"
+        },
+        {
+            "variant": "Shadowless",
+            "variantValue": "-"
+        },
+        {
+            "variant": "1st Edition Shadowless",
+            "variantValue": "-"
+        },
+        {
+            "variant": "4th Print",
+            "variantValue": "-"
+        }
+    ],
+    "evolvesFrom": "Magikarp",
+    "attacks": [
+      {
+        "name": "Dragon Rage",
+        "cost": [
+          "Water",
+          "Water",
+          "Water"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "50",
+        "text": ""
+      },
+      {
+        "name": "Bubblebeam",
+        "cost": [
+          "Water",
+          "Water",
+          "Water",
+          "Water"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "40",
+        "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "6",
+    "artist": "Mitsuhiro Arita",
+    "rarity": "Rare Holo",
+    "flavorText": "Rarely seen in the wild. Huge and vicious, it is capable of destroying entire cities in a rage.",
+    "nationalPokedexNumbers": [
+      130
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/base1/6.png",
+      "large": "https://images.pokemontcg.io/base1/6_hires.png"
+    }
+  },
+  {
+    "id": "base1-7",
+    "name": "Hitmonchan",
+    "set": "Base Set",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "level": "33",
+    "hp": "70",
+    "types": [
+      "Fighting"
+    ],
+    "variants": [
+        {
+            "variant": "Unlimited",
+            "variantValue": "-"
+        },
+        {
+            "variant": "Shadowless",
+            "variantValue": "-"
+        },
+        {
+            "variant": "1st Edition Shadowless",
+            "variantValue": "-"
+        },
+        {
+            "variant": "4th Print",
+            "variantValue": "-"
+        }
+    ],
+    "attacks": [
+      {
+        "name": "Jab",
+        "cost": [
+          "Fighting"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "20",
+        "text": ""
+      },
+      {
+        "name": "Special Punch",
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "40",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "7",
+    "artist": "Ken Sugimori",
+    "rarity": "Rare Holo",
+    "flavorText": "While seeming to do nothing, it fires punches in lightning-fast volleys that are impossible to see.",
+    "nationalPokedexNumbers": [
+      107
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/base1/7.png",
+      "large": "https://images.pokemontcg.io/base1/7_hires.png"
+    }
+  },
+  {
+    "id": "base1-8",
+    "name": "Machamp",
+    "set": "Base Set",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 2"
+    ],
+    "level": "67",
+    "hp": "100",
+    "types": [
+      "Fighting"
+    ],
+    "variants": [
+        {
+            "variant": "Unlimited",
+            "variantValue": "-"
+        },
+        {
+            "variant": "Shadowless",
+            "variantValue": "-"
+        },
+        {
+            "variant": "1st Edition Shadowless",
+            "variantValue": "-"
+        },
+        {
+            "variant": "4th Print",
+            "variantValue": "-"
+        }
+    ],
+    "evolvesFrom": "Machoke",
+    "abilities": [
+      {
+        "name": "Strikes Back",
+        "text": "Whenever your opponent's attack damages Machamp (even if Machamp is Knocked Out), this power does 10 damage to the attacking Pokémon. (Don't apply Weakness and Resistance.) This power can't be used if Machamp is Asleep, Confused, or Paralyzed when your opponent attacks.",
+        "type": "Pokémon Power"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Seismic Toss",
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Fighting",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "60",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "8",
+    "artist": "Ken Sugimori",
+    "rarity": "Rare Holo",
+    "flavorText": "Using its amazing muscles, it throws powerful punches that can knock its victim clear over the horizon.",
+    "nationalPokedexNumbers": [
+      68
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/base1/8.png",
+      "large": "https://images.pokemontcg.io/base1/8_hires.png"
+    }
+  },
+  {
+    "id": "base1-9",
+    "name": "Magneton",
+    "set": "Base Set",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "level": "28",
+    "hp": "60",
+    "types": [
+      "Lightning"
+    ],
+    "variants": [
+        {
+            "variant": "Unlimited",
+            "variantValue": "-"
+        },
+        {
+            "variant": "Shadowless",
+            "variantValue": "-"
+        },
+        {
+            "variant": "1st Edition Shadowless",
+            "variantValue": "-"
+        },
+        {
+            "variant": "4th Print",
+            "variantValue": "-"
+        }
+    ],
+    "evolvesFrom": "Magnemite",
+    "evolvesTo": [
+      "Magnezone"
+    ],
+    "attacks": [
+      {
+        "name": "Thunder Wave",
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "30",
+        "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+      },
+      {
+        "name": "Selfdestruct",
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "80",
+        "text": "Does 20 damage to each Pokémon on each player's Bench. (Don't apply Weakness and Resistance for Benched Pokémon.) Magneton does 80 damage to itself."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "9",
+    "artist": "Keiji Kinebuchi",
+    "rarity": "Rare Holo",
+    "flavorText": "Formed by several Magnemites linked together. It frequently appears when sunspots flare up.",
+    "nationalPokedexNumbers": [
+      82
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/base1/9.png",
+      "large": "https://images.pokemontcg.io/base1/9_hires.png"
+    }
+  },
+  {
+    "id": "base1-10",
+    "name": "Mewtwo",
+    "set": "Base Set",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "level": "53",
+    "hp": "60",
+    "types": [
+      "Psychic"
+    ],
+    "variants": [
+        {
+            "variant": "Unlimited",
+            "variantValue": "-"
+        },
+        {
+            "variant": "Shadowless",
+            "variantValue": "-"
+        },
+        {
+            "variant": "1st Edition Shadowless",
+            "variantValue": "-"
+        },
+        {
+            "variant": "4th Print",
+            "variantValue": "-"
+        }
+    ],
+    "attacks": [
+      {
+        "name": "Psychic",
+        "cost": [
+          "Psychic",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "10+",
+        "text": "Does 10 damage plus 10 more damage for each Energy card attached to the Defending Pokémon."
+      },
+      {
+        "name": "Barrier",
+        "cost": [
+          "Psychic",
+          "Psychic"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "",
+        "text": "Discard 1 Psychic Energy card attached to Mewtwo in order to prevent all effects of attacks, including damage, done to Mewtwo during your opponent's next turn."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "10",
+    "artist": "Ken Sugimori",
+    "rarity": "Rare Holo",
+    "flavorText": "A scientist created this Pokémon after years of horrific gene-splicing and DNA engineering experiments.",
+    "nationalPokedexNumbers": [
+      150
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/base1/10.png",
+      "large": "https://images.pokemontcg.io/base1/10_hires.png"
+    }
+  },
+  {
+    "id": "base1-11",
+    "name": "Nidoking",
+    "set": "Base Set",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 2"
+    ],
+    "level": "23",
+    "hp": "90",
+    "types": [
+      "Grass"
+    ],
+    "variants": [
+        {
+            "variant": "Unlimited",
+            "variantValue": "-"
+        },
+        {
+            "variant": "Shadowless",
+            "variantValue": "-"
+        },
+        {
+            "variant": "1st Edition Shadowless",
+            "variantValue": "-"
+        },
+        {
+            "variant": "4th Print",
+            "variantValue": "-"
+        }
+    ],
+    "evolvesFrom": "Nidorino",
+    "attacks": [
+      {
+        "name": "Thrash",
+        "cost": [
+          "Grass",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "30+",
+        "text": "Flip a coin. If heads, this attack does 30 damage plus 10 more damage; if tails, this attack does 30 damage and Nidoking does 10 damage to itself."
+      },
+      {
+        "name": "Toxic",
+        "cost": [
+          "Grass",
+          "Grass",
+          "Grass"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "20",
+        "text": "The Defending Pokémon is now Poisoned. It now takes 20 Poison damage instead of 10 after each player's turn (even if it was already Poisoned)."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Psychic",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "11",
+    "artist": "Ken Sugimori",
+    "rarity": "Rare Holo",
+    "flavorText": "Uses its powerful tail in battle to smash, constrict, then break its prey's bones.",
+    "nationalPokedexNumbers": [
+      34
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/base1/11.png",
+      "large": "https://images.pokemontcg.io/base1/11_hires.png"
+    }
+  },
+  {
+    "id": "base1-12",
+    "name": "Ninetales",
+    "set": "Base Set",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "level": "32",
+    "hp": "80",
+    "types": [
+      "Fire"
+    ],
+    "variants": [
+        {
+            "variant": "Unlimited",
+            "variantValue": "-"
+        },
+        {
+            "variant": "Shadowless",
+            "variantValue": "-"
+        },
+        {
+            "variant": "1st Edition Shadowless",
+            "variantValue": "-"
+        },
+        {
+            "variant": "4th Print",
+            "variantValue": "-"
+        }
+    ],
+    "evolvesFrom": "Vulpix",
+    "attacks": [
+      {
+        "name": "Lure",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "",
+        "text": "If your opponent has any Benched Pokémon, choose 1 of them and switch it with his or her Active Pokémon."
+      },
+      {
+        "name": "Fire Blast",
+        "cost": [
+          "Fire",
+          "Fire",
+          "Fire",
+          "Fire"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "80",
+        "text": "Discard 1 Fire Energy card attached to Ninetales in order to use this attack."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "12",
+    "artist": "Ken Sugimori",
+    "rarity": "Rare Holo",
+    "flavorText": "Very smart and very vengeful. Grabbing one of its many tails could result in a 1,000-year curse.",
+    "nationalPokedexNumbers": [
+      38
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/base1/12.png",
+      "large": "https://images.pokemontcg.io/base1/12_hires.png"
+    }
+  },
+  {
+    "id": "base1-13",
+    "name": "Poliwrath",
+    "set": "Base Set",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 2"
+    ],
+    "level": "48",
+    "hp": "90",
+    "types": [
+      "Water"
+    ],
+    "variants": [
+        {
+            "variant": "Unlimited",
+            "variantValue": "-"
+        },
+        {
+            "variant": "Shadowless",
+            "variantValue": "-"
+        },
+        {
+            "variant": "1st Edition Shadowless",
+            "variantValue": "-"
+        },
+        {
+            "variant": "4th Print",
+            "variantValue": "-"
+        }
+    ],
+    "evolvesFrom": "Poliwhirl",
+    "attacks": [
+      {
+        "name": "Water Gun",
+        "cost": [
+          "Water",
+          "Water",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "30+",
+        "text": "Does 30 damage plus 10 more damage for each Water Energy attached to Poliwrath but not used to pay for this attack's Energy cost. Extra Water Energy after the 2nd doesn't count."
+      },
+      {
+        "name": "Whirlpool",
+        "cost": [
+          "Water",
+          "Water",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "40",
+        "text": "If the Defending Pokémon has any Energy cards attached to it, choose 1 of them and discard it."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "13",
+    "artist": "Ken Sugimori",
+    "rarity": "Rare Holo",
+    "flavorText": "An adept swimmer at both the front crawl and breaststroke. Easily overtakes the best human swimmers.",
+    "nationalPokedexNumbers": [
+      62
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/base1/13.png",
+      "large": "https://images.pokemontcg.io/base1/13_hires.png"
+    }
+  },
+  {
+    "id": "base1-14",
+    "name": "Raichu",
+    "set": "Base Set",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "level": "40",
+    "hp": "80",
+    "types": [
+      "Lightning"
+    ],
+    "variants": [
+        {
+            "variant": "Unlimited",
+            "variantValue": "-"
+        },
+        {
+            "variant": "Shadowless",
+            "variantValue": "-"
+        },
+        {
+            "variant": "1st Edition Shadowless",
+            "variantValue": "-"
+        },
+        {
+            "variant": "4th Print",
+            "variantValue": "-"
+        }
+    ],
+    "evolvesFrom": "Pikachu",
+    "attacks": [
+      {
+        "name": "Agility",
+        "cost": [
+          "Lightning",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "20",
+        "text": "Flip a coin. If heads, during your opponent's next turn, prevent all effects of attacks, including damage, done to Raichu."
+      },
+      {
+        "name": "Thunder",
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Lightning",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "60",
+        "text": "Flip a coin. If tails, Raichu does 30 damage to itself."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "14",
+    "artist": "Ken Sugimori",
+    "rarity": "Rare Holo",
+    "flavorText": "Its long tail serves as a ground to protect itself from its own high-voltage power.",
+    "nationalPokedexNumbers": [
+      26
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/base1/14.png",
+      "large": "https://images.pokemontcg.io/base1/14_hires.png"
+    }
+  },
+  {
+    "id": "base1-15",
+    "name": "Venusaur",
+    "set": "Base Set",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 2"
+    ],
+    "level": "67",
+    "hp": "100",
+    "types": [
+      "Grass"
+    ],
+    "variants": [
+        {
+            "variant": "Unlimited",
+            "variantValue": "-"
+        },
+        {
+            "variant": "Shadowless",
+            "variantValue": "-"
+        },
+        {
+            "variant": "1st Edition Shadowless",
+            "variantValue": "-"
+        },
+        {
+            "variant": "4th Print",
+            "variantValue": "-"
+        }
+    ],
+    "evolvesFrom": "Ivysaur",
+    "abilities": [
+      {
+        "name": "Energy Trans",
+        "text": "As often as you like during your turn (before your attack), you may take 1 Grass Energy card attached to 1 of your Pokémon and attach it to a different one. This power can't be used if Venusaur is Asleep, Confused, or Paralyzed.",
+        "type": "Pokémon Power"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Solarbeam",
+        "cost": [
+          "Grass",
+          "Grass",
+          "Grass",
+          "Grass"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "60",
+        "text": ""
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "15",
+    "artist": "Mitsuhiro Arita",
+    "rarity": "Rare Holo",
+    "flavorText": "This plant blooms when it is absorbing solar energy. It stays on the move to seek sunlight.",
+    "nationalPokedexNumbers": [
+      3
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/base1/15.png",
+      "large": "https://images.pokemontcg.io/base1/15_hires.png"
+    }
+  },
+  {
+    "id": "base1-16",
+    "name": "Zapdos",
+    "set": "Base Set",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "level": "64",
+    "hp": "90",
+    "types": [
+      "Lightning"
+    ],
+    "variants": [
+        {
+            "variant": "Unlimited",
+            "variantValue": "-"
+        },
+        {
+            "variant": "Shadowless",
+            "variantValue": "-"
+        },
+        {
+            "variant": "1st Edition Shadowless",
+            "variantValue": "-"
+        },
+        {
+            "variant": "4th Print",
+            "variantValue": "-"
+        }
+    ],
+    "attacks": [
+      {
+        "name": "Thunder",
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Lightning",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "60",
+        "text": "Flip a coin. If tails, Zapdos does 30 damage to itself."
+      },
+      {
+        "name": "Thunderbolt",
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Lightning",
+          "Lightning"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "100",
+        "text": "Discard all Energy cards attached to Zapdos in order to use this attack."
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "16",
+    "artist": "Ken Sugimori",
+    "rarity": "Rare Holo",
+    "flavorText": "A legendary bird Pokémon said to appear from clouds while wielding enormous lightning bolts.",
+    "nationalPokedexNumbers": [
+      145
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/base1/16.png",
+      "large": "https://images.pokemontcg.io/base1/16_hires.png"
+    }
+  },
+  {
+    "id": "base1-17",
+    "name": "Beedrill",
+    "set": "Base Set",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 2"
+    ],
+    "level": "32",
+    "hp": "80",
+    "types": [
+      "Grass"
+    ],
+    "variants": [
+        {
+            "variant": "Unlimited",
+            "variantValue": "-"
+        },
+        {
+            "variant": "Shadowless",
+            "variantValue": "-"
+        },
+        {
+            "variant": "1st Edition Shadowless",
+            "variantValue": "-"
+        },
+        {
+            "variant": "4th Print",
+            "variantValue": "-"
+        }
+    ],
+    "evolvesFrom": "Kakuna",
+    "attacks": [
+      {
+        "name": "Twineedle",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "30×",
+        "text": "Flip 2 coins. This attack does 30 damage times the number of heads."
+      },
+      {
+        "name": "Poison Sting",
+        "cost": [
+          "Grass",
+          "Grass",
+          "Grass"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "40",
+        "text": "Flip a coin. If heads, the Defending Pokémon is now Poisoned."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fire",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "number": "17",
+    "artist": "Ken Sugimori",
+    "rarity": "Rare",
+    "flavorText": "Flies at high speed and attacks using the large, venomous stingers on its forelegs and tail.",
+    "nationalPokedexNumbers": [
+      15
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/base1/17.png",
+      "large": "https://images.pokemontcg.io/base1/17_hires.png"
+    }
+  },
+  {
+    "id": "base1-18",
+    "name": "Dragonair",
+    "set": "Base Set",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "level": "33",
+    "hp": "80",
+    "types": [
+      "Colorless"
+    ],
+    "variants": [
+        {
+            "variant": "Unlimited",
+            "variantValue": "-"
+        },
+        {
+            "variant": "Shadowless",
+            "variantValue": "-"
+        },
+        {
+            "variant": "1st Edition Shadowless",
+            "variantValue": "-"
+        },
+        {
+            "variant": "4th Print",
+            "variantValue": "-"
+        }
+    ],
+    "evolvesFrom": "Dratini",
+    "evolvesTo": [
+      "Dragonite"
+    ],
+    "attacks": [
+      {
+        "name": "Slam",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "30×",
+        "text": "Flip 2 coins. This attack does 30 damage times the number of heads."
+      },
+      {
+        "name": "Hyper Beam",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "20",
+        "text": "If the Defending Pokémon has any Energy cards attached to it, choose 1 of them and discard it."
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Psychic",
+        "value": "-30"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "18",
+    "artist": "Mitsuhiro Arita",
+    "rarity": "Rare",
+    "flavorText": "A mystical Pokémon that exudes a gentle aura. Has the ability to change climate conditions.",
+    "nationalPokedexNumbers": [
+      148
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/base1/18.png",
+      "large": "https://images.pokemontcg.io/base1/18_hires.png"
+    }
+  },
+  {
+    "id": "base1-19",
+    "name": "Dugtrio",
+    "set": "Base Set",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "level": "36",
+    "hp": "70",
+    "types": [
+      "Fighting"
+    ],
+    "variants": [
+        {
+            "variant": "Unlimited",
+            "variantValue": "-"
+        },
+        {
+            "variant": "Shadowless",
+            "variantValue": "-"
+        },
+        {
+            "variant": "1st Edition Shadowless",
+            "variantValue": "-"
+        },
+        {
+            "variant": "4th Print",
+            "variantValue": "-"
+        }
+    ],
+    "evolvesFrom": "Diglett",
+    "attacks": [
+      {
+        "name": "Slash",
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "40",
+        "text": ""
+      },
+      {
+        "name": "Earthquake",
+        "cost": [
+          "Fighting",
+          "Fighting",
+          "Fighting",
+          "Fighting"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "70",
+        "text": "Does 10 damage to each of your own Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Grass",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Lightning",
+        "value": "-30"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "19",
+    "artist": "Keiji Kinebuchi",
+    "rarity": "Rare",
+    "flavorText": "A team of Diglett triplets. It triggers huge earthquakes by burrowing 60 miles underground.",
+    "nationalPokedexNumbers": [
+      51
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/base1/19.png",
+      "large": "https://images.pokemontcg.io/base1/19_hires.png"
+    }
+  },
+  {
+    "id": "base1-20",
+    "name": "Electabuzz",
+    "set": "Base Set",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Basic"
+    ],
+    "level": "35",
+    "hp": "70",
+    "types": [
+      "Lightning"
+    ],
+    "variants": [
+        {
+            "variant": "Unlimited",
+            "variantValue": "-"
+        },
+        {
+            "variant": "Shadowless",
+            "variantValue": "-"
+        },
+        {
+            "variant": "1st Edition Shadowless",
+            "variantValue": "-"
+        },
+        {
+            "variant": "4th Print",
+            "variantValue": "-"
+        }
+    ],
+    "evolvesTo": [
+      "Electivire"
+    ],
+    "attacks": [
+      {
+        "name": "Thundershock",
+        "cost": [
+          "Lightning"
+        ],
+        "convertedEnergyCost": 1,
+        "damage": "10",
+        "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+      },
+      {
+        "name": "Thunderpunch",
+        "cost": [
+          "Lightning",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "30+",
+        "text": "Flip a coin. If heads, this attack does 30 damage plus 10 more damage; if tails, this attack does 30 damage plus Electabuzz does 10 damage to itself."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 2,
+    "number": "20",
+    "artist": "Ken Sugimori",
+    "rarity": "Rare",
+    "flavorText": "Normally found near power plants, it can wander away and cause major blackouts in cities.",
+    "nationalPokedexNumbers": [
+      125
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/base1/20.png",
+      "large": "https://images.pokemontcg.io/base1/20_hires.png"
+    }
+  },
+  {
+    "id": "base1-21",
+    "name": "Electrode",
+    "set": "Base Set",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "level": "40",
+    "hp": "80",
+    "types": [
+      "Lightning"
+    ],
+    "variants": [
+        {
+            "variant": "Unlimited",
+            "variantValue": "-"
+        },
+        {
+            "variant": "Shadowless",
+            "variantValue": "-"
+        },
+        {
+            "variant": "1st Edition Shadowless",
+            "variantValue": "-"
+        },
+        {
+            "variant": "4th Print",
+            "variantValue": "-"
+        }
+    ],
+    "evolvesFrom": "Voltorb",
+    "abilities": [
+      {
+        "name": "Buzzap",
+        "text": "At any time during your turn (before your attack), you may Knock Out Electrode and attach it to 1 of your other Pokémon. If you do, choose a type of Energy. Electrode is now an Energy card (instead of a Pokémon) that provides 2 energy of that type. You can't use this power if Electrode is Asleep, Confused, or Paralyzed.",
+        "type": "Pokémon Power"
+      }
+    ],
+    "attacks": [
+      {
+        "name": "Electric Shock",
+        "cost": [
+          "Lightning",
+          "Lightning",
+          "Lightning"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "50",
+        "text": "Flip a coin. If tails, Electrode does 10 damage to itself."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Fighting",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "21",
+    "artist": "Keiji Kinebuchi",
+    "rarity": "Rare",
+    "flavorText": "It stores electrical energy under very high pressure. It often explodes with little or no provocation.",
+    "nationalPokedexNumbers": [
+      101
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/base1/21.png",
+      "large": "https://images.pokemontcg.io/base1/21_hires.png"
+    }
+  },
+  {
+    "id": "base1-22",
+    "name": "Pidgeotto",
+    "set": "Base Set",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "level": "36",
+    "hp": "60",
+    "types": [
+      "Colorless"
+    ],
+    "variants": [
+        {
+            "variant": "Unlimited",
+            "variantValue": "-"
+        },
+        {
+            "variant": "Shadowless",
+            "variantValue": "-"
+        },
+        {
+            "variant": "1st Edition Shadowless",
+            "variantValue": "-"
+        },
+        {
+            "variant": "4th Print",
+            "variantValue": "-"
+        }
+    ],
+    "evolvesFrom": "Pidgey",
+    "evolvesTo": [
+      "Pidgeot"
+    ],
+    "attacks": [
+      {
+        "name": "Whirlwind",
+        "cost": [
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 2,
+        "damage": "20",
+        "text": "If your opponent has any Benched Pokémon, he or she chooses 1 of them and switches it with the Defending Pokémon. (Do the damage before switching the Pokémon.)"
+      },
+      {
+        "name": "Mirror Move",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "",
+        "text": "If Pidgeotto was attacked last turn, do the final result of that attack on Pidgeotto to the Defending Pokémon."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "resistances": [
+      {
+        "type": "Fighting",
+        "value": "-30"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "22",
+    "artist": "Ken Sugimori",
+    "rarity": "Rare",
+    "flavorText": "Very protective of its sprawling territory, this Pokémon will fiercely peck at any intruder.",
+    "nationalPokedexNumbers": [
+      17
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/base1/22.png",
+      "large": "https://images.pokemontcg.io/base1/22_hires.png"
+    }
+  },
+  {
+    "id": "base1-23",
+    "name": "Arcanine",
+    "set": "Base Set",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "level": "45",
+    "hp": "100",
+    "types": [
+      "Fire"
+    ],
+    "variants": [
+        {
+            "variant": "Unlimited",
+            "variantValue": "-"
+        },
+        {
+            "variant": "Shadowless",
+            "variantValue": "-"
+        },
+        {
+            "variant": "1st Edition Shadowless",
+            "variantValue": "-"
+        },
+        {
+            "variant": "4th Print",
+            "variantValue": "-"
+        }
+    ],
+    "evolvesFrom": "Growlithe",
+    "attacks": [
+      {
+        "name": "Flamethrower",
+        "cost": [
+          "Fire",
+          "Fire",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "50",
+        "text": "Discard 1 Fire Energy card attached to Arcanine in order to use this attack."
+      },
+      {
+        "name": "Take Down",
+        "cost": [
+          "Fire",
+          "Fire",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "80",
+        "text": "Arcanine does 30 damage to itself."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "23",
+    "artist": "Ken Sugimori",
+    "rarity": "Uncommon",
+    "flavorText": "A Pokémon that has been long admired for its beauty. It runs gracefully, as if on wings.",
+    "nationalPokedexNumbers": [
+      59
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/base1/23.png",
+      "large": "https://images.pokemontcg.io/base1/23_hires.png"
+    }
+  },
+  {
+    "id": "base1-24",
+    "name": "Charmeleon",
+    "set": "Base Set",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "level": "32",
+    "hp": "80",
+    "types": [
+      "Fire"
+    ],
+    "variants": [
+        {
+            "variant": "Unlimited",
+            "variantValue": "-"
+        },
+        {
+            "variant": "Shadowless",
+            "variantValue": "-"
+        },
+        {
+            "variant": "1st Edition Shadowless",
+            "variantValue": "-"
+        },
+        {
+            "variant": "4th Print",
+            "variantValue": "-"
+        }
+    ],
+    "evolvesFrom": "Charmander",
+    "evolvesTo": [
+      "Charizard"
+    ],
+    "attacks": [
+      {
+        "name": "Slash",
+        "cost": [
+          "Colorless",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "30",
+        "text": ""
+      },
+      {
+        "name": "Flamethrower",
+        "cost": [
+          "Fire",
+          "Fire",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "50",
+        "text": "Discard 1 Fire Energy card attached to Charmeleon in order to use this attack."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Water",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless"
+    ],
+    "convertedRetreatCost": 1,
+    "number": "24",
+    "artist": "Mitsuhiro Arita",
+    "rarity": "Uncommon",
+    "flavorText": "When it swings its burning tail, it raises the temperature to unbearably high levels.",
+    "nationalPokedexNumbers": [
+      5
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/base1/24.png",
+      "large": "https://images.pokemontcg.io/base1/24_hires.png"
+    }
+  },
+  {
+    "id": "base1-25",
+    "name": "Dewgong",
+    "set": "Base Set",
+    "supertype": "Pokémon",
+    "subtypes": [
+      "Stage 1"
+    ],
+    "level": "42",
+    "hp": "80",
+    "types": [
+      "Water"
+    ],
+    "variants": [
+        {
+            "variant": "Unlimited",
+            "variantValue": "-"
+        },
+        {
+            "variant": "Shadowless",
+            "variantValue": "-"
+        },
+        {
+            "variant": "1st Edition Shadowless",
+            "variantValue": "-"
+        },
+        {
+            "variant": "4th Print",
+            "variantValue": "-"
+        }
+    ],
+    "evolvesFrom": "Seel",
+    "attacks": [
+      {
+        "name": "Aurora Beam",
+        "cost": [
+          "Water",
+          "Water",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 3,
+        "damage": "50",
+        "text": ""
+      },
+      {
+        "name": "Ice Beam",
+        "cost": [
+          "Water",
+          "Water",
+          "Colorless",
+          "Colorless"
+        ],
+        "convertedEnergyCost": 4,
+        "damage": "30",
+        "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
+      }
+    ],
+    "weaknesses": [
+      {
+        "type": "Lightning",
+        "value": "×2"
+      }
+    ],
+    "retreatCost": [
+      "Colorless",
+      "Colorless",
+      "Colorless"
+    ],
+    "convertedRetreatCost": 3,
+    "number": "25",
+    "artist": "Mitsuhiro Arita",
+    "rarity": "Uncommon",
+    "flavorText": "Stores thermal energy in its body. Swims at a steady 8 knots even in intensely cold waters.",
+    "nationalPokedexNumbers": [
+      87
+    ],
+    "legalities": {
+      "unlimited": "Legal"
+    },
+    "images": {
+      "small": "https://images.pokemontcg.io/base1/25.png",
+      "large": "https://images.pokemontcg.io/base1/25_hires.png"
+    }
   }
 ]
