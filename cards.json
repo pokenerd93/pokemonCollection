@@ -3910,6 +3910,7 @@
   {
     "id": "base1-49",
     "name": "Drowzee",
+    "set": "Base Set",
     "supertype": "Pokémon",
     "subtypes": [
       "Basic"
