@@ -604,11 +604,11 @@
     "variants": [
         {
             "variant": "Unlimited",
-            "variantValue": "-"
+            "variantValue": " "
         },
         {
             "variant": "Shadowless",
-            "variantValue": "-"
+            "variantValue": " "
         },
         {
             "variant": "1st Edition Shadowless",
@@ -6500,6 +6500,7 @@
     "name": "Fighting Energy",
     "set": "Base Set",
     "supertype": "Energy",
+    "valid": "Yes",
     "variants": [
         {
             "variant": "Unlimited",
@@ -6538,6 +6539,7 @@
     "name": "Fire Energy",
     "set": "Base Set",
     "supertype": "Energy",
+    "valid": "Yes",
     "variants": [
         {
             "variant": "Unlimited",
@@ -6576,6 +6578,7 @@
     "name": "Grass Energy",
     "set": "Base Set",
     "supertype": "Energy",
+    "valid": "Yes",
     "variants": [
         {
             "variant": "Unlimited",
@@ -6614,6 +6617,7 @@
     "name": "Lightning Energy",
     "set": "Base Set",
     "supertype": "Energy",
+    "valid": "Yes",
     "variants": [
         {
             "variant": "Unlimited",
@@ -6652,6 +6656,7 @@
     "name": "Psychic Energy",
     "set": "Base Set",
     "supertype": "Energy",
+    "valid": "Yes",
     "variants": [
         {
             "variant": "Unlimited",
@@ -6690,6 +6695,7 @@
     "name": "Water Energy",
     "set": "Base Set",
     "supertype": "Energy",
+    "valid": "Yes",
     "variants": [
         {
             "variant": "Unlimited",
