@@ -1,5 +1,16 @@
 [
     "promo":[
+        {
+            "id": "base1",
+            "name": "Base Set",
+            "series": "Base",
+            "ptcgoCode": "BS",
+            "releaseDate": "Jan 09, 1999",
+            "completeSet": "102",
+            "masterSet": "391",
+            "logo": "https://images.pokemontcg.io/base1/logo.png",
+            "symbol": "https://images.pokemontcg.io/base1/symbol.png"
+        }
     ],
     "base":[
         {
