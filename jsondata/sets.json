@@ -135,6 +135,109 @@
             "logo": "https://images.pokemontcg.io/neo4/logo.png"
         }
     ],
+    "ecard": [
+        {
+            "id": "ecard1",
+            "name": "Expedition Base Set",
+            "series": "E-Card",
+            "completeSet": 165,
+            "masterSet": 330,
+            "ptcgoCode": "EX",
+            "releaseDate": "Sep 15, 2002",
+            "symbol": "https://images.pokemontcg.io/ecard1/symbol.png",
+            "logo": "https://images.pokemontcg.io/ecard1/logo.png"
+        },
+        {
+            "id": "ecard2",
+            "name": "Aquapolis",
+            "series": "E-Card",
+            "completeSet": 147,
+            "masterSet": 329,
+            "ptcgoCode": "AQ",
+            "releaseDate": "Jan 01, 2003",
+            "symbol": "https://images.pokemontcg.io/ecard2/symbol.png",
+            "logo": "https://images.pokemontcg.io/ecard2/logo.png"
+        },
+        {
+            "id": "ecard3",
+            "name": "Skyridge",
+            "series": "E-Card",
+            "completeSet": 182,
+            "masterSet": 364,
+            "ptcgoCode": "SK",
+            "releaseDate": "May 12, 2003",
+            "symbol": "https://images.pokemontcg.io/ecard3/symbol.png",
+            "logo": "https://images.pokemontcg.io/ecard3/logo.png"
+        }
+    ],
+    "ex": [
+        {
+            "id": "ex1",
+            "name": "EX Ruby & Sapphire",
+            "series": "EX",
+            "completeSet": 109,
+            "masterSet": 218,
+            "ptcgoCode": "RS",
+            "releaseDate": "Jul 01, 2003",
+            "symbol": "https://images.pokemontcg.io/ex1/symbol.png",
+            "logo": "https://images.pokemontcg.io/ex1/logo.png"
+        },
+        {
+            "id": "ex2",
+            "name": "EX Sandstorm",
+            "series": "EX",
+            "completeSet": 100,
+            "masterSet": 200,
+            "ptcgoCode": "SS",
+            "releaseDate": "Sep 18, 2003",
+            "symbol": "https://images.pokemontcg.io/ex2/symbol.png",
+            "logo": "https://images.pokemontcg.io/ex2/logo.png"
+        },
+        {
+            "id": "ex3",
+            "name": "EX Dragon",
+            "series": "EX",
+            "completeSet": 97,
+            "masterSet": 197,
+            "ptcgoCode": "DR",
+            "releaseDate": "Sep 18, 2003",
+            "symbol": "https://images.pokemontcg.io/ex3/symbol.png",
+            "logo": "https://images.pokemontcg.io/ex3/logo.png"
+        },
+        {
+            "id": "ex4",
+            "name": "EX Team Magma vs Team Aqua",
+            "series": "EX",
+            "completeSet": 95,
+            "masterSet": 192,
+            "ptcgoCode": "MA",
+            "releaseDate": "Mar 01, 2004",
+            "symbol": "https://images.pokemontcg.io/ex4/symbol.png",
+            "logo": "https://images.pokemontcg.io/ex4/logo.png"
+        },
+        {
+            "id": "ex5",
+            "name": "EX Hidden Legends",
+            "series": "EX",
+            "completeSet": 101,
+            "masterSet": 203,
+            "ptcgoCode": "HL",
+            "releaseDate": "Jun 01, 2004",
+            "symbol": "https://images.pokemontcg.io/ex5/symbol.png",
+            "logo": "https://images.pokemontcg.io/ex5/logo.png"
+        },
+        {
+            "id": "ex6",
+            "name": "EX FireRed & LeafGreen",
+            "series": "EX",
+            "completeSet": 112,
+            "masterSet": 228,
+            "ptcgoCode": "RG",
+            "releaseDate": "Sep 01, 2004",
+            "symbol": "https://images.pokemontcg.io/ex6/symbol.png",
+            "logo": "https://images.pokemontcg.io/ex6/logo.png"
+        }
+    ],
     "page": 1,
     "pageSize": 250,
     "count": 151,
