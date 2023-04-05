@@ -1,106 +1,104 @@
 {
-    "base":[
+    "base": [
         {
             "id": "base1",
             "name": "Base Set",
             "series": "Base",
+            "printedTotal": 102,
+            "total": 102,
             "ptcgoCode": "BS",
-            "releaseDate": "Jan 09, 1999",
-            "completeSet": "102",
-            "masterSet": "391",
-            "logo": "https://images.pokemontcg.io/base1/logo.png",
-            "symbol": "https://images.pokemontcg.io/base1/symbol.png"
+            "releaseDate": "1999/01/09",
+            "updatedAt": "2022/10/10 15:12:00",
+            "symbol": "https://images.pokemontcg.io/base1/symbol.png",
+            "logo": "https://images.pokemontcg.io/base1/logo.png"
         },
         {
             "id": "base2",
             "name": "Jungle",
             "series": "Base",
+            "printedTotal": 64,
+            "total": 64,
             "ptcgoCode": "JU",
-            "releaseDate": "Jun 16, 1999",
-            "completeSet": "64",
-            "masterSet": "128",
-            "logo": "https://images.pokemontcg.io/base2/logo.png",
-            "symbol": "https://images.pokemontcg.io/base2/symbol.png"
+            "releaseDate": "1999/06/16",
+            "updatedAt": "2020/08/14 09:35:00",
+            "symbol": "https://images.pokemontcg.io/base2/symbol.png",
+            "logo": "https://images.pokemontcg.io/base2/logo.png"
         },
         {
             "id": "base3",
             "name": "Fossil",
             "series": "Base",
+            "printedTotal": 62,
+            "total": 62,
             "ptcgoCode": "FO",
-            "releaseDate": "Oct 10, 1999",
-            "completeSet": "62",
-            "masterSet": "124",
-            "logo": "https://images.pokemontcg.io/base3/logo.png",
-            "symbol": "https://images.pokemontcg.io/base3/symbol.png"
+            "releaseDate": "1999/10/10",
+            "updatedAt": "2020/08/14 09:35:00",
+            "symbol": "https://images.pokemontcg.io/base3/symbol.png",
+            "logo": "https://images.pokemontcg.io/base3/logo.png"
         },
         {
             "id": "base4",
             "name": "Base Set 2",
             "series": "Base",
+            "printedTotal": 130,
+            "total": 130,
             "ptcgoCode": "B2",
-            "releaseDate": "Feb 24, 2000",
-            "completeSet": "130",
-            "masterSet": "130",
-            "logo": "https://images.pokemontcg.io/base4/logo.png",
-            "symbol": "https://images.pokemontcg.io/base4/symbol.png"
+            "releaseDate": "2000/02/24",
+            "updatedAt": "2022/10/10 15:12:00",
+            "symbol": "https://images.pokemontcg.io/base4/symbol.png",
+            "logo": "https://images.pokemontcg.io/base4/logo.png"
         },
         {
             "id": "base5",
             "name": "Team Rocket",
             "series": "Base",
+            "printedTotal": 82,
+            "total": 83,
             "ptcgoCode": "TR",
-            "releaseDate": "Apr 24, 2000",
-            "completeSet": "82",
-            "masterSet": "165",
-            "logo": "https://images.pokemontcg.io/base5/logo.png",
-            "symbol": "https://images.pokemontcg.io/base5/symbol.png"
+            "releaseDate": "2000/04/24",
+            "updatedAt": "2020/08/14 09:35:00",
+            "symbol": "https://images.pokemontcg.io/base5/symbol.png",
+            "logo": "https://images.pokemontcg.io/base5/logo.png"
         },
         {
             "id": "gym1",
             "name": "Gym Heroes",
             "series": "Base",
+            "printedTotal": 132,
+            "total": 132,
             "ptcgoCode": "G1",
-            "releaseDate": "Aug 14, 2000",
-            "completeSet": "132",
-            "masterSet": "264",
-            "logo": "https://images.pokemontcg.io/gym1/logo.png",
-            "symbol": "https://images.pokemontcg.io/gym1/symbol.png"
+            "releaseDate": "2000/08/14",
+            "updatedAt": "2022/10/10 15:12:00",
+            "symbol": "https://images.pokemontcg.io/gym1/symbol.png",
+            "logo": "https://images.pokemontcg.io/gym1/logo.png"
         },
         {
             "id": "gym2",
             "name": "Gym Challenge",
             "series": "Base",
+            "printedTotal": 132,
+            "total": 132,
             "ptcgoCode": "G2",
-            "releaseDate": "Oct 16, 2000",
-            "completeSet": "132",
-            "masterSet": "264",
-            "logo": "https://images.pokemontcg.io/gym2/logo.png",
-            "symbol": "https://images.pokemontcg.io/gym2/symbol.png"
+            "releaseDate": "2000/10/16",
+            "updatedAt": "2022/10/10 15:12:00",
+            "symbol": "https://images.pokemontcg.io/gym2/symbol.png",
+            "logo": "https://images.pokemontcg.io/gym2/logo.png"
         },
         {
             "id": "base6",
             "name": "Legendary Collection",
             "series": "Base",
+            "printedTotal": 110,
+            "total": 110,
             "ptcgoCode": "LC",
-            "releaseDate": "May 24, 2002",
-            "completeSet": "110",
-            "masterSet": "220",
-            "logo": "https://images.pokemontcg.io/base6/logo.png",
-            "symbol": "https://images.pokemontcg.io/base6/symbol.png"
+            "releaseDate": "2002/05/24",
+            "updatedAt": "2020/08/14 09:35:00",
+            "symbol": "https://images.pokemontcg.io/base6/symbol.png",
+            "logo": "https://images.pokemontcg.io/base6/logo.png"
         }
     ],
-    "promo":[
-        {
-            "id": "gym2",
-            "name": "Gym Challenge",
-            "series": "Base",
-            "ptcgoCode": "G2",
-            "releaseDate": "Oct 16, 2000",
-            "completeSet": "132",
-            "masterSet": "264",
-            "logo": "https://images.pokemontcg.io/gym2/logo.png",
-            "symbol": "https://images.pokemontcg.io/gym2/symbol.png"
-        }
-    ]
+    "page": 1,
+    "pageSize": 250,
+    "count": 151,
+    "totalCount": 151
 }
-        
