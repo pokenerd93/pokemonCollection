@@ -519,6 +519,129 @@
             "logo": "https://www.dropbox.com/s/l7bym0f6ds1e13c/hgss4.png?dl=1"
         }
     ],
+    "blackwhite": [
+        {
+            "id": "bw1",
+            "name": "Black & White",
+            "series": "Black & White",
+            "completeSet": 114,
+            "masterSet": 229,
+            "ptcgoCode": "BLW",
+            "releaseDate": "Apr 25, 2011",
+            "symbol": "https://www.dropbox.com/s/cpujmgeiiqpc1hr/bw1.png?dl=1",
+            "logo": "https://www.dropbox.com/s/m041hrg3i0erk4u/bw1.png?dl=1"
+        },
+        {
+            "id": "bw2",
+            "name": "Emerging Powers",
+            "series": "Black & White",
+            "completeSet": 98,
+            "masterSet": 196,
+            "ptcgoCode": "EPO",
+            "releaseDate": "Aug 31, 2011",
+            "symbol": "https://www.dropbox.com/s/ei4r23k7qfk587l/bw2.png?dl=1",
+            "logo": "https://www.dropbox.com/s/9iygxfjt2wfld6j/bw2.png?dl=1"
+        },
+        {
+            "id": "bw3",
+            "name": "Noble Victories",
+            "series": "Black & White",
+            "completeSet": 101,
+            "masterSet": 203,
+            "ptcgoCode": "NVI",
+            "releaseDate": "Nov 16, 2011",
+            "symbol": "https://www.dropbox.com/s/8irnb9929d39hkf/bw3.png?dl=1",
+            "logo": "https://www.dropbox.com/s/99f1hgrmeygas17/bw3.png?dl=1"
+        },
+        {
+            "id": "bw4",
+            "name": "Next Destinies",
+            "series": "Black & White",
+            "completeSet": 99,
+            "masterSet": 202,
+            "ptcgoCode": "NXD",
+            "releaseDate": "Feb 08, 2012",
+            "symbol": "https://www.dropbox.com/s/zwzwvuu0hplht6k/bw4.png?dl=1",
+            "logo": "https://www.dropbox.com/s/x8wlux9311wtxfp/bw4.png?dl=1"
+        },
+        {
+            "id": "bw5",
+            "name": "Dark Explorers",
+            "series": "Black & White",
+            "completeSet": 108,
+            "masterSet": 219,
+            "ptcgoCode": "DEX",
+            "releaseDate": "May 09, 2012",
+            "symbol": "https://www.dropbox.com/s/xnzs05x79dwguc8/bw5.png?dl=1",
+            "logo": "https://www.dropbox.com/s/0fzwbziof0cp9cv/bw5.png?dl=1"
+        },
+        {
+            "id": "bw6",
+            "name": "Dragons Exalted",
+            "series": "Black & White",
+            "completeSet": 124,
+            "masterSet": 252,
+            "ptcgoCode": "DRX",
+            "releaseDate": "Aug 15, 2012",
+            "symbol": "https://www.dropbox.com/s/81vnbex3zempwk2/bw6.png?dl=1",
+            "logo": "https://www.dropbox.com/s/eoh6z8hc50sze19/bw6.png?dl=1"
+        },
+        {
+            "id": "bw7",
+            "name": "Boundaries Crossed",
+            "series": "Black & White",
+            "completeSet": 149,
+            "masterSet": 302,
+            "ptcgoCode": "BCR",
+            "releaseDate": "Nov 07, 2012",
+            "symbol": "https://www.dropbox.com/s/m4e48q955l88ok7/bw7.png?dl=1",
+            "logo": "https://www.dropbox.com/s/mffvjuwp3635pi3/bw7.png?dl=1"
+        },
+        {
+            "id": "bw8",
+            "name": "Plasma Storm",
+            "series": "Black & White",
+            "completeSet": 135,
+            "masterSet": 273,
+            "ptcgoCode": "PLS",
+            "releaseDate": "Feb 06, 2013",
+            "symbol": "https://www.dropbox.com/s/wrj4fm4hbqpod1e/bw8.png?dl=1",
+            "logo": "https://www.dropbox.com/s/65rky3z294v8hqv/bw8.png?dl=1"
+        },
+        {
+            "id": "bw9",
+            "name": "Plasma Freeze",
+            "series": "Black & White",
+            "completeSet": 116,
+            "masterSet": 238,
+            "ptcgoCode": "PLF",
+            "releaseDate": "May 08, 2013",
+            "symbol": "https://www.dropbox.com/s/n4t707kr9be73oj/bw9.png?dl=1",
+            "logo": "https://www.dropbox.com/s/qi8u4e8jf12a5uv/bw9.png?dl=1"
+        },
+        {
+            "id": "bw10",
+            "name": "Plasma Blast",
+            "series": "Black & White",
+            "completeSet": 101,
+            "masterSet": 206,
+            "ptcgoCode": "PLB",
+            "releaseDate": "Aug 14, 2013",
+            "symbol": "https://www.dropbox.com/s/jsenkpnwb1161kl/bw10.png?dl=1",
+            "logo": "https://www.dropbox.com/s/r6vgr1tb79y7v95/bw10.png?dl=1"
+        },
+        {
+            "id": "bw11",
+            "name": "Legendary Treasures",
+            "series": "Black & White",
+            "completeSet": 113,
+            "masterSet": 253,
+            "ptcgoCode": "LTR",
+            "releaseDate": "Nov 06, 2013",
+            "symbol": "https://www.dropbox.com/s/161w4m40ibbt9pk/bw11.png?dl=1",
+            "logo": "https://www.dropbox.com/s/ztfljjwnknhgrsv/bw11.png?dl=1"
+        }
+    ],
     "page": 1,
     "pageSize": 250,
     "count": 151,
