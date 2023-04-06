@@ -9,7 +9,7 @@
             "ptcgoCode": "BS",
             "releaseDate": "Jan 09, 1999",
             "symbol": "https://images.pokemontcg.io/base1/symbol.png",
-            "logo": "https://images.pokemontcg.io/base1/logo.png"
+            "logo": "https://www.dropbox.com/s/dzstgphg8k3tqsa/base1.png?dl=1"
         },
         {
             "id": "base2",
@@ -20,7 +20,7 @@
             "ptcgoCode": "JU",
             "releaseDate": "Jun 16, 1999",
             "symbol": "https://images.pokemontcg.io/base2/symbol.png",
-            "logo": "https://images.pokemontcg.io/base2/logo.png"
+            "logo": "https://www.dropbox.com/s/09b2rwanohvlark/base2.png?dl=1"
         },
         {
             "id": "base3",
@@ -31,7 +31,7 @@
             "ptcgoCode": "FO",
             "releaseDate": "Oct 10, 1999",
             "symbol": "https://images.pokemontcg.io/base3/symbol.png",
-            "logo": "https://images.pokemontcg.io/base3/logo.png"
+            "logo": "https://www.dropbox.com/s/foc7jjrg7z33k88/base3.png?dl=1"
         },
         {
             "id": "base4",
@@ -42,7 +42,7 @@
             "ptcgoCode": "B2",
             "releaseDate": "Feb 24, 2000",
             "symbol": "https://images.pokemontcg.io/base4/symbol.png",
-            "logo": "https://images.pokemontcg.io/base4/logo.png"
+            "logo": "https://www.dropbox.com/s/p4dqk5r16ypa01a/base4.png?dl=1"
         },
         {
             "id": "base5",
@@ -53,7 +53,7 @@
             "ptcgoCode": "TR",
             "releaseDate": "Apr 24, 2000",
             "symbol": "https://images.pokemontcg.io/base5/symbol.png",
-            "logo": "https://images.pokemontcg.io/base5/logo.png"
+            "logo": "https://www.dropbox.com/s/jhugkxhh8hlsequ/base5.png?dl=1"
         },
         {
             "id": "gym1",
@@ -64,7 +64,7 @@
             "ptcgoCode": "G1",
             "releaseDate": "Aug 14, 2000",
             "symbol": "https://images.pokemontcg.io/gym1/symbol.png",
-            "logo": "https://images.pokemontcg.io/gym1/logo.png"
+            "logo": "https://www.dropbox.com/s/vn5fpvd71t0kavx/base6.png?dl=1"
         },
         {
             "id": "gym2",
@@ -75,7 +75,7 @@
             "ptcgoCode": "G2",
             "releaseDate": "Oct 16, 2000",
             "symbol": "https://images.pokemontcg.io/gym2/symbol.png",
-            "logo": "https://images.pokemontcg.io/gym2/logo.png"
+            "logo": "https://www.dropbox.com/s/chdvg89xptytebq/base7.png?dl=1"
         },
         {
             "id": "base6",
@@ -86,7 +86,7 @@
             "ptcgoCode": "LC",
             "releaseDate": "May 24, 2002",
             "symbol": "https://images.pokemontcg.io/base6/symbol.png",
-            "logo": "https://images.pokemontcg.io/base6/logo.png"
+            "logo": "https://www.dropbox.com/s/caswljhl81rzd0j/base8.png?dl=1"
         }
     ],
     "neo": [
@@ -110,7 +110,7 @@
             "ptcgoCode": "N2",
             "releaseDate": "Jun 01, 2001",
             "symbol": "https://images.pokemontcg.io/neo2/symbol.png",
-            "logo": "https://images.pokemontcg.io/neo2/logo.png"
+            "logo": "https://www.dropbox.com/s/s3q1upetkshgbcr/neo2.png?dl=1"
         },
         {
             "id": "neo3",
@@ -121,7 +121,7 @@
             "ptcgoCode": "N3",
             "releaseDate": "Sep 21, 2001",
             "symbol": "https://images.pokemontcg.io/neo3/symbol.png",
-            "logo": "https://images.pokemontcg.io/neo3/logo.png"
+            "logo": "https://www.dropbox.com/s/74zp9409tg24f8x/neo3.png?dl=1"
         },
         {
             "id": "neo4",
@@ -132,7 +132,7 @@
             "ptcgoCode": "N4",
             "releaseDate": "Feb 28, 2002",
             "symbol": "https://images.pokemontcg.io/neo4/symbol.png",
-            "logo": "https://images.pokemontcg.io/neo4/logo.png"
+            "logo": "https://www.dropbox.com/s/s128p8wnehozfmg/neo4.png?dl=1"
         }
     ],
     "ecard": [
@@ -145,7 +145,7 @@
             "ptcgoCode": "EX",
             "releaseDate": "Sep 15, 2002",
             "symbol": "https://images.pokemontcg.io/ecard1/symbol.png",
-            "logo": "https://images.pokemontcg.io/ecard1/logo.png"
+            "logo": "https://www.dropbox.com/s/pzd7h9inkx1lqpa/ecard1.png?dl=1"
         },
         {
             "id": "ecard2",
@@ -156,7 +156,7 @@
             "ptcgoCode": "AQ",
             "releaseDate": "Jan 01, 2003",
             "symbol": "https://images.pokemontcg.io/ecard2/symbol.png",
-            "logo": "https://images.pokemontcg.io/ecard2/logo.png"
+            "logo": "https://www.dropbox.com/s/7gobool9n9i7n58/ecard2.png?dl=1"
         },
         {
             "id": "ecard3",
@@ -167,7 +167,7 @@
             "ptcgoCode": "SK",
             "releaseDate": "May 12, 2003",
             "symbol": "https://images.pokemontcg.io/ecard3/symbol.png",
-            "logo": "https://images.pokemontcg.io/ecard3/logo.png"
+            "logo": "https://www.dropbox.com/s/trbkj1qvp4vu7x3/ecard3.png?dl=1"
         }
     ],
     "ex": [
@@ -180,7 +180,7 @@
             "ptcgoCode": "RS",
             "releaseDate": "Jul 01, 2003",
             "symbol": "https://images.pokemontcg.io/ex1/symbol.png",
-            "logo": "https://images.pokemontcg.io/ex1/logo.png"
+            "logo": "https://www.dropbox.com/s/ap7oliumyvvcczv/ex1.png?dl=1"
         },
         {
             "id": "ex2",
@@ -191,7 +191,7 @@
             "ptcgoCode": "SS",
             "releaseDate": "Sep 18, 2003",
             "symbol": "https://images.pokemontcg.io/ex2/symbol.png",
-            "logo": "https://images.pokemontcg.io/ex2/logo.png"
+            "logo": "https://www.dropbox.com/s/wl5b0duof5h64v1/ex2.png?dl=1"
         },
         {
             "id": "ex3",
@@ -202,7 +202,7 @@
             "ptcgoCode": "DR",
             "releaseDate": "Sep 18, 2003",
             "symbol": "https://images.pokemontcg.io/ex3/symbol.png",
-            "logo": "https://images.pokemontcg.io/ex3/logo.png"
+            "logo": "https://www.dropbox.com/s/cb6azgmc3k4bn2g/ex3.png?dl=1"
         },
         {
             "id": "ex4",
@@ -213,7 +213,7 @@
             "ptcgoCode": "MA",
             "releaseDate": "Mar 01, 2004",
             "symbol": "https://images.pokemontcg.io/ex4/symbol.png",
-            "logo": "https://images.pokemontcg.io/ex4/logo.png"
+            "logo": "https://www.dropbox.com/s/limoweu01trkm7b/ex4.png?dl=1"
         },
         {
             "id": "ex5",
@@ -224,7 +224,7 @@
             "ptcgoCode": "HL",
             "releaseDate": "Jun 01, 2004",
             "symbol": "https://images.pokemontcg.io/ex5/symbol.png",
-            "logo": "https://images.pokemontcg.io/ex5/logo.png"
+            "logo": "https://www.dropbox.com/s/6xphqik156ff25j/ex5.png?dl=1"
         },
         {
             "id": "ex6",
@@ -235,7 +235,7 @@
             "ptcgoCode": "RG",
             "releaseDate": "Sep 01, 2004",
             "symbol": "https://images.pokemontcg.io/ex6/symbol.png",
-            "logo": "https://images.pokemontcg.io/ex6/logo.png"
+            "logo": "https://www.dropbox.com/s/0m0tpnq7fwy09aj/ex6.png?dl=1"
         },
         {
             "id": "ex7",
@@ -246,7 +246,7 @@
             "ptcgoCode": "TRR",
             "releaseDate": "Nov 01, 2004",
             "symbol": "https://images.pokemontcg.io/ex7/symbol.png",
-            "logo": "https://images.pokemontcg.io/ex7/logo.png"
+            "logo": "https://www.dropbox.com/s/o1r80hcfh5qj7qu/ex7.png?dl=1"
         },
         {
             "id": "ex8",
@@ -257,7 +257,7 @@
             "ptcgoCode": "DX",
             "releaseDate": "Feb 01, 2005",
             "symbol": "https://images.pokemontcg.io/ex8/symbol.png",
-            "logo": "https://images.pokemontcg.io/ex8/logo.png"
+            "logo": "https://www.dropbox.com/s/skmflgulgmqvv55/ex8.png?dl=1"
         },
         {
             "id": "ex9",
@@ -268,7 +268,7 @@
             "ptcgoCode": "EM",
             "releaseDate": "May 01, 2005",
             "symbol": "https://images.pokemontcg.io/ex9/symbol.png",
-            "logo": "https://images.pokemontcg.io/ex9/logo.png"
+            "logo": "https://www.dropbox.com/s/l95f27trpeav6e7/ex9.png?dl=1"
         },
         {
             "id": "ex10",
@@ -279,7 +279,7 @@
             "ptcgoCode": "UF",
             "releaseDate": "Aug 01, 2005",
             "symbol": "https://images.pokemontcg.io/ex10/symbol.png",
-            "logo": "https://images.pokemontcg.io/ex10/logo.png"
+            "logo": "https://www.dropbox.com/s/4q2xxgexcgwxzv4/ex10.png?dl=1"
         },
         {
             "id": "ex11",
@@ -290,7 +290,7 @@
             "ptcgoCode": "DS",
             "releaseDate": "Oct 31, 2005",
             "symbol": "https://images.pokemontcg.io/ex11/symbol.png",
-            "logo": "https://images.pokemontcg.io/ex11/logo.png"
+            "logo": "https://www.dropbox.com/s/gv2y34ssupmlk5f/ex11.png?dl=1"
         },
         {
             "id": "ex12",
@@ -301,7 +301,7 @@
             "ptcgoCode": "LM",
             "releaseDate": "Feb 01, 2006",
             "symbol": "https://images.pokemontcg.io/ex12/symbol.png",
-            "logo": "https://images.pokemontcg.io/ex12/logo.png"
+            "logo": "https://www.dropbox.com/s/piz2jtiuzjq0hlm/ex12.png?dl=1"
         },
         {
             "id": "ex13",
@@ -312,7 +312,7 @@
             "ptcgoCode": "HP",
             "releaseDate": "May 01, 2006",
             "symbol": "https://images.pokemontcg.io/ex13/symbol.png",
-            "logo": "https://images.pokemontcg.io/ex13/logo.png"
+            "logo": "https://www.dropbox.com/s/uc1im9isq66809y/ex13.png?dl=1"
         },
         {
             "id": "ex14",
@@ -323,7 +323,7 @@
             "ptcgoCode": "CG",
             "releaseDate": "Aug 01, 2006",
             "symbol": "https://images.pokemontcg.io/ex14/symbol.png",
-            "logo": "https://images.pokemontcg.io/ex14/logo.png"
+            "logo": "https://www.dropbox.com/s/clwpmmosbaf513o/ex14.png?dl=1"
         },
         {
             "id": "ex15",
@@ -334,7 +334,7 @@
             "ptcgoCode": "DF",
             "releaseDate": "Nov 01, 2006",
             "symbol": "https://images.pokemontcg.io/ex15/symbol.png",
-            "logo": "https://images.pokemontcg.io/ex15/logo.png"
+            "logo": "https://www.dropbox.com/s/w8nasrpoyw3srd6/ex15.png?dl=1"
         },
         {
             "id": "ex16",
@@ -345,7 +345,7 @@
             "ptcgoCode": "PK",
             "releaseDate": "Feb 02, 2007",
             "symbol": "https://images.pokemontcg.io/ex16/symbol.png",
-            "logo": "https://images.pokemontcg.io/ex16/logo.png"
+            "logo": "https://www.dropbox.com/s/aoaqj0cj3uwtchd/ex16.png?dl=1"
         }
     ],
     "diamondpearl": [
