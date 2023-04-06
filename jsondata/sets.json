@@ -427,6 +427,98 @@
             "logo": "https://images.pokemontcg.io/dp7/logo.png"
         }
     ],
+    "platinum": [
+        {
+            "id": "pl1",
+            "name": "Platinum",
+            "series": "Platinum",
+            "completeSet": 127,
+            "masterSet": 260,
+            "ptcgoCode": "PL",
+            "releaseDate": "Feb 11, 2009",
+            "symbol": "https://images.pokemontcg.io/pl1/symbol.png",
+            "logo": "https://images.pokemontcg.io/pl1/logo.png"
+        },
+        {
+            "id": "pl2",
+            "name": "Rising Rivals",
+            "series": "Platinum",
+            "completeSet": 111,
+            "masterSet": 231,
+            "ptcgoCode": "RR",
+            "releaseDate": "May 16, 2009",
+            "symbol": "https://images.pokemontcg.io/pl2/symbol.png",
+            "logo": "https://images.pokemontcg.io/pl2/logo.png"
+        },
+        {
+            "id": "pl3",
+            "name": "Supreme Victors",
+            "series": "Platinum",
+            "completeSet": 147,
+            "masterSet": 300,
+            "ptcgoCode": "SV",
+            "releaseDate": "Aug 19, 2009",
+            "symbol": "https://images.pokemontcg.io/pl3/symbol.png",
+            "logo": "https://images.pokemontcg.io/pl3/logo.png"
+        },
+        {
+            "id": "pl4",
+            "name": "Arceus",
+            "series": "Platinum",
+            "completeSet": 99,
+            "masterSet": 210,
+            "ptcgoCode": "AR",
+            "releaseDate": "Nov 04, 2009",
+            "symbol": "https://images.pokemontcg.io/pl4/symbol.png",
+            "logo": "https://images.pokemontcg.io/pl4/logo.png"
+        }
+    ],
+    "heartgoldsoulsilver": [
+        {
+            "id": "hgss1",
+            "name": "HeartGold & SoulSilver",
+            "series": "HeartGold & SoulSilver",
+            "completeSet": 123,
+            "masterSet": 247,
+            "ptcgoCode": "HS",
+            "releaseDate": "Feb 10, 2010",
+            "symbol": "https://images.pokemontcg.io/hgss1/symbol.png",
+            "logo": "https://images.pokemontcg.io/hgss1/logo.png"
+        },
+        {
+            "id": "hgss2",
+            "name": "HS-Unleashed",
+            "series": "HeartGold & SoulSilver",
+            "completeSet": 95,
+            "masterSet": 191,
+            "ptcgoCode": "UL",
+            "releaseDate": "May 12, 2010",
+            "symbol": "https://images.pokemontcg.io/hgss2/symbol.png",
+            "logo": "https://images.pokemontcg.io/hgss2/logo.png"
+        },
+        {
+            "id": "hgss3",
+            "name": "HS-Undaunted",
+            "series": "HeartGold & SoulSilver",
+            "completeSet": 90,
+            "masterSet": 181,
+            "ptcgoCode": "UD",
+            "releaseDate": "Aug 18, 2010",
+            "symbol": "https://images.pokemontcg.io/hgss3/symbol.png",
+            "logo": "https://images.pokemontcg.io/hgss3/logo.png"
+        },
+        {
+            "id": "hgss4",
+            "name": "HS-Triumphant",
+            "series": "HeartGold & SoulSilver",
+            "completeSet": 102,
+            "masterSet": 205,
+            "ptcgoCode": "TM",
+            "releaseDate": "Nov 03, 2010",
+            "symbol": "https://images.pokemontcg.io/hgss4/symbol.png",
+            "logo": "https://images.pokemontcg.io/hgss4/logo.png"
+        }
+    ],
     "page": 1,
     "pageSize": 250,
     "count": 151,
