@@ -236,6 +236,195 @@
             "releaseDate": "Sep 01, 2004",
             "symbol": "https://images.pokemontcg.io/ex6/symbol.png",
             "logo": "https://images.pokemontcg.io/ex6/logo.png"
+        },
+        {
+            "id": "ex7",
+            "name": "EX Team Rocket Returns",
+            "series": "EX",
+            "completeSet": 109,
+            "masterSet": 220,
+            "ptcgoCode": "TRR",
+            "releaseDate": "Nov 01, 2004",
+            "symbol": "https://images.pokemontcg.io/ex7/symbol.png",
+            "logo": "https://images.pokemontcg.io/ex7/logo.png"
+        },
+        {
+            "id": "ex8",
+            "name": "EX Deoxys",
+            "series": "EX",
+            "completeSet": 107,
+            "masterSet": 215,
+            "ptcgoCode": "DX",
+            "releaseDate": "Feb 01, 2005",
+            "symbol": "https://images.pokemontcg.io/ex8/symbol.png",
+            "logo": "https://images.pokemontcg.io/ex8/logo.png"
+        },
+        {
+            "id": "ex9",
+            "name": "EX Emerald",
+            "series": "EX",
+            "completeSet": 106,
+            "masterSet": 213,
+            "ptcgoCode": "EM",
+            "releaseDate": "May 01, 2005",
+            "symbol": "https://images.pokemontcg.io/ex9/symbol.png",
+            "logo": "https://images.pokemontcg.io/ex9/logo.png"
+        },
+        {
+            "id": "ex10",
+            "name": "EX Unseen Forces",
+            "series": "EX",
+            "completeSet": 115,
+            "masterSet": 260,
+            "ptcgoCode": "UF",
+            "releaseDate": "Aug 01, 2005",
+            "symbol": "https://images.pokemontcg.io/ex10/symbol.png",
+            "logo": "https://images.pokemontcg.io/ex10/logo.png"
+        },
+        {
+            "id": "ex11",
+            "name": "EX Delta Species",
+            "series": "EX",
+            "completeSet": 113,
+            "masterSet": 227,
+            "ptcgoCode": "DS",
+            "releaseDate": "Oct 31, 2005",
+            "symbol": "https://images.pokemontcg.io/ex11/symbol.png",
+            "logo": "https://images.pokemontcg.io/ex11/logo.png"
+        },
+        {
+            "id": "ex12",
+            "name": "EX Legend Maker",
+            "series": "EX",
+            "completeSet": 92,
+            "masterSet": 185,
+            "ptcgoCode": "LM",
+            "releaseDate": "Feb 01, 2006",
+            "symbol": "https://images.pokemontcg.io/ex12/symbol.png",
+            "logo": "https://images.pokemontcg.io/ex12/logo.png"
+        },
+        {
+            "id": "ex13",
+            "name": "EX Holon Phantoms",
+            "series": "EX",
+            "completeSet": 110,
+            "masterSet": 221,
+            "ptcgoCode": "HP",
+            "releaseDate": "May 01, 2006",
+            "symbol": "https://images.pokemontcg.io/ex13/symbol.png",
+            "logo": "https://images.pokemontcg.io/ex13/logo.png"
+        },
+        {
+            "id": "ex14",
+            "name": "EX Cystal Guardians",
+            "series": "EX",
+            "completeSet": 100,
+            "masterSet": 200,
+            "ptcgoCode": "CG",
+            "releaseDate": "Aug 01, 2006",
+            "symbol": "https://images.pokemontcg.io/ex14/symbol.png",
+            "logo": "https://images.pokemontcg.io/ex14/logo.png"
+        },
+        {
+            "id": "ex15",
+            "name": "EX Dragon Frontiers",
+            "series": "EX",
+            "completeSet": 101,
+            "masterSet": 202,
+            "ptcgoCode": "DF",
+            "releaseDate": "Nov 01, 2006",
+            "symbol": "https://images.pokemontcg.io/ex15/symbol.png",
+            "logo": "https://images.pokemontcg.io/ex15/logo.png"
+        },
+        {
+            "id": "ex16",
+            "name": "EX Power Keepers",
+            "series": "EX",
+            "completeSet": 108,
+            "masterSet": 216,
+            "ptcgoCode": "PK",
+            "releaseDate": "Feb 02, 2007",
+            "symbol": "https://images.pokemontcg.io/ex16/symbol.png",
+            "logo": "https://images.pokemontcg.io/ex16/logo.png"
+        }
+    ],
+    "diamondpearl": [
+        {
+            "id": "dp1",
+            "name": "Diamond & Pearl",
+            "series": "Diamond & Pearl",
+            "completeSet": 130,
+            "masterSet": 260,
+            "ptcgoCode": "DP",
+            "releaseDate": "May 01, 2007",
+            "symbol": "https://images.pokemontcg.io/dp1/symbol.png",
+            "logo": "https://images.pokemontcg.io/dp1/logo.png"
+        },
+        {
+            "id": "dp2",
+            "name": "Mysterious Treasures",
+            "series": "Diamond & Pearl",
+            "completeSet": 123,
+            "masterSet": 247,
+            "ptcgoCode": "MT",
+            "releaseDate": "Aug 01, 2007",
+            "symbol": "https://images.pokemontcg.io/dp2/symbol.png",
+            "logo": "https://images.pokemontcg.io/dp2/logo.png"
+        },
+        {
+            "id": "dp3",
+            "name": "Secret Wonders",
+            "series": "Diamond & Pearl",
+            "completeSet": 132,
+            "masterSet": 264,
+            "ptcgoCode": "SW",
+            "releaseDate": "Nov 01, 2007",
+            "symbol": "https://images.pokemontcg.io/dp3/symbol.png",
+            "logo": "https://images.pokemontcg.io/dp3/logo.png"
+        },
+        {
+            "id": "dp4",
+            "name": "Great Encounters",
+            "series": "Diamond & Pearl",
+            "completeSet": 106,
+            "masterSet": 212,
+            "ptcgoCode": "GE",
+            "releaseDate": "Feb 01, 2008",
+            "symbol": "https://images.pokemontcg.io/dp4/symbol.png",
+            "logo": "https://images.pokemontcg.io/dp4/logo.png"
+        },
+        {
+            "id": "dp5",
+            "name": "Majestic Dawn",
+            "series": "Diamond & Pearl",
+            "completeSet": 100,
+            "masterSet": 200,
+            "ptcgoCode": "MD",
+            "releaseDate": "May 01, 2008",
+            "symbol": "https://images.pokemontcg.io/dp5/symbol.png",
+            "logo": "https://images.pokemontcg.io/dp5/logo.png"
+        },
+        {
+            "id": "dp6",
+            "name": "Legends Awakened",
+            "series": "Diamond & Pearl",
+            "completeSet": 146,
+            "masterSet": 292,
+            "ptcgoCode": "LA",
+            "releaseDate": "Aug 01, 2008",
+            "symbol": "https://images.pokemontcg.io/dp6/symbol.png",
+            "logo": "https://images.pokemontcg.io/dp6/logo.png"
+        },
+        {
+            "id": "dp7",
+            "name": "Stormfront",
+            "series": "Diamond & Pearl",
+            "completeSet": 100,
+            "masterSet": 206,
+            "ptcgoCode": "SF",
+            "releaseDate": "Nov 01, 2008",
+            "symbol": "https://images.pokemontcg.io/dp7/symbol.png",
+            "logo": "https://images.pokemontcg.io/dp7/logo.png"
         }
     ],
     "page": 1,
