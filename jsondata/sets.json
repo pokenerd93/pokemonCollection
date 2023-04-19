@@ -2616,8 +2616,8 @@
             "releaseDate": "2004/06/01",
             "updatedAt": "2022/01/13 20:44:00",
             "images": {
-                "symbol": "https://images.pokemontcg.io/tk1a/symbol.png",
-                "logo": "https://images.pokemontcg.io/tk1a/logo.png"
+                "symbol": "https://images.pokemontcg.io/base1/symbol.png",
+                "logo": "https://images.pokemontcg.io/base1/logo.png"
             }
         },
         {
@@ -2632,8 +2632,8 @@
             "releaseDate": "2004/06/01",
             "updatedAt": "2022/01/13 20:44:00",
             "images": {
-                "symbol": "https://images.pokemontcg.io/tk1b/symbol.png",
-                "logo": "https://images.pokemontcg.io/tk1b/logo.png"
+                "symbol": "https://images.pokemontcg.io/base1/symbol.png",
+                "logo": "https://images.pokemontcg.io/base1/logo.png"
             }
         },
         {
@@ -2648,8 +2648,8 @@
             "releaseDate": "2006/03/01",
             "updatedAt": "2022/01/13 20:44:00",
             "images": {
-                "symbol": "https://images.pokemontcg.io/tk2a/symbol.png",
-                "logo": "https://images.pokemontcg.io/tk2a/logo.png"
+                "symbol": "https://images.pokemontcg.io/base1/symbol.png",
+                "logo": "https://images.pokemontcg.io/base1/logo.png"
             }
         },
         {
@@ -2664,8 +2664,392 @@
             "releaseDate": "2006/03/01",
             "updatedAt": "2022/01/13 20:44:00",
             "images": {
-                "symbol": "https://images.pokemontcg.io/tk2b/symbol.png",
-                "logo": "https://images.pokemontcg.io/tk2b/logo.png"
+                "symbol": "https://images.pokemontcg.io/base1/symbol.png",
+                "logo": "https://images.pokemontcg.io/base1/logo.png"
+            }
+        },
+        {
+            "id": "tk3",
+            "name": "DP Trainer Kit Manaphy",
+            "series": "Trainer Kits",
+            "printedTotal": 12,
+            "total": 12,
+            "legalities": {
+                "unlimited": "Legal"
+            },
+            "releaseDate": "2007/09/01",
+            "updatedAt": "2022/01/13 20:44:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/base1/symbol.png",
+                "logo": "https://images.pokemontcg.io/base1/logo.png"
+            }
+        },
+        {
+            "id": "tk4",
+            "name": "DP Trainer Kit Lucario",
+            "series": "Trainer Kits",
+            "printedTotal": 12,
+            "total": 12,
+            "legalities": {
+                "unlimited": "Legal"
+            },
+            "releaseDate": "2007/09/01",
+            "updatedAt": "2022/01/13 20:44:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/base1/symbol.png",
+                "logo": "https://images.pokemontcg.io/base1/logo.png"
+            }
+        },
+        {
+            "id": "tk5",
+            "name": "HGSS Trainer Kit Raichu",
+            "series": "Trainer Kits",
+            "printedTotal": 12,
+            "total": 12,
+            "legalities": {
+                "unlimited": "Legal"
+            },
+            "releaseDate": "2010/05/01",
+            "updatedAt": "2022/01/13 20:44:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/base1/symbol.png",
+                "logo": "https://images.pokemontcg.io/base1/logo.png"
+            }
+        },
+        {
+            "id": "tk6",
+            "name": "HGSS Trainer Kit Gyarados",
+            "series": "Trainer Kits",
+            "printedTotal": 12,
+            "total": 12,
+            "legalities": {
+                "unlimited": "Legal"
+            },
+            "releaseDate": "2010/05/01",
+            "updatedAt": "2022/01/13 20:44:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/base1/symbol.png",
+                "logo": "https://images.pokemontcg.io/base1/logo.png"
+            }
+        },
+        {
+            "id": "tk7",
+            "name": "BW Trainer Kit Zoroark",
+            "series": "Trainer Kits",
+            "printedTotal": 12,
+            "total": 12,
+            "legalities": {
+                "unlimited": "Legal"
+            },
+            "releaseDate": "2011/09/01",
+            "updatedAt": "2022/01/13 20:44:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/base1/symbol.png",
+                "logo": "https://images.pokemontcg.io/base1/logo.png"
+            }
+        },
+        {
+            "id": "tk8",
+            "name": "BW Trainer Kit Excadrill",
+            "series": "Trainer Kits",
+            "printedTotal": 12,
+            "total": 12,
+            "legalities": {
+                "unlimited": "Legal"
+            },
+            "releaseDate": "2011/09/01",
+            "updatedAt": "2022/01/13 20:44:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/base1/symbol.png",
+                "logo": "https://images.pokemontcg.io/base1/logo.png"
+            }
+        },
+        {
+            "id": "tk9",
+            "name": "XY Trainer Kit Sylveon",
+            "series": "Trainer Kits",
+            "printedTotal": 12,
+            "total": 12,
+            "legalities": {
+                "unlimited": "Legal"
+            },
+            "releaseDate": "2014/03/12",
+            "updatedAt": "2022/01/13 20:44:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/base1/symbol.png",
+                "logo": "https://images.pokemontcg.io/base1/logo.png"
+            }
+        },
+        {
+            "id": "tk10",
+            "name": "XY Trainer Kit Noivern",
+            "series": "Trainer Kits",
+            "printedTotal": 12,
+            "total": 12,
+            "legalities": {
+                "unlimited": "Legal"
+            },
+            "releaseDate": "2014/03/12",
+            "updatedAt": "2022/01/13 20:44:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/base1/symbol.png",
+                "logo": "https://images.pokemontcg.io/base1/logo.png"
+            }
+        },
+        {
+            "id": "tk11",
+            "name": "XY Trainer Kit Wigglytuff",
+            "series": "Trainer Kits",
+            "printedTotal": 12,
+            "total": 12,
+            "legalities": {
+                "unlimited": "Legal"
+            },
+            "releaseDate": "2014/11/01",
+            "updatedAt": "2022/01/13 20:44:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/base1/symbol.png",
+                "logo": "https://images.pokemontcg.io/base1/logo.png"
+            }
+        },
+        {
+            "id": "tk12",
+            "name": "XY Trainer Kit Bisharp",
+            "series": "Trainer Kits",
+            "printedTotal": 12,
+            "total": 12,
+            "legalities": {
+                "unlimited": "Legal"
+            },
+            "releaseDate": "2014/11/01",
+            "updatedAt": "2022/01/13 20:44:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/base1/symbol.png",
+                "logo": "https://images.pokemontcg.io/base1/logo.png"
+            }
+        },
+        {
+            "id": "tk13",
+            "name": "XY Trainer Kit Latios",
+            "series": "Trainer Kits",
+            "printedTotal": 12,
+            "total": 12,
+            "legalities": {
+                "unlimited": "Legal"
+            },
+            "releaseDate": "2015/04/29",
+            "updatedAt": "2022/01/13 20:44:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/base1/symbol.png",
+                "logo": "https://images.pokemontcg.io/base1/logo.png"
+            }
+        },
+        {
+            "id": "tk14",
+            "name": "XY Trainer Kit Latias",
+            "series": "Trainer Kits",
+            "printedTotal": 12,
+            "total": 12,
+            "legalities": {
+                "unlimited": "Legal"
+            },
+            "releaseDate": "2015/04/29",
+            "updatedAt": "2022/01/13 20:44:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/base1/symbol.png",
+                "logo": "https://images.pokemontcg.io/base1/logo.png"
+            }
+        },
+        {
+            "id": "tk15",
+            "name": "XY Trainer Kit Suicune",
+            "series": "Trainer Kits",
+            "printedTotal": 12,
+            "total": 12,
+            "legalities": {
+                "unlimited": "Legal"
+            },
+            "releaseDate": "2016/04/27",
+            "updatedAt": "2022/01/13 20:44:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/base1/symbol.png",
+                "logo": "https://images.pokemontcg.io/base1/logo.png"
+            }
+        },
+        {
+            "id": "tk16",
+            "name": "XY Trainer Kit Pikachu Libre",
+            "series": "Trainer Kits",
+            "printedTotal": 12,
+            "total": 12,
+            "legalities": {
+                "unlimited": "Legal"
+            },
+            "releaseDate": "2016/04/27",
+            "updatedAt": "2022/01/13 20:44:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/base1/symbol.png",
+                "logo": "https://images.pokemontcg.io/base1/logo.png"
+            }
+        },
+        {
+            "id": "tk17",
+            "name": "SM Trainer Kit Lycanroc",
+            "series": "Trainer Kits",
+            "printedTotal": 12,
+            "total": 12,
+            "legalities": {
+                "unlimited": "Legal"
+            },
+            "releaseDate": "2017/04/21",
+            "updatedAt": "2022/01/13 20:44:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/base1/symbol.png",
+                "logo": "https://images.pokemontcg.io/base1/logo.png"
+            }
+        },
+        {
+            "id": "tk18",
+            "name": "SM Trainer Kit Alolan Raichu",
+            "series": "Trainer Kits",
+            "printedTotal": 12,
+            "total": 12,
+            "legalities": {
+                "unlimited": "Legal"
+            },
+            "releaseDate": "2017/04/21",
+            "updatedAt": "2022/01/13 20:44:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/base1/symbol.png",
+                "logo": "https://images.pokemontcg.io/base1/logo.png"
+            }
+        },
+        {
+            "id": "tk19",
+            "name": "SM Trainer Kit Alolan Sandslash",
+            "series": "Trainer Kits",
+            "printedTotal": 12,
+            "total": 12,
+            "legalities": {
+                "unlimited": "Legal"
+            },
+            "releaseDate": "2018/06/01",
+            "updatedAt": "2022/01/13 20:44:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/base1/symbol.png",
+                "logo": "https://images.pokemontcg.io/base1/logo.png"
+            }
+        },
+        {
+            "id": "tk20",
+            "name": "SM Trainer Kit Alolan Ninetales",
+            "series": "Trainer Kits",
+            "printedTotal": 12,
+            "total": 12,
+            "legalities": {
+                "unlimited": "Legal"
+            },
+            "releaseDate": "2018/06/01",
+            "updatedAt": "2022/01/13 20:44:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/base1/symbol.png",
+                "logo": "https://images.pokemontcg.io/base1/logo.png"
+            }
+        },
+        {
+            "id": "tk21",
+            "name": "Battle Academy 2020 Pikachu",
+            "series": "Trainer Kits",
+            "printedTotal": 12,
+            "total": 12,
+            "legalities": {
+                "unlimited": "Legal"
+            },
+            "releaseDate": "2020/06/21",
+            "updatedAt": "2022/01/13 20:44:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/base1/symbol.png",
+                "logo": "hhttps://static.tcgcollector.com/content/images/00/4c/8c/004c8c71ed3f36c946e3ad3203393fa92f4ed60ba5581de5968f51bf791d0954.png"
+            }
+        },
+        {
+            "id": "tk22",
+            "name": "Battle Academy 2020 Mewtwo",
+            "series": "Trainer Kits",
+            "printedTotal": 12,
+            "total": 12,
+            "legalities": {
+                "unlimited": "Legal"
+            },
+            "releaseDate": "2020/06/21",
+            "updatedAt": "2022/01/13 20:44:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/base1/symbol.png",
+                "logo": "hhttps://static.tcgcollector.com/content/images/00/4c/8c/004c8c71ed3f36c946e3ad3203393fa92f4ed60ba5581de5968f51bf791d0954.png"
+            }
+        },
+        {
+            "id": "tk23",
+            "name": "Battle Academy 2020 Charizard",
+            "series": "Trainer Kits",
+            "printedTotal": 12,
+            "total": 12,
+            "legalities": {
+                "unlimited": "Legal"
+            },
+            "releaseDate": "2020/06/21",
+            "updatedAt": "2022/01/13 20:44:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/base1/symbol.png",
+                "logo": "hhttps://static.tcgcollector.com/content/images/00/4c/8c/004c8c71ed3f36c946e3ad3203393fa92f4ed60ba5581de5968f51bf791d0954.png"
+            }
+        },
+        {
+            "id": "tk24",
+            "name": "Battle Academy 2022 Pikachu",
+            "series": "Trainer Kits",
+            "printedTotal": 12,
+            "total": 12,
+            "legalities": {
+                "unlimited": "Legal"
+            },
+            "releaseDate": "2022/03/25",
+            "updatedAt": "2022/01/13 20:44:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/base1/symbol.png",
+                "logo": "hhttps://static.tcgcollector.com/content/images/00/4c/8c/004c8c71ed3f36c946e3ad3203393fa92f4ed60ba5581de5968f51bf791d0954.png"
+            }
+        },
+        {
+            "id": "tk25",
+            "name": "Battle Academy 2022 Eevee",
+            "series": "Trainer Kits",
+            "printedTotal": 12,
+            "total": 12,
+            "legalities": {
+                "unlimited": "Legal"
+            },
+            "releaseDate": "2022/03/25",
+            "updatedAt": "2022/01/13 20:44:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/base1/symbol.png",
+                "logo": "hhttps://static.tcgcollector.com/content/images/00/4c/8c/004c8c71ed3f36c946e3ad3203393fa92f4ed60ba5581de5968f51bf791d0954.png"
+            }
+        },
+        {
+            "id": "tk26",
+            "name": "Battle Academy 2022 Cinderace",
+            "series": "Trainer Kits",
+            "printedTotal": 12,
+            "total": 12,
+            "legalities": {
+                "unlimited": "Legal"
+            },
+            "releaseDate": "2022/03/25",
+            "updatedAt": "2022/01/13 20:44:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/base1/symbol.png",
+                "logo": "hhttps://static.tcgcollector.com/content/images/00/4c/8c/004c8c71ed3f36c946e3ad3203393fa92f4ed60ba5581de5968f51bf791d0954.png"
             }
         }
     ],
