@@ -1,6 +1,23 @@
 {
     "data": [
         {
+            "id": "unp",
+            "name": "Unnumbered Promos",
+            "series": "Promos",
+            "printedTotal": 8,
+            "total": 8,
+            "legalities": {
+                "unlimited": "Legal"
+            },
+            "ptcgoCode": "PR",
+            "releaseDate": "1999/01/09",
+            "updatedAt": "2020/08/14 09:35:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/basep/symbol.png",
+                "logo": "https://images.pokemontcg.io/basep/logo.png"
+            }
+        },
+        {
             "id": "basep",
             "name": "Wizards Black Star Promos",
             "series": "Promos",
@@ -1728,8 +1745,8 @@
             "id": "swsh9",
             "name": "Brilliant Stars",
             "series": "Sword & Shield Series",
-            "printedTotal": 172,
-            "total": 186,
+            "printedTotal": 202,
+            "total": 216,
             "legalities": {
                 "unlimited": "Legal",
                 "standard": "Legal",
@@ -1744,30 +1761,11 @@
             }
         },
         {
-            "id": "swsh9tg",
-            "name": "Brilliant Stars Trainer Gallery",
-            "series": "Sword & Shield Series",
-            "printedTotal": 30,
-            "total": 30,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "BRS",
-            "releaseDate": "2022/02/25",
-            "updatedAt": "2022/02/23 09:45:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh9tg/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh9tg/logo.png"
-            }
-        },
-        {
             "id": "swsh10",
             "name": "Astral Radiance",
             "series": "Sword & Shield Series",
-            "printedTotal": 189,
-            "total": 216,
+            "printedTotal": 219,
+            "total": 246,
             "legalities": {
                 "unlimited": "Legal",
                 "standard": "Legal",
@@ -1782,30 +1780,11 @@
             }
         },
         {
-            "id": "swsh10tg",
-            "name": "Astral Radiance Trainer Gallery",
-            "series": "Sword & Shield Series",
-            "printedTotal": 30,
-            "total": 30,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "ASR",
-            "releaseDate": "2022/05/27",
-            "updatedAt": "2022/05/27 09:45:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh10tg/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh10tg/logo.png"
-            }
-        },
-        {
             "id": "swsh11",
             "name": "Lost Origin",
             "series": "Sword & Shield Series",
-            "printedTotal": 196,
-            "total": 217,
+            "printedTotal": 226,
+            "total": 247,
             "legalities": {
                 "unlimited": "Legal",
                 "standard": "Legal",
@@ -1820,30 +1799,11 @@
             }
         },
         {
-            "id": "swsh11tg",
-            "name": "Lost Origin Trainer Gallery",
-            "series": "Sword & Shield Series",
-            "printedTotal": 30,
-            "total": 30,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "LOR",
-            "releaseDate": "2022/09/09",
-            "updatedAt": "2022/09/09 13:45:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh11tg/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh11tg/logo.png"
-            }
-        },
-        {
             "id": "swsh12",
             "name": "Silver Tempest",
             "series": "Sword & Shield Series",
-            "printedTotal": 195,
-            "total": 215,
+            "printedTotal": 225,
+            "total": 245,
             "legalities": {
                 "unlimited": "Legal",
                 "standard": "Legal",
@@ -1858,30 +1818,11 @@
             }
         },
         {
-            "id": "swsh12tg",
-            "name": "Silver Tempest Trainer Gallery",
-            "series": "Sword & Shield Series",
-            "printedTotal": 30,
-            "total": 30,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "SIT",
-            "releaseDate": "2022/11/11",
-            "updatedAt": "2022/11/11 11:45:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12tg/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12tg/logo.png"
-            }
-        },
-        {
             "id": "swsh12pt5",
             "name": "Crown Zenith",
             "series": "Sword & Shield Series",
-            "printedTotal": 159,
-            "total": 160,
+            "printedTotal": 229,
+            "total": 230,
             "legalities": {
                 "unlimited": "Legal",
                 "standard": "Legal",
@@ -1893,25 +1834,6 @@
             "images": {
                 "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
                 "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
-            }
-        },
-        {
-            "id": "swsh12pt5gg",
-            "name": "Crown Zenith Galarian Gallery",
-            "series": "Sword & Shield Series",
-            "printedTotal": 70,
-            "total": 70,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "CRZ",
-            "releaseDate": "2023/01/20",
-            "updatedAt": "2023/01/19 15:45:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh12pt5gg/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh12pt5gg/logo.png"
             }
         },
         {
@@ -1980,6 +1902,22 @@
             "images": {
                 "symbol": "https://images.pokemontcg.io/bp/symbol.png",
                 "logo": "https://images.pokemontcg.io/bp/logo.png"
+            }
+        },
+        {
+            "id": "pcp1",
+            "name": "Poké Card Creator Pack",
+            "series": "Special/Holiday Sets",
+            "printedTotal": 5,
+            "total": 5,
+            "legalities": {
+                "unlimited": "Legal"
+            },
+            "releaseDate": "2004/07/01",
+            "updatedAt": "2019/01/28 16:44:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/base1/symbol.png",
+                "logo": "https://images.pokemontcg.io/base1/logo.png"
             }
         },
         {
@@ -2127,8 +2065,8 @@
             "id": "sm115",
             "name": "Hidden Fates",
             "series": "Special/Holiday Sets",
-            "printedTotal": 68,
-            "total": 69,
+            "printedTotal": 162,
+            "total": 163,
             "legalities": {
                 "unlimited": "Legal",
                 "expanded": "Legal"
@@ -2139,23 +2077,6 @@
             "images": {
                 "symbol": "https://images.pokemontcg.io/sm115/symbol.png",
                 "logo": "https://images.pokemontcg.io/sm115/logo.png"
-            }
-        },
-        {
-            "id": "sma",
-            "name": "Shiny Vault",
-            "series": "Special/Holiday Sets",
-            "printedTotal": 94,
-            "total": 94,
-            "legalities": {
-                "unlimited": "Legal",
-                "expanded": "Legal"
-            },
-            "releaseDate": "2019/08/23",
-            "updatedAt": "2021/09/01 05:37:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/sma/symbol.png",
-                "logo": "https://images.pokemontcg.io/sma/logo.png"
             }
         },
         {
@@ -2200,8 +2121,8 @@
             "id": "swsh45",
             "name": "Shining Fates",
             "series": "Special/Holiday Sets",
-            "printedTotal": 72,
-            "total": 73,
+            "printedTotal": 194,
+            "total": 195,
             "legalities": {
                 "unlimited": "Legal",
                 "standard": "Legal",
@@ -2216,30 +2137,11 @@
             }
         },
         {
-            "id": "swsh45sv",
-            "name": "Shiny Vault",
-            "series": "Special/Holiday Sets",
-            "printedTotal": 122,
-            "total": 122,
-            "legalities": {
-                "unlimited": "Legal",
-                "standard": "Legal",
-                "expanded": "Legal"
-            },
-            "ptcgoCode": "SHF",
-            "releaseDate": "2021/02/19",
-            "updatedAt": "2021/02/24 16:17:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/swsh45sv/symbol.png",
-                "logo": "https://images.pokemontcg.io/swsh45sv/logo.png"
-            }
-        },
-        {
             "id": "cel25",
             "name": "Celebrations",
             "series": "Special/Holiday Sets",
-            "printedTotal": 25,
-            "total": 25,
+            "printedTotal": 50,
+            "total": 50,
             "legalities": {
                 "unlimited": "Legal",
                 "standard": "Legal",
@@ -2251,23 +2153,6 @@
             "images": {
                 "symbol": "https://images.pokemontcg.io/cel25/symbol.png",
                 "logo": "https://images.pokemontcg.io/cel25/logo.png"
-            }
-        },
-        {
-            "id": "cel25c",
-            "name": "Celebrations: Classic Collection",
-            "series": "Special/Holiday Sets",
-            "printedTotal": 25,
-            "total": 25,
-            "legalities": {
-                "unlimited": "Legal"
-            },
-            "ptcgoCode": "CEL",
-            "releaseDate": "2021/10/08",
-            "updatedAt": "2022/10/11 21:39:00",
-            "images": {
-                "symbol": "https://images.pokemontcg.io/cel25c/symbol.png",
-                "logo": "https://images.pokemontcg.io/cel25c/logo.png"
             }
         },
         {
@@ -3050,6 +2935,182 @@
             "images": {
                 "symbol": "https://images.pokemontcg.io/base1/symbol.png",
                 "logo": "https://static.tcgcollector.com/content/images/48/13/50/4813508b2b5d648afc43b5c22cc5660581b0f0a5a1021eda61b1e8e548adab55.png"
+            }
+        },
+        {
+            "id": "topp1",
+            "name": "Series 1",
+            "series": "Topps Series",
+            "printedTotal": 89,
+            "total": 90,
+            "legalities": {
+                "unlimited": "Legal"
+            },
+            "releaseDate": "1999/01/01",
+            "updatedAt": "2022/01/13 20:44:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/base1/symbol.png",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Topps_Logo.svg/1280px-Topps_Logo.svg.png"
+            }
+        },
+        {
+            "id": "topp2",
+            "name": "Series 2",
+            "series": "Topps Series",
+            "printedTotal": 71,
+            "total": 72,
+            "legalities": {
+                "unlimited": "Legal"
+            },
+            "releaseDate": "2000/01/01",
+            "updatedAt": "2022/01/13 20:44:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/base1/symbol.png",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Topps_Logo.svg/1280px-Topps_Logo.svg.png"
+            }
+        },
+        {
+            "id": "topp3",
+            "name": "Pokémon the First Movie",
+            "series": "Topps Series",
+            "printedTotal": 71,
+            "total": 72,
+            "legalities": {
+                "unlimited": "Legal"
+            },
+            "releaseDate": "1999/01/01",
+            "updatedAt": "2022/01/13 20:44:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/base1/symbol.png",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Topps_Logo.svg/1280px-Topps_Logo.svg.png"
+            }
+        },
+        {
+            "id": "topp4",
+            "name": "Series 3",
+            "series": "Topps Series",
+            "printedTotal": 71,
+            "total": 72,
+            "legalities": {
+                "unlimited": "Legal"
+            },
+            "releaseDate": "2000/01/01",
+            "updatedAt": "2022/01/13 20:44:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/base1/symbol.png",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Topps_Logo.svg/1280px-Topps_Logo.svg.png"
+            }
+        },
+        {
+            "id": "topp5",
+            "name": "Pokémon the Movie 2000",
+            "series": "Topps Series",
+            "printedTotal": 71,
+            "total": 72,
+            "legalities": {
+                "unlimited": "Legal"
+            },
+            "releaseDate": "2000/01/01",
+            "updatedAt": "2022/01/13 20:44:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/base1/symbol.png",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Topps_Logo.svg/1280px-Topps_Logo.svg.png"
+            }
+        },
+        {
+            "id": "topp6",
+            "name": "Chrome Series 1",
+            "series": "Topps Series",
+            "printedTotal": 78,
+            "total": 78,
+            "legalities": {
+                "unlimited": "Legal"
+            },
+            "releaseDate": "2000/01/01",
+            "updatedAt": "2022/01/13 20:44:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/base1/symbol.png",
+                "logo": "https://img.beckett.com/news/news-content/uploads/2021/10/Topps-Chrome-Logo.jpg"
+            }
+        },
+        {
+            "id": "topp7",
+            "name": "Chrome Series 2",
+            "series": "Topps Series",
+            "printedTotal": 73,
+            "total": 73,
+            "legalities": {
+                "unlimited": "Legal"
+            },
+            "releaseDate": "2000/01/01",
+            "updatedAt": "2022/01/13 20:44:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/base1/symbol.png",
+                "logo": "https://img.beckett.com/news/news-content/uploads/2021/10/Topps-Chrome-Logo.jpg"
+            }
+        },
+        {
+            "id": "topp8",
+            "name": "Johto Series 1",
+            "series": "Topps Series",
+            "printedTotal": 89,
+            "total": 90,
+            "legalities": {
+                "unlimited": "Legal"
+            },
+            "releaseDate": "2001/01/01",
+            "updatedAt": "2022/01/13 20:44:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/base1/symbol.png",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Topps_Logo.svg/1280px-Topps_Logo.svg.png"
+            }
+        },
+        {
+            "id": "topp9",
+            "name": "Johto League Champions",
+            "series": "Topps Series",
+            "printedTotal": 49,
+            "total": 50,
+            "legalities": {
+                "unlimited": "Legal"
+            },
+            "releaseDate": "2001/01/01",
+            "updatedAt": "2022/01/13 20:44:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/base1/symbol.png",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Topps_Logo.svg/1280px-Topps_Logo.svg.png"
+            }
+        },
+        {
+            "id": "topp10",
+            "name": "Advanced Trading Cards",
+            "series": "Topps Series",
+            "printedTotal": 89,
+            "total": 90,
+            "legalities": {
+                "unlimited": "Legal"
+            },
+            "releaseDate": "2003/01/01",
+            "updatedAt": "2022/01/13 20:44:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/base1/symbol.png",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Topps_Logo.svg/1280px-Topps_Logo.svg.png"
+            }
+        },
+        {
+            "id": "topp11",
+            "name": "Advanced Challenge Trading Cards",
+            "series": "Topps Series",
+            "printedTotal": 89,
+            "total": 90,
+            "legalities": {
+                "unlimited": "Legal"
+            },
+            "releaseDate": "2004/01/01",
+            "updatedAt": "2022/01/13 20:44:00",
+            "images": {
+                "symbol": "https://images.pokemontcg.io/base1/symbol.png",
+                "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Topps_Logo.svg/1280px-Topps_Logo.svg.png"
             }
         }
     ],
