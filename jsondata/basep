@@ -95,7 +95,10 @@
         "level": "20",
         "hp": "60",
         "types": [
-          "Lightning"
+            {
+            "name": "Lightning",
+            "image": "https://www.dropbox.com/s/lwau9fj1j6zgq2a/Lightning.png?dl=1"
+            }
         ],
         "evolvesTo": [
           "Electivire"
@@ -104,7 +107,10 @@
           {
             "name": "Light Screen",
             "cost": [
-              "Lightning"
+            {
+                "name": "Colorless",
+                "image": "https://www.dropbox.com/s/w55xhawximbuk8k/Colorless.png?dl=1"
+            }
             ],
             "convertedEnergyCost": 1,
             "damage": "",
@@ -113,8 +119,10 @@
           {
             "name": "Quick Attack",
             "cost": [
-              "Colorless",
-              "Colorless"
+            {
+                "name": "Colorless Colorless",
+                "image": "https://www.dropbox.com/s/6n4xop9jnfkgn85/Colorless%2C%20Colorless.png?dl=1"
+            }
             ],
             "convertedEnergyCost": 2,
             "damage": "10+",
@@ -124,17 +132,25 @@
         "weaknesses": [
           {
             "type": "Fighting",
+            "image": "https://www.dropbox.com/s/kv35lnx94apozfw/Fighting.png?dl=1",
             "value": "×2"
           }
         ],
         "retreatCost": [
-          "Colorless",
-          "Colorless"
+        {
+            "name": "Colorless Colorless",
+            "image": "https://www.dropbox.com/s/zrqzpiaftjizj85/Colorless%2C%20Colorless.png?dl=1"
+        }
         ],
         "convertedRetreatCost": 2,
         "number": "2",
         "artist": "Ken Sugimori",
-        "rarity": "Promo",
+        "rarity": [
+        {
+            "name": "Promo",
+            "image": "https://www.dropbox.com/s/g695m6j9fwzu07q/Promo.png?dl=1"
+        }
+        ],
         "flavorText": "A wild Pokémon with a short temper. It is able to distinguish colors, and likes the color red.",
         "nationalPokedexNumbers": [
           125
