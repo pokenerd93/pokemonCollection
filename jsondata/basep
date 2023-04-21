@@ -39,12 +39,8 @@
             "name": "Thundershock",
             "cost": [
             {
-                "name": "Lightning",
-                "image": "https://www.dropbox.com/s/fmsbrksz496e3z2/Lightning.png?dl=1"
-            },
-            {
-                "name": "Lightning",
-                "image": "https://www.dropbox.com/s/fmsbrksz496e3z2/Lightning.png?dl=1"
+                "name": "Lightning Lightning",
+                "image": "https://www.dropbox.com/s/4bf0opeg7w9ovzx/Lightning%2C%20Lightning.png?dl=01"
             }
             ],
             "convertedEnergyCost": 2,
