@@ -64,7 +64,12 @@
         "convertedRetreatCost": 1,
         "number": "1",
         "artist": "Keiji Kinebuchi",
-        "rarity": "Promo",
+        "rarity": [
+        {
+            "name": "Promo",
+            "image": "https://www.dropbox.com/s/g695m6j9fwzu07q/Promo.png?dl=1"
+        }
+        ],
         "flavorText": "When several of these Pokémon gather, their electricity could build and cause lightning storms.",
         "nationalPokedexNumbers": [
           25
