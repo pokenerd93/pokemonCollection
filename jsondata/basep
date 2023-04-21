@@ -142,7 +142,9 @@
         "legalities": {
           "unlimited": "Legal"
         },
-        "images": "https://images.pokemontcg.io/basep/2.png"
+        "images": [
+            "https://www.dropbox.com/s/s5z8wxc3fuvb9x4/basep2-0.png?dl=1"
+        ]
       },
       {
         "id": "basep-3",
