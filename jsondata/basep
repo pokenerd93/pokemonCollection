@@ -14,7 +14,10 @@
         "level": "16",
         "hp": "60",
         "types": [
-          "Lightning"
+            {
+            "name": "Lightning",
+            "image": "https://www.dropbox.com/s/lwau9fj1j6zgq2a/Lightning.png?dl=1"
+            }
         ],
         "evolvesTo": [
           "Raichu"
