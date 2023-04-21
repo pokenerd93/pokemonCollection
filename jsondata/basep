@@ -30,6 +30,7 @@
             ],
             "convertedEnergyCost": 1,
             "damage": "",
+            "image": "https://www.dropbox.com/s/w55xhawximbuk8k/Colorless.png?dl=1",
             "text": "If the Defending Pokémon attacks Pikachu during your opponent's next turn, any damage done by the attack is reduced by 10 (after applying Weakness and Resistance). (Benching either Pokémon ends this effect.)"
           },
           {
@@ -40,6 +41,7 @@
             ],
             "convertedEnergyCost": 2,
             "damage": "20",
+            "image": "https://www.dropbox.com/s/n7ue222sdoqxdkr/Lightning%2C%20Lightning.png?dl=1",
             "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
           }
         ],
