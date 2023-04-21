@@ -108,8 +108,8 @@
             "name": "Light Screen",
             "cost": [
             {
-                "name": "Colorless",
-                "image": "https://www.dropbox.com/s/w55xhawximbuk8k/Colorless.png?dl=1"
+                "name": "Lightning",
+                "image": "https://www.dropbox.com/s/fmsbrksz496e3z2/Lightning.png?dl=1"
             }
             ],
             "convertedEnergyCost": 1,
