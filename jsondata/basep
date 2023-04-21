@@ -51,6 +51,7 @@
         "weaknesses": [
           {
             "type": "Fighting",
+            "image": "https://www.dropbox.com/s/kv35lnx94apozfw/Fighting.png?dl=1",
             "value": "×2"
           }
         ],
