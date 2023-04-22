@@ -85,6 +85,8 @@
         "nationalPokedexNumbers": [
           25
         ],
+        "row": 0,
+        "column": 0,
         "legalities": {
           "unlimited": "Legal"
         },
@@ -177,6 +179,8 @@
         "nationalPokedexNumbers": [
           125
         ],
+        "row": 0,
+        "column": 1,
         "legalities": {
           "unlimited": "Legal"
         },
@@ -264,6 +268,8 @@
         "nationalPokedexNumbers": [
           150
         ],
+        "row": 0,
+        "column": 2,
         "legalities": {
           "unlimited": "Legal"
         },
@@ -355,6 +361,8 @@
         "nationalPokedexNumbers": [
           25
         ],
+        "row": 0,
+        "column": 3,
         "legalities": {
           "unlimited": "Legal"
         },
@@ -442,6 +450,8 @@
         "nationalPokedexNumbers": [
           149
         ],
+        "row": 0,
+        "column": 4,
         "legalities": {
           "unlimited": "Legal"
         },
@@ -533,6 +543,8 @@
         "nationalPokedexNumbers": [
           59
         ],
+        "row": 0,
+        "column": 5,
         "legalities": {
           "unlimited": "Legal"
         },
