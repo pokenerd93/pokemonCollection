@@ -222,7 +222,12 @@
         "convertedRetreatCost": 2,
         "number": "3",
         "artist": "Ken Sugimori",
-        "rarity": "Promo",
+        "rarity": [
+        {
+            "name": "Promo",
+            "image": "https://www.dropbox.com/s/g695m6j9fwzu07q/Promo.png?dl=1"
+        }
+        ],
         "flavorText": "Years of genetic experiments resulted in the creation of this never-before-seen violent Pokémon.",
         "nationalPokedexNumbers": [
           150
