@@ -284,7 +284,12 @@
         "level": "13",
         "hp": "50",
         "types": [
-          "Lightning"
+            {
+            "name": "Lightning",
+            "image": "https://www.dropbox.com/s/lwau9fj1j6zgq2a/Lightning.png?dl=1",
+            "imageWidth": 25,
+            "imageHeight": 25
+            }
         ],
         "evolvesTo": [
           "Raichu"
@@ -293,18 +298,25 @@
           {
             "name": "Recharge",
             "cost": [
-              "Lightning"
+            {
+                "name": "Lightning",
+                "image": "https://www.dropbox.com/s/fmsbrksz496e3z2/Lightning.png?dl=1",
+                "imageWidth": 25,
+                "imageHeight": 25
+            }
             ],
             "convertedEnergyCost": 1,
-            "damage": "",
             "text": "Search your deck for a Lightning Energy card and attach it to Pikachu. Shuffle your deck afterward."
           },
           {
             "name": "Thunderbolt",
             "cost": [
-              "Lightning",
-              "Lightning",
-              "Lightning"
+            {
+                "name": "Lightning Lightning Lightning",
+                "image": "https://www.dropbox.com/s/z8x2kb6yk36kvpi/Lightning%2C%20Lightning%2C%20Lightning.png?dl=1",
+                "imageWidth": 80,
+                "imageHeight": 25
+            }
             ],
             "convertedEnergyCost": 3,
             "damage": "50",
@@ -314,16 +326,31 @@
         "weaknesses": [
           {
             "type": "Fighting",
+            "image": "https://www.dropbox.com/s/kv35lnx94apozfw/Fighting.png?dl=1",
+            "imageWidth": 25,
+            "imageHeight": 25,
             "value": "×2"
           }
         ],
         "retreatCost": [
-          "Colorless"
+        {
+            "name": "Colorless",
+            "image": "https://www.dropbox.com/s/isxpid0osmi1j6x/Colorless.png?dl=1",
+            "imageWidth": 25,
+            "imageHeight": 25
+        }
         ],
         "convertedRetreatCost": 1,
         "number": "4",
         "artist": "Ken Sugimori",
-        "rarity": "Promo",
+        "rarity": [
+        {
+            "name": "Promo",
+            "image": "https://www.dropbox.com/s/g695m6j9fwzu07q/Promo.png?dl=1",
+            "imageWidth": 25,
+            "imageHeight": 25
+        }
+        ],
         "flavorText": "When several of these Pokémon gather, they attract so much electricity that they can cause lightning to strike.",
         "nationalPokedexNumbers": [
           25
@@ -331,7 +358,10 @@
         "legalities": {
           "unlimited": "Legal"
         },
-        "images": "https://images.pokemontcg.io/basep/4.png"
+        "images": [
+            "https://www.dropbox.com/s/mrxragpp8ynf3mx/basep4-0.png?dl=1",
+            "https://www.dropbox.com/s/61yx6uzt6zo87if/basep4-1.png?dl=1"
+        ]
       },
       {
         "id": "basep-5",
