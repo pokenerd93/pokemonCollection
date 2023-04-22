@@ -32,7 +32,6 @@
             }
             ],
             "convertedEnergyCost": 1,
-            "damage": "",
             "text": "If the Defending Pokémon attacks Pikachu during your opponent's next turn, any damage done by the attack is reduced by 10 (after applying Weakness and Resistance). (Benching either Pokémon ends this effect.)"
           },
           {
@@ -113,7 +112,6 @@
             }
             ],
             "convertedEnergyCost": 1,
-            "damage": "",
             "text": "Whenever an attack does damage to Electabuzz (after applying Weakness and Resistance) during your opponent's next turn, that attack only does half the damage to Electabuzz (rounded down to the nearest 10). (Any other effects of attacks still happen.)"
           },
           {
