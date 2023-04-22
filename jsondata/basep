@@ -462,15 +462,24 @@
         "level": "34",
         "hp": "70",
         "types": [
-          "Fire"
+            {
+            "name": "Fire",
+            "image": "https://www.dropbox.com/s/datcoyg7988gaam/Fire.png?dl=1",
+            "imageWidth": 25,
+            "imageHeight": 25
+            }
         ],
         "evolvesFrom": "Growlithe",
         "attacks": [
           {
             "name": "Quick Attack",
             "cost": [
-              "Colorless",
-              "Colorless"
+            {
+                "name": "Colorless Colorless",
+                "image": "https://www.dropbox.com/s/6n4xop9jnfkgn85/Colorless%2C%20Colorless.png?dl=1",
+                "imageWidth": 51,
+                "imageHeight": 25
+            }
             ],
             "convertedEnergyCost": 2,
             "damage": "10+",
@@ -479,27 +488,47 @@
           {
             "name": "Flames of Rage",
             "cost": [
-              "Fire",
-              "Fire"
+            {
+                "name": "Fire Fire",
+                "image": "https://www.dropbox.com/s/xy6urrkdo2ajpl9/Fire%2C%20Fire.png?dl=1",
+                "imageWidth": 51,
+                "imageHeight": 25
+            }
             ],
             "convertedEnergyCost": 2,
             "damage": "40+",
             "text": "Discard 2 Fire Energy cards attached to Arcanine in order to use this attack. This attack does 40 damage plus 10 more damage for each damage counter on Arcanine."
           }
         ],
+        
         "weaknesses": [
           {
             "type": "Water",
+            "image": "https://www.dropbox.com/s/1yfi42g3os1rxno/Water.png?dl=1",
+            "imageWidth": 25,
+            "imageHeight": 25,
             "value": "×2"
           }
         ],
         "retreatCost": [
-          "Colorless"
+        {
+            "name": "Colorless",
+            "image": "https://www.dropbox.com/s/isxpid0osmi1j6x/Colorless.png?dl=1",
+            "imageWidth": 25,
+            "imageHeight": 25
+        }
         ],
         "convertedRetreatCost": 1,
         "number": "6",
         "artist": "Ken Sugimori",
-        "rarity": "Promo",
+        "rarity": [
+        {
+            "name": "Promo",
+            "image": "https://www.dropbox.com/s/g695m6j9fwzu07q/Promo.png?dl=1",
+            "imageWidth": 25,
+            "imageHeight": 25
+        }
+        ],
         "flavorText": "A legendary Pokémon famous for its beauty. It looks almost as if it flies when it runs.",
         "nationalPokedexNumbers": [
           59
@@ -507,7 +536,9 @@
         "legalities": {
           "unlimited": "Legal"
         },
-        "images": "https://images.pokemontcg.io/basep/6.png"
+        "images": [
+            "https://www.dropbox.com/s/s47f4lilbr9amxb/basep6-0.png?dl=1"
+        ]
       },
       {
         "id": "basep-7",
