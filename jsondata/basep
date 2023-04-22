@@ -376,23 +376,34 @@
         "level": "43",
         "hp": "90",
         "types": [
-          "Colorless"
+            {
+            "name": "Colorless",
+            "image": "https://www.dropbox.com/s/qie3npel9yyq7bv/Colorless.png?dl=1",
+            "imageWidth": 25,
+            "imageHeight": 25
+            }
         ],
-        "evolvesFrom": "Dragonair",
+        "evolvesFrom": "evolves from Dragonair",
         "abilities": [
           {
             "name": "Special Delivery",
             "text": "Once during your turn (before your attack), you may draw a card. If you do, choose a card from your hand and put it on top of your deck. This power can't be used if Dragonite is Asleep, Confused, or Paralyzed.",
-            "type": "Pokémon Power"
+            "type": "Pokémon Power",
+            "image": "https://www.dropbox.com/s/h7ott20a21yg5wq/Pokemon%20Power.png?dl=1",
+            "imageWidth": 80,
+            "imageHeight": 25
           }
         ],
         "attacks": [
           {
             "name": "Supersonic Flight",
             "cost": [
-              "Colorless",
-              "Colorless",
-              "Colorless"
+            {
+                "name": "Colorless Colorless Colorless",
+                "image": "https://www.dropbox.com/s/d9b7gy7asux6qiv/Colorless%2C%20Colorless%2C%20Colorless.png?dl=1",
+                "imageWidth": 80,
+                "imageHeight": 25
+            }
             ],
             "convertedEnergyCost": 3,
             "damage": "60",
@@ -402,17 +413,31 @@
         "resistances": [
           {
             "type": "Fighting",
+            "image": "https://www.dropbox.com/s/kv35lnx94apozfw/Fighting.png?dl=1",
+            "imageWidth": 25,
+            "imageHeight": 25,
             "value": "-30"
           }
         ],
         "retreatCost": [
-          "Colorless",
-          "Colorless"
+        {
+            "name": "Colorless Colorless",
+            "image": "https://www.dropbox.com/s/zrqzpiaftjizj85/Colorless%2C%20Colorless.png?dl=1",
+            "imageWidth": 51,
+            "imageHeight": 25
+        }
         ],
         "convertedRetreatCost": 2,
         "number": "5",
         "artist": "Toshinao Aoki",
-        "rarity": "Promo",
+        "rarity": [
+        {
+            "name": "Promo",
+            "image": "https://www.dropbox.com/s/g695m6j9fwzu07q/Promo.png?dl=1",
+            "imageWidth": 25,
+            "imageHeight": 25
+        }
+        ],
         "flavorText": "This Pokémon can fly is spite of its large bulk. It is said to be able to circumnavigate the earth in just 16 hours.",
         "nationalPokedexNumbers": [
           149
@@ -420,7 +445,9 @@
         "legalities": {
           "unlimited": "Legal"
         },
-        "images": "https://images.pokemontcg.io/basep/5.png"
+        "images": [
+            "https://www.dropbox.com/s/3cdutsx1in6wruk/basep5-0.png?dl=1"
+        ]
       },
       {
         "id": "basep-6",
