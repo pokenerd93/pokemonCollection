@@ -510,7 +510,6 @@
             "text": "Discard 2 Fire Energy cards attached to Arcanine in order to use this attack. This attack does 40 damage plus 10 more damage for each damage counter on Arcanine."
           }
         ],
-        
         "weaknesses": [
           {
             "type": "Water",
@@ -565,7 +564,12 @@
         "level": "12",
         "hp": "50",
         "types": [
-          "Colorless"
+            {
+            "name": "Colorless",
+            "image": "https://www.dropbox.com/s/qie3npel9yyq7bv/Colorless.png?dl=1",
+            "imageWidth": 25,
+            "imageHeight": 25
+            }
         ],
         "evolvesTo": [
           "Wigglytuff"
@@ -574,18 +578,25 @@
           {
             "name": "First Aid",
             "cost": [
-              "Colorless"
+            {
+                "name": "Colorless",
+                "image": "https://www.dropbox.com/s/w55xhawximbuk8k/Colorless.png?dl=1",
+                "imageWidth": 25,
+                "imageHeight": 25
+            }
             ],
             "convertedEnergyCost": 1,
-            "damage": "",
             "text": "Remove 1 damage counter from Jigglypuff."
           },
           {
             "name": "Double-edge",
             "cost": [
-              "Colorless",
-              "Colorless",
-              "Colorless"
+            {
+                "name": "Colorless Colorless Colorless",
+                "image": "https://www.dropbox.com/s/d9b7gy7asux6qiv/Colorless%2C%20Colorless%2C%20Colorless.png?dl=1",
+                "imageWidth": 80,
+                "imageHeight": 25
+            }
             ],
             "convertedEnergyCost": 3,
             "damage": "40",
@@ -595,22 +606,40 @@
         "weaknesses": [
           {
             "type": "Fighting",
+            "image": "https://www.dropbox.com/s/kv35lnx94apozfw/Fighting.png?dl=1",
+            "imageWidth": 25,
+            "imageHeight": 25,
             "value": "×2"
           }
         ],
         "resistances": [
           {
             "type": "Psychic",
+            "image": "https://www.dropbox.com/s/axudglzuqyndsq3/Psychic.png?dl=1",
+            "imageWidth": 25,
+            "imageHeight": 25,
             "value": "-30"
           }
         ],
         "retreatCost": [
-          "Colorless"
+        {
+            "name": "Colorless",
+            "image": "https://www.dropbox.com/s/isxpid0osmi1j6x/Colorless.png?dl=1",
+            "imageWidth": 25,
+            "imageHeight": 25
+        }
         ],
         "convertedRetreatCost": 1,
         "number": "7",
         "artist": "Keiji Kinebuchi",
-        "rarity": "Promo",
+        "rarity": [
+        {
+            "name": "Promo",
+            "image": "https://www.dropbox.com/s/g695m6j9fwzu07q/Promo.png?dl=1",
+            "imageWidth": 25,
+            "imageHeight": 25
+        }
+        ],
         "flavorText": "When its huge eyes light up, it sings a mysteriously soothing melody that lulls its enemies to sleep.",
         "nationalPokedexNumbers": [
           39
@@ -618,7 +647,9 @@
         "legalities": {
           "unlimited": "Legal"
         },
-        "images": "https://images.pokemontcg.io/basep/7.png"
+        "images": [
+            "https://www.dropbox.com/s/hx2c0ic4imvs35x/basep7-0.png?dl=1"
+        ]
       },
       {
         "id": "basep-8",
