@@ -11,7 +11,6 @@
             "subtypes": [
                 "Basic"
             ],
-            "level": "16",
             "hp": "60",
             "types": [
                 {
@@ -20,9 +19,6 @@
                     "imageWidth": 25,
                     "imageHeight": 25
                 }
-            ],
-            "evolvesTo": [
-                "Raichu"
             ],
             "attacks": [
                 {
@@ -35,7 +31,6 @@
                             "imageHeight": 25
                         }
                     ],
-                    "convertedEnergyCost": 1,
                     "text": "If the Defending Pokémon attacks Pikachu during your opponent's next turn, any damage done by the attack is reduced by 10 (after applying Weakness and Resistance). (Benching either Pokémon ends this effect.)"
                 },
                 {
@@ -48,7 +43,6 @@
                             "imageHeight": 25
                         }
                     ],
-                    "convertedEnergyCost": 2,
                     "damage": "20",
                     "text": "Flip a coin. If heads, the Defending Pokémon is now Paralyzed."
                 }
@@ -70,7 +64,6 @@
                     "imageHeight": 25
                 }
             ],
-            "convertedRetreatCost": 1,
             "number": "1",
             "artist": "Keiji Kinebuchi",
             "rarity": [
@@ -81,15 +74,8 @@
                     "imageHeight": 25
                 }
             ],
-            "flavorText": "When several of these Pokémon gather, their electricity could build and cause lightning storms.",
-            "nationalPokedexNumbers": [
-                25
-            ],
             "row": 0,
             "column": 0,
-            "legalities": {
-                "unlimited": "Legal"
-            },
             "images": [
                 "https://www.dropbox.com/s/k4g5fppb1qs5d2d/basep1-0.png?dl=1",
                 "https://www.dropbox.com/s/hn4f65rp3hadkc7/basep1-1.png?dl=1"
@@ -109,7 +95,6 @@
             "subtypes": [
                 "Basic"
             ],
-            "level": "20",
             "hp": "60",
             "types": [
                 {
@@ -118,9 +103,6 @@
                     "imageWidth": 25,
                     "imageHeight": 25
                 }
-            ],
-            "evolvesTo": [
-                "Electivire"
             ],
             "attacks": [
                 {
@@ -133,7 +115,6 @@
                             "imageHeight": 25
                         }
                     ],
-                    "convertedEnergyCost": 1,
                     "text": "Whenever an attack does damage to Electabuzz (after applying Weakness and Resistance) during your opponent's next turn, that attack only does half the damage to Electabuzz (rounded down to the nearest 10). (Any other effects of attacks still happen.)"
                 },
                 {
@@ -146,7 +127,6 @@
                             "imageHeight": 25
                         }
                     ],
-                    "convertedEnergyCost": 2,
                     "damage": "10+",
                     "text": "Flip a coin. If heads, this attack does 10 damage plus 20 more damage; if tails, this attack does 10 damage."
                 }
@@ -168,7 +148,6 @@
                     "imageHeight": 25
                 }
             ],
-            "convertedRetreatCost": 2,
             "number": "2",
             "artist": "Ken Sugimori",
             "rarity": [
@@ -179,15 +158,8 @@
                     "imageHeight": 25
                 }
             ],
-            "flavorText": "A wild Pokémon with a short temper. It is able to distinguish colors, and likes the color red.",
-            "nationalPokedexNumbers": [
-                125
-            ],
             "row": 0,
             "column": 1,
-            "legalities": {
-                "unlimited": "Legal"
-            },
             "images": [
                 "https://www.dropbox.com/s/s5z8wxc3fuvb9x4/basep2-0.png?dl=1"
             ],
@@ -205,7 +177,6 @@
             "subtypes": [
                 "Basic"
             ],
-            "level": "60",
             "hp": "70",
             "types": [
                 {
@@ -226,7 +197,6 @@
                             "imageHeight": 25
                         }
                     ],
-                    "convertedEnergyCost": 1,
                     "text": "Choose up to 2 Energy cards from your discard pile and attach them to Mewtwo."
                 },
                 {
@@ -239,7 +209,6 @@
                             "imageHeight": 25
                         }
                     ],
-                    "convertedEnergyCost": 3,
                     "damage": "40"
                 }
             ],
@@ -260,7 +229,6 @@
                     "imageHeight": 25
                 }
             ],
-            "convertedRetreatCost": 2,
             "number": "3",
             "artist": "Ken Sugimori",
             "rarity": [
@@ -271,15 +239,8 @@
                     "imageHeight": 25
                 }
             ],
-            "flavorText": "Years of genetic experiments resulted in the creation of this never-before-seen violent Pokémon.",
-            "nationalPokedexNumbers": [
-                150
-            ],
             "row": 0,
             "column": 2,
-            "legalities": {
-                "unlimited": "Legal"
-            },
             "images": [
                 "https://www.dropbox.com/s/wmf1rwxhfifm5fn/basep3-0.png?dl=1"
             ],
@@ -297,7 +258,6 @@
             "subtypes": [
                 "Basic"
             ],
-            "level": "13",
             "hp": "50",
             "types": [
                 {
@@ -306,9 +266,6 @@
                     "imageWidth": 25,
                     "imageHeight": 25
                 }
-            ],
-            "evolvesTo": [
-                "Raichu"
             ],
             "attacks": [
                 {
@@ -321,7 +278,6 @@
                             "imageHeight": 25
                         }
                     ],
-                    "convertedEnergyCost": 1,
                     "text": "Search your deck for a Lightning Energy card and attach it to Pikachu. Shuffle your deck afterward."
                 },
                 {
@@ -334,7 +290,6 @@
                             "imageHeight": 25
                         }
                     ],
-                    "convertedEnergyCost": 3,
                     "damage": "50",
                     "text": "Discard all Energy cards attached to Pikachu in order to use this attack."
                 }
@@ -356,7 +311,6 @@
                     "imageHeight": 25
                 }
             ],
-            "convertedRetreatCost": 1,
             "number": "4",
             "artist": "Ken Sugimori",
             "rarity": [
@@ -367,15 +321,8 @@
                     "imageHeight": 25
                 }
             ],
-            "flavorText": "When several of these Pokémon gather, they attract so much electricity that they can cause lightning to strike.",
-            "nationalPokedexNumbers": [
-                25
-            ],
             "row": 0,
             "column": 3,
-            "legalities": {
-                "unlimited": "Legal"
-            },
             "images": [
                 "https://www.dropbox.com/s/mrxragpp8ynf3mx/basep4-0.png?dl=1",
                 "https://www.dropbox.com/s/61yx6uzt6zo87if/basep4-1.png?dl=1"
@@ -395,7 +342,6 @@
             "subtypes": [
                 "Stage 2"
             ],
-            "level": "43",
             "hp": "90",
             "types": [
                 {
@@ -427,7 +373,6 @@
                             "imageHeight": 25
                         }
                     ],
-                    "convertedEnergyCost": 3,
                     "damage": "60",
                     "text": "Flip a coin. If tails, this attack does nothing."
                 }
@@ -449,7 +394,6 @@
                     "imageHeight": 25
                 }
             ],
-            "convertedRetreatCost": 2,
             "number": "5",
             "artist": "Toshinao Aoki",
             "rarity": [
@@ -460,15 +404,8 @@
                     "imageHeight": 25
                 }
             ],
-            "flavorText": "This Pokémon can fly is spite of its large bulk. It is said to be able to circumnavigate the earth in just 16 hours.",
-            "nationalPokedexNumbers": [
-                149
-            ],
             "row": 0,
             "column": 4,
-            "legalities": {
-                "unlimited": "Legal"
-            },
             "images": [
                 "https://www.dropbox.com/s/3cdutsx1in6wruk/basep5-0.png?dl=1"
             ],
@@ -486,7 +423,6 @@
             "subtypes": [
                 "Stage 1"
             ],
-            "level": "34",
             "hp": "70",
             "types": [
                 {
@@ -508,7 +444,6 @@
                             "imageHeight": 25
                         }
                     ],
-                    "convertedEnergyCost": 2,
                     "damage": "10+",
                     "text": "Flip a coin. If heads, this attack does 10 damage plus 20 more damage; if tails, this attack does 10 damage."
                 },
@@ -522,7 +457,6 @@
                             "imageHeight": 25
                         }
                     ],
-                    "convertedEnergyCost": 2,
                     "damage": "40+",
                     "text": "Discard 2 Fire Energy cards attached to Arcanine in order to use this attack. This attack does 40 damage plus 10 more damage for each damage counter on Arcanine."
                 }
@@ -544,7 +478,6 @@
                     "imageHeight": 25
                 }
             ],
-            "convertedRetreatCost": 1,
             "number": "6",
             "artist": "Ken Sugimori",
             "rarity": [
@@ -555,15 +488,8 @@
                     "imageHeight": 25
                 }
             ],
-            "flavorText": "A legendary Pokémon famous for its beauty. It looks almost as if it flies when it runs.",
-            "nationalPokedexNumbers": [
-                59
-            ],
             "row": 0,
             "column": 5,
-            "legalities": {
-                "unlimited": "Legal"
-            },
             "images": [
                 "https://www.dropbox.com/s/s47f4lilbr9amxb/basep6-0.png?dl=1"
             ],
@@ -581,7 +507,6 @@
             "subtypes": [
                 "Basic"
             ],
-            "level": "12",
             "hp": "50",
             "types": [
                 {
@@ -590,9 +515,6 @@
                     "imageWidth": 25,
                     "imageHeight": 25
                 }
-            ],
-            "evolvesTo": [
-                "Wigglytuff"
             ],
             "attacks": [
                 {
@@ -605,7 +527,6 @@
                             "imageHeight": 25
                         }
                     ],
-                    "convertedEnergyCost": 1,
                     "text": "Remove 1 damage counter from Jigglypuff."
                 },
                 {
@@ -618,7 +539,6 @@
                             "imageHeight": 25
                         }
                     ],
-                    "convertedEnergyCost": 3,
                     "damage": "40",
                     "text": "Jigglypuff does 20 damage to itself."
                 }
@@ -649,7 +569,6 @@
                     "imageHeight": 25
                 }
             ],
-            "convertedRetreatCost": 1,
             "number": "7",
             "artist": "Keiji Kinebuchi",
             "rarity": [
@@ -660,15 +579,8 @@
                     "imageHeight": 25
                 }
             ],
-            "flavorText": "When its huge eyes light up, it sings a mysteriously soothing melody that lulls its enemies to sleep.",
-            "nationalPokedexNumbers": [
-                39
-            ],
             "row": 1,
             "column": 0,
-            "legalities": {
-                "unlimited": "Legal"
-            },
             "images": [
                 "https://www.dropbox.com/s/hx2c0ic4imvs35x/basep7-0.png?dl=1"
             ],
@@ -686,7 +598,6 @@
             "subtypes": [
                 "Basic"
             ],
-            "level": "23",
             "hp": "50",
             "types": [
                 {
@@ -707,7 +618,6 @@
                             "imageHeight": 25
                         }
                     ],
-                    "convertedEnergyCost": 1,
                     "damage": "10×",
                     "text": "Does 10 damage times the number of Energy cards attached to the Defending Pokémon."
                 },
@@ -721,7 +631,6 @@
                             "imageHeight": 25
                         }
                     ],
-                    "convertedEnergyCost": 2,
                     "text": "Choose an evolved Pokémon (your own or your opponent's). Return the highest Stage Evolution card on that Pokémon to its player's hand. That Pokémon is no longer Asleep, Confused, Paralyzed, or Poisoned, or anything else that might be the result of an attack (just as if you had evolved it)."
                 }
             ],
@@ -742,7 +651,6 @@
                     "imageHeight": 25
                 }
             ],
-            "convertedRetreatCost": 1,
             "number": "8",
             "artist": "Ken Sugimori",
             "rarity": [
@@ -753,15 +661,8 @@
                     "imageHeight": 25
                 }
             ],
-            "flavorText": "So rare that it is still said to be a mirage by many experts. Only a few people have seen it worldwide.",
-            "nationalPokedexNumbers": [
-                151
-            ],
             "row": 1,
             "column": 1,
-            "legalities": {
-                "unlimited": "Legal"
-            },
             "images": [
                 "https://www.dropbox.com/s/26qijx1x8vyy3rr/basep8-0.png?dl=1"
             ],
@@ -779,7 +680,6 @@
             "subtypes": [
                 "Basic"
             ],
-            "level": "51",
             "hp": "50",
             "types": [
                 {
@@ -800,7 +700,6 @@
                             "imageHeight": 25
                         }
                     ],
-                    "convertedEnergyCost": 1,
                     "damage": "10×",
                     "text": "Does 10 damage times the number of Energy cards attached to the Defending Pokémon."
                 },
@@ -814,7 +713,6 @@
                             "imageHeight": 25
                         }
                     ],
-                    "convertedEnergyCost": 2,
                     "text": "Choose an evolved Pokémon (your own or your opponent's). Return the highest Stage Evolution card on that Pokémon to its player's hand. That Pokémon is no longer Asleep, Confused, Paralyzed, or Poisoned, or anything else that might be the result of an attack (just as if you had evolved it)."
                 }
             ],
@@ -835,7 +733,6 @@
                     "imageHeight": 25
                 }
             ],
-            "convertedRetreatCost": 1,
             "number": "9",
             "artist": "Ken Sugimori",
             "rarity": [
@@ -846,15 +743,8 @@
                     "imageHeight": 25
                 }
             ],
-            "flavorText": "So rare that it is still said to be a mirage by many experts. Only a few people have seen it worldwide.",
-            "nationalPokedexNumbers": [
-                151
-            ],
             "row": 1,
             "column": 2,
-            "legalities": {
-                "unlimited": "Legal"
-            },
             "images": [
                 "https://www.dropbox.com/s/a7i2310y8d07ix9/basep9-0.png?dl=1"
             ],
@@ -872,7 +762,6 @@
             "subtypes": [
                 "Basic"
             ],
-            "level": "13",
             "hp": "50",
             "types": [
                 {
@@ -881,9 +770,6 @@
                     "imageWidth": 25,
                     "imageHeight": 25
                 }
-            ],
-            "evolvesTo": [
-                "Persian"
             ],
             "attacks": [
                 {
