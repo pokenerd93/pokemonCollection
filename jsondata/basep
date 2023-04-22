@@ -175,13 +175,19 @@
         "level": "60",
         "hp": "70",
         "types": [
-          "Psychic"
+            {
+            "name": "Psychic",
+            "image": "https://www.dropbox.com/s/axudglzuqyndsq3/Psychic.png?dl=1"
+            }
         ],
         "attacks": [
           {
             "name": "Energy Absorption",
             "cost": [
-              "Psychic"
+            {
+                "name": "Psychic",
+                "image": "https://www.dropbox.com/s/yqzifcicka4ud01/Psychic.png?dl=1"
+            }
             ],
             "convertedEnergyCost": 1,
             "damage": "",
@@ -190,9 +196,10 @@
           {
             "name": "Psyburn",
             "cost": [
-              "Psychic",
-              "Psychic",
-              "Colorless"
+            {
+                "name": "Psychic Psychic Colorless",
+                "image": "https://www.dropbox.com/s/yaeva4b8hnndu2w/Psychic%2C%20Psychic%2C%20Colorless.png?dl=1"
+            }
             ],
             "convertedEnergyCost": 3,
             "damage": "40",
@@ -202,12 +209,15 @@
         "weaknesses": [
           {
             "type": "Psychic",
+            "image": "https://www.dropbox.com/s/axudglzuqyndsq3/Psychic.png?dl=1",
             "value": "×2"
           }
         ],
         "retreatCost": [
-          "Colorless",
-          "Colorless"
+        {
+            "name": "Colorless Colorless",
+            "image": "https://www.dropbox.com/s/zrqzpiaftjizj85/Colorless%2C%20Colorless.png?dl=1"
+        }
         ],
         "convertedRetreatCost": 2,
         "number": "3",
@@ -220,7 +230,9 @@
         "legalities": {
           "unlimited": "Legal"
         },
-        "images": "https://images.pokemontcg.io/basep/3.png"
+        "images": [
+            "https://www.dropbox.com/s/wmf1rwxhfifm5fn/basep3-0.png?dl=1"
+        ]
       },
       {
         "id": "basep-4",
