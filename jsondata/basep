@@ -469,7 +469,7 @@
             "imageHeight": 25
             }
         ],
-        "evolvesFrom": "Growlithe",
+        "evolvesFrom": "evolves from Growlithe",
         "attacks": [
           {
             "name": "Quick Attack",
