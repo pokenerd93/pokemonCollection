@@ -2017,7 +2017,7 @@
             "ptcgoCode": "SIT",
             "releaseDate": "2022/11/11",
             "updatedAt": "2022/09/09 11:45:00",
-            "images": 
+            "images": {
                 "validate": "False",
                 "symbol": "https://images.pokemontcg.io/swsh12/symbol.png",
                 "logo": "https://images.pokemontcg.io/swsh12/logo.png"
@@ -2929,7 +2929,7 @@
             },
             "releaseDate": "2011/09/01",
             "updatedAt": "2022/01/13 20:44:00",
-            "images":
+            "images": {
                 "validate": "True",
                 "symbol": "https://images.pokemontcg.io/base1/symbol.png",
                 "logo": "https://images.pokemontcg.io/base1/logo.png"
