@@ -1934,6 +1934,7 @@
             "releaseDate": "2021/11/12",
             "updatedAt": "2021/11/12 07:32:00",
             "images": {
+                "validate": False,
                 "symbol": "https://images.pokemontcg.io/swsh8/symbol.png",
                 "logo": "https://images.pokemontcg.io/swsh8/logo.png"
             }
@@ -1954,6 +1955,7 @@
             "releaseDate": "2022/02/25",
             "updatedAt": "2022/02/23 09:45:00",
             "images": {
+                "validate": False,
                 "symbol": "https://images.pokemontcg.io/swsh9/symbol.png",
                 "logo": "https://images.pokemontcg.io/swsh9/logo.png"
             }
@@ -1974,6 +1976,7 @@
             "releaseDate": "2022/05/27",
             "updatedAt": "2022/05/27 09:45:00",
             "images": {
+                "validate": False,
                 "symbol": "https://images.pokemontcg.io/swsh10/symbol.png",
                 "logo": "https://images.pokemontcg.io/swsh10/logo.png"
             }
@@ -1994,6 +1997,7 @@
             "releaseDate": "2022/09/09",
             "updatedAt": "2022/09/09 13:45:00",
             "images": {
+                "validate": False,
                 "symbol": "https://images.pokemontcg.io/swsh11/symbol.png",
                 "logo": "https://images.pokemontcg.io/swsh11/logo.png"
             }
@@ -2014,6 +2018,7 @@
             "releaseDate": "2022/11/11",
             "updatedAt": "2022/09/09 11:45:00",
             "images": {
+                "validate": False,
                 "symbol": "https://images.pokemontcg.io/swsh12/symbol.png",
                 "logo": "https://images.pokemontcg.io/swsh12/logo.png"
             }
@@ -2034,6 +2039,7 @@
             "releaseDate": "2023/01/20",
             "updatedAt": "2023/01/19 15:45:00",
             "images": {
+                "validate": False,
                 "symbol": "https://images.pokemontcg.io/swsh12pt5/symbol.png",
                 "logo": "https://images.pokemontcg.io/swsh12pt5/logo.png"
             }
@@ -2053,6 +2059,7 @@
             "releaseDate": "2023/03/31",
             "updatedAt": "2023/03/31 15:45:00",
             "images": {
+                "validate": False,
                 "symbol": "https://images.pokemontcg.io/sv1/symbol.png",
                 "logo": "https://images.pokemontcg.io/sv1/logo.png"
             }
@@ -2070,6 +2077,7 @@
             "releaseDate": "2001/07/31",
             "updatedAt": "2019/01/28 16:44:00",
             "images": {
+                "validate": False,
                 "symbol": "https://images.pokemontcg.io/si1/symbol.png",
                 "logo": "https://images.pokemontcg.io/si1/logo.png"
             }
@@ -2088,6 +2096,7 @@
             "releaseDate": "2002/05/24",
             "updatedAt": "2020/08/14 09:35:00",
             "images": {
+                "validate": False,
                 "symbol": "https://images.pokemontcg.io/base6/symbol.png",
                 "logo": "https://images.pokemontcg.io/base6/logo.png"
             }
@@ -2106,6 +2115,7 @@
             "releaseDate": "2002/12/01",
             "updatedAt": "2021/10/16 09:52:00",
             "images": {
+                "validate": False,
                 "symbol": "https://images.pokemontcg.io/bp/symbol.png",
                 "logo": "https://images.pokemontcg.io/bp/logo.png"
             }
@@ -2123,6 +2133,7 @@
             "releaseDate": "2004/07/01",
             "updatedAt": "2019/01/28 16:44:00",
             "images": {
+                "validate": False,
                 "symbol": "https://images.pokemontcg.io/base1/symbol.png",
                 "logo": "https://images.pokemontcg.io/base1/logo.png"
             }
@@ -2140,6 +2151,7 @@
             "releaseDate": "2009/12/02",
             "updatedAt": "2019/01/28 16:44:00",
             "images": {
+                "validate": False,
                 "symbol": "https://images.pokemontcg.io/ru1/symbol.png",
                 "logo": "https://images.pokemontcg.io/ru1/logo.png"
             }
@@ -2158,6 +2170,7 @@
             "releaseDate": "2011/02/09",
             "updatedAt": "2018/03/04 10:35:00",
             "images": {
+                "validate": False,
                 "symbol": "https://images.pokemontcg.io/col1/symbol.png",
                 "logo": "https://images.pokemontcg.io/col1/logo.png"
             }
@@ -2177,6 +2190,7 @@
             "releaseDate": "2012/10/05",
             "updatedAt": "2019/01/28 16:44:00",
             "images": {
+                "validate": False,
                 "symbol": "https://images.pokemontcg.io/dv1/symbol.png",
                 "logo": "https://images.pokemontcg.io/dv1/logo.png"
             }
@@ -2196,6 +2210,7 @@
             "releaseDate": "2015/03/25",
             "updatedAt": "2019/01/28 16:44:00",
             "images": {
+                "validate": False,
                 "symbol": "https://images.pokemontcg.io/dc1/symbol.png",
                 "logo": "https://images.pokemontcg.io/dc1/logo.png"
             }
@@ -2215,6 +2230,7 @@
             "releaseDate": "2016/02/22",
             "updatedAt": "2020/08/14 09:35:00",
             "images": {
+                "validate": False,
                 "symbol": "https://images.pokemontcg.io/g1/symbol.png",
                 "logo": "https://images.pokemontcg.io/g1/logo.png"
             }
@@ -2234,6 +2250,7 @@
             "releaseDate": "2017/10/06",
             "updatedAt": "2022/10/11 21:39:00",
             "images": {
+                "validate": False,
                 "symbol": "https://images.pokemontcg.io/sm35/symbol.png",
                 "logo": "https://images.pokemontcg.io/sm35/logo.png"
             }
@@ -2253,6 +2270,7 @@
             "releaseDate": "2018/09/07",
             "updatedAt": "2018/10/01 21:54:00",
             "images": {
+                "validate": False,
                 "symbol": "https://images.pokemontcg.io/sm75/symbol.png",
                 "logo": "https://images.pokemontcg.io/sm75/logo.png"
             }
@@ -2272,6 +2290,7 @@
             "releaseDate": "2019/04/05",
             "updatedAt": "2021/09/01 05:37:00",
             "images": {
+                "validate": False,
                 "symbol": "https://images.pokemontcg.io/det1/symbol.png",
                 "logo": "https://images.pokemontcg.io/det1/logo.png"
             }
@@ -2291,6 +2310,7 @@
             "releaseDate": "2019/08/23",
             "updatedAt": "2021/09/01 05:37:00",
             "images": {
+                "validate": False,
                 "symbol": "https://images.pokemontcg.io/sm115/symbol.png",
                 "logo": "https://images.pokemontcg.io/sm115/logo.png"
             }
@@ -2311,6 +2331,7 @@
             "releaseDate": "2020/09/11",
             "updatedAt": "2022/10/10 15:12:00",
             "images": {
+                "validate": False,
                 "symbol": "https://images.pokemontcg.io/fut20/symbol.png",
                 "logo": "https://images.pokemontcg.io/fut20/logo.png"
             }
@@ -2331,6 +2352,7 @@
             "releaseDate": "2020/09/25",
             "updatedAt": "2020/10/25 13:45:00",
             "images": {
+                "validate": False,
                 "symbol": "https://images.pokemontcg.io/swsh35/symbol.png",
                 "logo": "https://images.pokemontcg.io/swsh35/logo.png"
             }
@@ -2351,6 +2373,7 @@
             "releaseDate": "2021/02/19",
             "updatedAt": "2021/02/24 16:17:00",
             "images": {
+                "validate": False,
                 "symbol": "https://images.pokemontcg.io/swsh45/symbol.png",
                 "logo": "https://images.pokemontcg.io/swsh45/logo.png"
             }
@@ -2371,6 +2394,7 @@
             "releaseDate": "2021/10/08",
             "updatedAt": "2022/10/11 21:39:00",
             "images": {
+                "validate": False,
                 "symbol": "https://images.pokemontcg.io/cel25/symbol.png",
                 "logo": "https://images.pokemontcg.io/cel25/logo.png"
             }
@@ -2391,6 +2415,7 @@
             "releaseDate": "2022/07/01",
             "updatedAt": "2022/07/06 17:07:00",
             "images": {
+                "validate": False,
                 "symbol": "https://images.pokemontcg.io/pgo/symbol.png",
                 "logo": "https://images.pokemontcg.io/pgo/logo.png"
             }
@@ -2408,6 +2433,7 @@
             "releaseDate": "2004/09/01",
             "updatedAt": "2018/03/04 10:35:00",
             "images": {
+                "validate": False,
                 "symbol": "https://images.pokemontcg.io/pop1/symbol.png",
                 "logo": "https://images.pokemontcg.io/pop1/logo.png"
             }
@@ -2425,6 +2451,7 @@
             "releaseDate": "2005/08/01",
             "updatedAt": "2018/03/04 10:35:00",
             "images": {
+                "validate": False,
                 "symbol": "https://images.pokemontcg.io/pop2/symbol.png",
                 "logo": "https://images.pokemontcg.io/pop2/logo.png"
             }
@@ -2442,6 +2469,7 @@
             "releaseDate": "2006/04/01",
             "updatedAt": "2020/08/14 09:35:00",
             "images": {
+                "validate": False,
                 "symbol": "https://images.pokemontcg.io/pop3/symbol.png",
                 "logo": "https://images.pokemontcg.io/pop3/logo.png"
             }
@@ -2459,6 +2487,7 @@
             "releaseDate": "2006/08/01",
             "updatedAt": "2020/08/14 09:35:00",
             "images": {
+                "validate": False,
                 "symbol": "https://images.pokemontcg.io/pop4/symbol.png",
                 "logo": "https://images.pokemontcg.io/pop4/logo.png"
             }
@@ -2476,6 +2505,7 @@
             "releaseDate": "2007/03/01",
             "updatedAt": "2020/08/14 09:35:00",
             "images": {
+                "validate": False,
                 "symbol": "https://images.pokemontcg.io/pop5/symbol.png",
                 "logo": "https://images.pokemontcg.io/pop5/logo.png"
             }
@@ -2493,6 +2523,7 @@
             "releaseDate": "2007/09/01",
             "updatedAt": "2020/05/01 16:06:00",
             "images": {
+                "validate": False,
                 "symbol": "https://images.pokemontcg.io/pop6/symbol.png",
                 "logo": "https://images.pokemontcg.io/pop6/logo.png"
             }
@@ -2510,6 +2541,7 @@
             "releaseDate": "2008/03/01",
             "updatedAt": "2018/03/04 10:35:00",
             "images": {
+                "validate": False,
                 "symbol": "https://images.pokemontcg.io/pop7/symbol.png",
                 "logo": "https://images.pokemontcg.io/pop7/logo.png"
             }
@@ -2527,6 +2559,7 @@
             "releaseDate": "2008/09/01",
             "updatedAt": "2018/03/04 10:35:00",
             "images": {
+                "validate": False,
                 "symbol": "https://images.pokemontcg.io/pop8/symbol.png",
                 "logo": "https://images.pokemontcg.io/pop8/logo.png"
             }
@@ -2544,6 +2577,7 @@
             "releaseDate": "2009/03/01",
             "updatedAt": "2020/05/01 16:06:00",
             "images": {
+                "validate": False,
                 "symbol": "https://images.pokemontcg.io/pop9/symbol.png",
                 "logo": "https://images.pokemontcg.io/pop9/logo.png"
             }
@@ -2562,6 +2596,7 @@
             "releaseDate": "2011/06/17",
             "updatedAt": "2022/10/10 15:12:00",
             "images": {
+                "validate": False,
                 "symbol": "https://images.pokemontcg.io/mcd11/symbol.png",
                 "logo": "https://images.pokemontcg.io/mcd11/logo.png"
             }
@@ -2580,6 +2615,7 @@
             "releaseDate": "2012/06/15",
             "updatedAt": "2022/10/10 15:12:00",
             "images": {
+                "validate": False,
                 "symbol": "https://images.pokemontcg.io/mcd12/symbol.png",
                 "logo": "https://images.pokemontcg.io/mcd12/logo.png"
             }
@@ -2598,6 +2634,7 @@
             "releaseDate": "2014/05/23",
             "updatedAt": "2022/10/10 15:12:00",
             "images": {
+                "validate": False,
                 "symbol": "https://images.pokemontcg.io/mcd14/symbol.png",
                 "logo": "https://images.pokemontcg.io/mcd14/logo.png"
             }
@@ -2616,6 +2653,7 @@
             "releaseDate": "2015/11/27",
             "updatedAt": "2022/10/10 15:12:00",
             "images": {
+                "validate": False,
                 "symbol": "https://images.pokemontcg.io/mcd15/symbol.png",
                 "logo": "https://images.pokemontcg.io/mcd15/logo.png"
             }
@@ -2634,6 +2672,7 @@
             "releaseDate": "2016/08/19",
             "updatedAt": "2022/10/10 15:12:00",
             "images": {
+                "validate": False,
                 "symbol": "https://images.pokemontcg.io/mcd16/symbol.png",
                 "logo": "https://images.pokemontcg.io/mcd16/logo.png"
             }
@@ -2652,6 +2691,7 @@
             "releaseDate": "2017/11/07",
             "updatedAt": "2022/10/10 15:12:00",
             "images": {
+                "validate": False,
                 "symbol": "https://images.pokemontcg.io/mcd17/symbol.png",
                 "logo": "https://images.pokemontcg.io/mcd17/logo.png"
             }
@@ -2670,6 +2710,7 @@
             "releaseDate": "2018/10/16",
             "updatedAt": "2022/10/10 15:12:00",
             "images": {
+                "validate": False,
                 "symbol": "https://images.pokemontcg.io/mcd18/symbol.png",
                 "logo": "https://images.pokemontcg.io/mcd18/logo.png"
             }
@@ -2688,6 +2729,7 @@
             "releaseDate": "2019/10/15",
             "updatedAt": "2022/10/10 15:12:00",
             "images": {
+                "validate": False,
                 "symbol": "https://images.pokemontcg.io/mcd19/symbol.png",
                 "logo": "https://images.pokemontcg.io/mcd19/logo.png"
             }
@@ -2706,6 +2748,7 @@
             "releaseDate": "2021/02/09",
             "updatedAt": "2022/10/10 15:12:00",
             "images": {
+                "validate": False,
                 "symbol": "https://images.pokemontcg.io/mcd21/symbol.png",
                 "logo": "https://images.pokemontcg.io/mcd21/logo.png"
             }
@@ -2725,6 +2768,7 @@
             "releaseDate": "2022/08/03",
             "updatedAt": "2022/10/09 13:21:00",
             "images": {
+                "validate": False,
                 "symbol": "https://images.pokemontcg.io/mcd22/symbol.png",
                 "logo": "https://images.pokemontcg.io/mcd22/logo.png"
             }
@@ -2742,6 +2786,7 @@
             "releaseDate": "2004/06/01",
             "updatedAt": "2022/01/13 20:44:00",
             "images": {
+                "validate": False,
                 "symbol": "https://images.pokemontcg.io/base1/symbol.png",
                 "logo": "https://images.pokemontcg.io/base1/logo.png"
             }
@@ -2759,6 +2804,7 @@
             "releaseDate": "2004/06/01",
             "updatedAt": "2022/01/13 20:44:00",
             "images": {
+                "validate": False,
                 "symbol": "https://images.pokemontcg.io/base1/symbol.png",
                 "logo": "https://images.pokemontcg.io/base1/logo.png"
             }
@@ -2776,6 +2822,7 @@
             "releaseDate": "2006/03/01",
             "updatedAt": "2022/01/13 20:44:00",
             "images": {
+                "validate": False,
                 "symbol": "https://images.pokemontcg.io/base1/symbol.png",
                 "logo": "https://images.pokemontcg.io/base1/logo.png"
             }
@@ -2793,6 +2840,7 @@
             "releaseDate": "2006/03/01",
             "updatedAt": "2022/01/13 20:44:00",
             "images": {
+                "validate": False,
                 "symbol": "https://images.pokemontcg.io/base1/symbol.png",
                 "logo": "https://images.pokemontcg.io/base1/logo.png"
             }
@@ -2810,6 +2858,7 @@
             "releaseDate": "2007/09/01",
             "updatedAt": "2022/01/13 20:44:00",
             "images": {
+                "validate": False,
                 "symbol": "https://images.pokemontcg.io/base1/symbol.png",
                 "logo": "https://images.pokemontcg.io/base1/logo.png"
             }
@@ -2827,6 +2876,7 @@
             "releaseDate": "2007/09/01",
             "updatedAt": "2022/01/13 20:44:00",
             "images": {
+                "validate": False,
                 "symbol": "https://images.pokemontcg.io/base1/symbol.png",
                 "logo": "https://images.pokemontcg.io/base1/logo.png"
             }
@@ -2844,6 +2894,7 @@
             "releaseDate": "2010/05/01",
             "updatedAt": "2022/01/13 20:44:00",
             "images": {
+                "validate": False,
                 "symbol": "https://images.pokemontcg.io/base1/symbol.png",
                 "logo": "https://images.pokemontcg.io/base1/logo.png"
             }
@@ -2861,6 +2912,7 @@
             "releaseDate": "2010/05/01",
             "updatedAt": "2022/01/13 20:44:00",
             "images": {
+                "validate": False,
                 "symbol": "https://images.pokemontcg.io/base1/symbol.png",
                 "logo": "https://images.pokemontcg.io/base1/logo.png"
             }
@@ -2878,6 +2930,7 @@
             "releaseDate": "2011/09/01",
             "updatedAt": "2022/01/13 20:44:00",
             "images": {
+                "validate": False,
                 "symbol": "https://images.pokemontcg.io/base1/symbol.png",
                 "logo": "https://images.pokemontcg.io/base1/logo.png"
             }
@@ -2895,6 +2948,7 @@
             "releaseDate": "2011/09/01",
             "updatedAt": "2022/01/13 20:44:00",
             "images": {
+                "validate": False,
                 "symbol": "https://images.pokemontcg.io/base1/symbol.png",
                 "logo": "https://images.pokemontcg.io/base1/logo.png"
             }
@@ -2912,6 +2966,7 @@
             "releaseDate": "2014/03/12",
             "updatedAt": "2022/01/13 20:44:00",
             "images": {
+                "validate": False,
                 "symbol": "https://images.pokemontcg.io/base1/symbol.png",
                 "logo": "https://images.pokemontcg.io/base1/logo.png"
             }
@@ -2929,6 +2984,7 @@
             "releaseDate": "2014/03/12",
             "updatedAt": "2022/01/13 20:44:00",
             "images": {
+                "validate": False,
                 "symbol": "https://images.pokemontcg.io/base1/symbol.png",
                 "logo": "https://images.pokemontcg.io/base1/logo.png"
             }
@@ -2946,6 +3002,7 @@
             "releaseDate": "2014/11/01",
             "updatedAt": "2022/01/13 20:44:00",
             "images": {
+                "validate": False,
                 "symbol": "https://images.pokemontcg.io/base1/symbol.png",
                 "logo": "https://images.pokemontcg.io/base1/logo.png"
             }
@@ -2963,6 +3020,7 @@
             "releaseDate": "2014/11/01",
             "updatedAt": "2022/01/13 20:44:00",
             "images": {
+                "validate": False,
                 "symbol": "https://images.pokemontcg.io/base1/symbol.png",
                 "logo": "https://images.pokemontcg.io/base1/logo.png"
             }
@@ -2980,6 +3038,7 @@
             "releaseDate": "2015/04/29",
             "updatedAt": "2022/01/13 20:44:00",
             "images": {
+                "validate": False,
                 "symbol": "https://images.pokemontcg.io/base1/symbol.png",
                 "logo": "https://images.pokemontcg.io/base1/logo.png"
             }
@@ -2997,6 +3056,7 @@
             "releaseDate": "2015/04/29",
             "updatedAt": "2022/01/13 20:44:00",
             "images": {
+                "validate": False,
                 "symbol": "https://images.pokemontcg.io/base1/symbol.png",
                 "logo": "https://images.pokemontcg.io/base1/logo.png"
             }
@@ -3014,6 +3074,7 @@
             "releaseDate": "2016/04/27",
             "updatedAt": "2022/01/13 20:44:00",
             "images": {
+                "validate": False,
                 "symbol": "https://images.pokemontcg.io/base1/symbol.png",
                 "logo": "https://images.pokemontcg.io/base1/logo.png"
             }
@@ -3031,6 +3092,7 @@
             "releaseDate": "2016/04/27",
             "updatedAt": "2022/01/13 20:44:00",
             "images": {
+                "validate": False,
                 "symbol": "https://images.pokemontcg.io/base1/symbol.png",
                 "logo": "https://images.pokemontcg.io/base1/logo.png"
             }
@@ -3048,6 +3110,7 @@
             "releaseDate": "2017/04/21",
             "updatedAt": "2022/01/13 20:44:00",
             "images": {
+                "validate": False,
                 "symbol": "https://images.pokemontcg.io/base1/symbol.png",
                 "logo": "https://images.pokemontcg.io/base1/logo.png"
             }
@@ -3065,6 +3128,7 @@
             "releaseDate": "2017/04/21",
             "updatedAt": "2022/01/13 20:44:00",
             "images": {
+                "validate": False,
                 "symbol": "https://images.pokemontcg.io/base1/symbol.png",
                 "logo": "https://images.pokemontcg.io/base1/logo.png"
             }
@@ -3082,6 +3146,7 @@
             "releaseDate": "2018/06/01",
             "updatedAt": "2022/01/13 20:44:00",
             "images": {
+                "validate": False,
                 "symbol": "https://images.pokemontcg.io/base1/symbol.png",
                 "logo": "https://images.pokemontcg.io/base1/logo.png"
             }
@@ -3099,6 +3164,7 @@
             "releaseDate": "2018/06/01",
             "updatedAt": "2022/01/13 20:44:00",
             "images": {
+                "validate": False,
                 "symbol": "https://images.pokemontcg.io/base1/symbol.png",
                 "logo": "https://images.pokemontcg.io/base1/logo.png"
             }
@@ -3116,6 +3182,7 @@
             "releaseDate": "2020/06/21",
             "updatedAt": "2022/01/13 20:44:00",
             "images": {
+                "validate": False,
                 "symbol": "https://images.pokemontcg.io/base1/symbol.png",
                 "logo": "https://static.tcgcollector.com/content/images/48/13/50/4813508b2b5d648afc43b5c22cc5660581b0f0a5a1021eda61b1e8e548adab55.png"
             }
@@ -3133,6 +3200,7 @@
             "releaseDate": "2020/06/21",
             "updatedAt": "2022/01/13 20:44:00",
             "images": {
+                "validate": False,
                 "symbol": "https://images.pokemontcg.io/base1/symbol.png",
                 "logo": "https://static.tcgcollector.com/content/images/48/13/50/4813508b2b5d648afc43b5c22cc5660581b0f0a5a1021eda61b1e8e548adab55.png"
             }
@@ -3150,6 +3218,7 @@
             "releaseDate": "2020/06/21",
             "updatedAt": "2022/01/13 20:44:00",
             "images": {
+                "validate": False,
                 "symbol": "https://images.pokemontcg.io/base1/symbol.png",
                 "logo": "https://static.tcgcollector.com/content/images/48/13/50/4813508b2b5d648afc43b5c22cc5660581b0f0a5a1021eda61b1e8e548adab55.png"
             }
@@ -3167,6 +3236,7 @@
             "releaseDate": "2022/03/25",
             "updatedAt": "2022/01/13 20:44:00",
             "images": {
+                "validate": False,
                 "symbol": "https://images.pokemontcg.io/base1/symbol.png",
                 "logo": "https://static.tcgcollector.com/content/images/48/13/50/4813508b2b5d648afc43b5c22cc5660581b0f0a5a1021eda61b1e8e548adab55.png"
             }
@@ -3184,6 +3254,7 @@
             "releaseDate": "2022/03/25",
             "updatedAt": "2022/01/13 20:44:00",
             "images": {
+                "validate": False,
                 "symbol": "https://images.pokemontcg.io/base1/symbol.png",
                 "logo": "https://static.tcgcollector.com/content/images/48/13/50/4813508b2b5d648afc43b5c22cc5660581b0f0a5a1021eda61b1e8e548adab55.png"
             }
@@ -3201,6 +3272,7 @@
             "releaseDate": "2022/03/25",
             "updatedAt": "2022/01/13 20:44:00",
             "images": {
+                "validate": False,
                 "symbol": "https://images.pokemontcg.io/base1/symbol.png",
                 "logo": "https://static.tcgcollector.com/content/images/48/13/50/4813508b2b5d648afc43b5c22cc5660581b0f0a5a1021eda61b1e8e548adab55.png"
             }
@@ -3218,6 +3290,7 @@
             "releaseDate": "1999/01/01",
             "updatedAt": "2022/01/13 20:44:00",
             "images": {
+                "validate": True,
                 "symbol": "https://images.pokemontcg.io/base1/symbol.png",
                 "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Topps_Logo.svg/1280px-Topps_Logo.svg.png"
             }
@@ -3235,6 +3308,7 @@
             "releaseDate": "2000/01/01",
             "updatedAt": "2022/01/13 20:44:00",
             "images": {
+                "validate": True,
                 "symbol": "https://images.pokemontcg.io/base1/symbol.png",
                 "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Topps_Logo.svg/1280px-Topps_Logo.svg.png"
             }
@@ -3252,6 +3326,7 @@
             "releaseDate": "1999/01/01",
             "updatedAt": "2022/01/13 20:44:00",
             "images": {
+                "validate": True,
                 "symbol": "https://images.pokemontcg.io/base1/symbol.png",
                 "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Topps_Logo.svg/1280px-Topps_Logo.svg.png"
             }
@@ -3269,6 +3344,7 @@
             "releaseDate": "2000/01/01",
             "updatedAt": "2022/01/13 20:44:00",
             "images": {
+                "validate": True,
                 "symbol": "https://images.pokemontcg.io/base1/symbol.png",
                 "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Topps_Logo.svg/1280px-Topps_Logo.svg.png"
             }
@@ -3286,6 +3362,7 @@
             "releaseDate": "2000/01/01",
             "updatedAt": "2022/01/13 20:44:00",
             "images": {
+                "validate": True,
                 "symbol": "https://images.pokemontcg.io/base1/symbol.png",
                 "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Topps_Logo.svg/1280px-Topps_Logo.svg.png"
             }
@@ -3303,6 +3380,7 @@
             "releaseDate": "2000/01/01",
             "updatedAt": "2022/01/13 20:44:00",
             "images": {
+                "validate": True,
                 "symbol": "https://images.pokemontcg.io/base1/symbol.png",
                 "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Topps_Logo.svg/1280px-Topps_Logo.svg.png"
             }
@@ -3320,6 +3398,7 @@
             "releaseDate": "2000/01/01",
             "updatedAt": "2022/01/13 20:44:00",
             "images": {
+                "validate": True,
                 "symbol": "https://images.pokemontcg.io/base1/symbol.png",
                 "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Topps_Logo.svg/1280px-Topps_Logo.svg.png"
             }
@@ -3337,6 +3416,7 @@
             "releaseDate": "2001/01/01",
             "updatedAt": "2022/01/13 20:44:00",
             "images": {
+                "validate": True,
                 "symbol": "https://images.pokemontcg.io/base1/symbol.png",
                 "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Topps_Logo.svg/1280px-Topps_Logo.svg.png"
             }
@@ -3354,6 +3434,7 @@
             "releaseDate": "2001/01/01",
             "updatedAt": "2022/01/13 20:44:00",
             "images": {
+                "validate": True,
                 "symbol": "https://images.pokemontcg.io/base1/symbol.png",
                 "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Topps_Logo.svg/1280px-Topps_Logo.svg.png"
             }
@@ -3371,6 +3452,7 @@
             "releaseDate": "2003/01/01",
             "updatedAt": "2022/01/13 20:44:00",
             "images": {
+                "validate": True,
                 "symbol": "https://images.pokemontcg.io/base1/symbol.png",
                 "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Topps_Logo.svg/1280px-Topps_Logo.svg.png"
             }
@@ -3388,6 +3470,7 @@
             "releaseDate": "2004/01/01",
             "updatedAt": "2022/01/13 20:44:00",
             "images": {
+                "validate": True,
                 "symbol": "https://images.pokemontcg.io/base1/symbol.png",
                 "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Topps_Logo.svg/1280px-Topps_Logo.svg.png"
             }
@@ -3408,6 +3491,7 @@
             "releaseDate": "Oct 26, 1996",
             "updatedAt": "2020/08/14 09:35:00",
             "images": {
+                "validate": False,
                 "symbol": "https://images.pokemontcg.io/base1/symbol.png",
                 "logo": "https://images.pokemontcg.io/base1/logo.png"
             }
