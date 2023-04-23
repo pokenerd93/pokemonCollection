@@ -200,6 +200,7 @@
             "releaseDate": "1999/01/09",
             "updatedAt": "2022/10/10 15:12:00",
             "images": {
+                "symbol": "",
                 "logo": "https://images.pokemontcg.io/base1/logo.png"
             }
         },
