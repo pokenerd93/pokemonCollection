@@ -39,7 +39,7 @@
                     ],
                     "damage": "50+",
                     "text": "This attack does 20 more damage for each of your Benched Pokémon."
-                },
+                }
             ],
             "rules": [
                 "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
