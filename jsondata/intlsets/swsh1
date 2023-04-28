@@ -91,7 +91,7 @@
             ],
             "rarity": [
                 {
-                    "name": "Ultra Rare",
+                    "name": "UR",
                     "image": "https://www.dropbox.com/s/r2ylfit6k7c0uzm/Ultra%20Rare.png?dl=1",
                     "imageWidth": 25,
                     "imageHeight": 25
@@ -179,7 +179,7 @@
             ],
             "rarity": [
                 {
-                    "name": "Common",
+                    "name": "C",
                     "image": "https://www.dropbox.com/s/r2ylfit6k7c0uzm/Ultra%20Rare.png?dl=1",
                     "imageWidth": 25,
                     "imageHeight": 25
