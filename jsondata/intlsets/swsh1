@@ -96,7 +96,95 @@
                     "imageHeight": 25
                 }
             ]
+        },
+        {
+            "id": "swsh1-2",
+            "name": "Roselia",
+            "supertype": "Pokémon",
+            "subtypes": "Basic",
+            "hp": "70",
+            "types": [
+                {
+                    "name": "Grass",
+                    "image": "https://www.dropbox.com/s/ej42khbib8quzg3/Grass.png?dl=1",
+                    "imageWidth": 25,
+                    "imageHeight": 25
+                }
+            ],
+            "attacks": [
+                {
+                    "name": "Absorb",
+                    "cost": [
+                        {
+                            "name": "Grass",
+                            "image": "https://www.dropbox.com/s/vdtb6ultb0wzerl/Grass.png?dl=1",
+                            "imageWidth": 25,
+                            "imageHeight": 25
+                        }
+                    ],
+                    "damage": "10",
+                    "text": "Heal 10 damage from this Pokémon."
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Fire",
+                    "image": "https://www.dropbox.com/s/datcoyg7988gaam/Fire.png?dl=1",
+                    "imageWidth": 25,
+                    "imageHeight": 25,
+                    "value": "×2"
+                }
+            ],
+            "retreatCost": [
+                {
+                    "name": "Colorless",
+                    "image": "https://www.dropbox.com/s/isxpid0osmi1j6x/Colorless.png?dl=1",
+                    "imageWidth": 25,
+                    "imageHeight": 25
+                }
+            ],
+            "setinfo": [
+                {
+                    "id": "swsh1",
+                    "name": "Sword & Shield",
+                    "series": "Sword & Shield Series",
+                    "language": "International",
+                    "completeSet": 202,
+                    "masterSet": 381,
+                    "exclusives": 100,
+                    "ptcgoCode": "SWSH"
+                }
+            ],
+            "number": "002",
+            "legalities": [
+                {
+                    "Standard": "Legal",
+                    "Expanded": "Legal",
+                    "Unlimited": "Legal"
+                }
+            ],
+            "variants": [
+                {
+                    "name": "Normal",
+                    "image": "https://www.dropbox.com/s/9b2v2ahs8sge5mi/swsh1-2.png?dl=1",
+                    "market": 0.00
+                },
+                {
+                    "name": "Reverse Holo",
+                    "image": "https://www.dropbox.com/s/py4d47050a7tygo/swsh1-2-P.png?dl=1",
+                    "market": 0.00
+                }
+            ],
+            "rarity": [
+                {
+                    "name": "Common",
+                    "image": "https://www.dropbox.com/s/r2ylfit6k7c0uzm/Ultra%20Rare.png?dl=1",
+                    "imageWidth": 25,
+                    "imageHeight": 25
+                }
+            ]
         }
     ],
-    "count": 1
+    "count": 2
 }
+
