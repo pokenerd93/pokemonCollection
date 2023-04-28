@@ -43,7 +43,7 @@
             ],
             "rules": [
                 "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
-            ]
+            ],
             "weaknesses": [
                 {
                     "type": "Fire",
