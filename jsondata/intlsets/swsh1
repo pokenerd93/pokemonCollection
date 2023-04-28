@@ -92,9 +92,7 @@
             "rarity": [
                 {
                     "name": "UR",
-                    "image": "https://www.dropbox.com/s/r2ylfit6k7c0uzm/Ultra%20Rare.png?dl=1",
-                    "imageWidth": 25,
-                    "imageHeight": 25
+                    "fullname": "Ultra Rare"
                 }
             ]
         },
@@ -180,9 +178,7 @@
             "rarity": [
                 {
                     "name": "C",
-                    "image": "https://www.dropbox.com/s/r2ylfit6k7c0uzm/Ultra%20Rare.png?dl=1",
-                    "imageWidth": 25,
-                    "imageHeight": 25
+                    "fullname": "Common"
                 }
             ]
         },
@@ -279,12 +275,197 @@
             "rarity": [
                 {
                     "name": "C",
-                    "image": "https://www.dropbox.com/s/r2ylfit6k7c0uzm/Ultra%20Rare.png?dl=1",
+                    "fullname": "Common"
+                }
+            ]
+        },
+        {
+            "id": "swsh1-4",
+            "name": "Roserade",
+            "supertype": "Pokémon",
+            "subtypes": "Stage 1",
+            "hp": "120",
+            "evolvesFrom": "Evolves from Roselia",
+            "types": [
+                {
+                    "name": "Grass",
+                    "image": "https://www.dropbox.com/s/ej42khbib8quzg3/Grass.png?dl=1",
                     "imageWidth": 25,
                     "imageHeight": 25
+                }
+            ],
+            "attacks": [
+                {
+                    "name": "Paralyze Poison",
+                    "cost": [
+                        {
+                            "name": "Grass",
+                            "image": "https://www.dropbox.com/s/vdtb6ultb0wzerl/Grass.png?dl=1",
+                            "imageWidth": 25,
+                            "imageHeight": 25
+                        }
+                    ],
+                    "damage": "30",
+                    "text": "Your opponent's Active Pokémon is now Poisoned. Flip a coin. If heads, your opponent's Active Pokémon is also Paralyzed."
+                },
+                {
+                    "name": "Mega Drain",
+                    "cost": [
+                        {
+                            "name": "GrassColorlessColorless",
+                            "image": "https://www.dropbox.com/s/39m63tqnhfky586/GrassColorlessColorless.png?dl=1",
+                            "imageWidth": 80,
+                            "imageHeight": 25
+                        }
+                    ],
+                    "damage": "90",
+                    "text": "Heal 30 damage from this Pokémon."
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Fire",
+                    "image": "https://www.dropbox.com/s/datcoyg7988gaam/Fire.png?dl=1",
+                    "imageWidth": 25,
+                    "imageHeight": 25,
+                    "value": "×2"
+                }
+            ],
+            "retreatCost": [
+                {
+                    "name": "Colorless",
+                    "image": "https://www.dropbox.com/s/isxpid0osmi1j6x/Colorless.png?dl=1",
+                    "imageWidth": 25,
+                    "imageHeight": 25
+                }
+            ],
+            "setinfo": [
+                {
+                    "id": "swsh1",
+                    "name": "Sword & Shield",
+                    "series": "Sword & Shield Series",
+                    "language": "International",
+                    "completeSet": 202,
+                    "masterSet": 381,
+                    "exclusives": 100,
+                    "ptcgoCode": "SWSH"
+                }
+            ],
+            "number": "004",
+            "artist": "chibi",
+            "legalities": [
+                {
+                    "Standard": "Legal",
+                    "Expanded": "Legal",
+                    "Unlimited": "Legal"
+                }
+            ],
+            "variants": [
+                {
+                    "name": "Normal",
+                    "image": "https://www.dropbox.com/s/t89vlkdp9pfuyuz/swsh1-4.png?dl=1",
+                    "market": 0.00
+                },
+                {
+                    "name": "Reverse Holo",
+                    "image": "https://www.dropbox.com/s/oe3xqd1v4i2x9km/swsh1-4-P.png?dl=1",
+                    "market": 0.00
+                }
+            ],
+            "rarity": [
+                {
+                    "name": "R",
+                    "fullname": "Rare"
+                }
+            ]
+        },
+        {
+            "id": "swsh1-5",
+            "name": "Cottonee",
+            "supertype": "Pokémon",
+            "subtypes": "Basic",
+            "hp": "60",
+            "types": [
+                {
+                    "name": "Grass",
+                    "image": "https://www.dropbox.com/s/ej42khbib8quzg3/Grass.png?dl=1",
+                    "imageWidth": 25,
+                    "imageHeight": 25
+                }
+            ],
+            "attacks": [
+                {
+                    "name": "Attach",
+                    "cost": [
+                        {
+                            "name": "Colorless",
+                            "image": "https://www.dropbox.com/s/w55xhawximbuk8k/Colorless.png?dl=1",
+                            "imageWidth": 25,
+                            "imageHeight": 25
+                        }
+                    ],
+                    "damage": "10"
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Fire",
+                    "image": "https://www.dropbox.com/s/datcoyg7988gaam/Fire.png?dl=1",
+                    "imageWidth": 25,
+                    "imageHeight": 25,
+                    "value": "×2"
+                }
+            ],
+            "retreatCost": [
+                {
+                    "name": "Colorless",
+                    "image": "https://www.dropbox.com/s/isxpid0osmi1j6x/Colorless.png?dl=1",
+                    "imageWidth": 25,
+                    "imageHeight": 25
+                }
+            ],
+            "setinfo": [
+                {
+                    "id": "swsh1",
+                    "name": "Sword & Shield",
+                    "series": "Sword & Shield Series",
+                    "language": "International",
+                    "completeSet": 202,
+                    "masterSet": 381,
+                    "exclusives": 100,
+                    "ptcgoCode": "SWSH"
+                }
+            ],
+            "number": "005",
+            "artist": "ryoma uratsuka",
+            "legalities": [
+                {
+                    "Standard": "Legal",
+                    "Expanded": "Legal",
+                    "Unlimited": "Legal"
+                }
+            ],
+            "variants": [
+                {
+                    "name": "Normal",
+                    "image": "https://www.dropbox.com/s/vu4r3ivbduj860r/swsh1-5.png?dl=1",
+                    "market": 0.00
+                },
+                {
+                    "name": "Reverse Holo",
+                    "image": "https://www.dropbox.com/s/xl2crzp8tjwrjby/swsh1-5-P.png?dl=1",
+                    "market": 0.00
+                }
+            ],
+            "rarity": [
+                {
+                    "name": "C",
+                    "fullname": "Common"
                 }
             ]
         }
     ],
-    "count": 3
+    "count": 5
 }
+
+
