@@ -185,8 +185,106 @@
                     "imageHeight": 25
                 }
             ]
+        },
+        {
+            "id": "swsh1-3",
+            "name": "Roselia",
+            "supertype": "Pokémon",
+            "subtypes": "Basic",
+            "hp": "70",
+            "types": [
+                {
+                    "name": "Grass",
+                    "image": "https://www.dropbox.com/s/ej42khbib8quzg3/Grass.png?dl=1",
+                    "imageWidth": 25,
+                    "imageHeight": 25
+                }
+            ],
+            "attacks": [
+                {
+                    "name": "Sweet Scent",
+                    "cost": [
+                        {
+                            "name": "Colorless",
+                            "image": "https://www.dropbox.com/s/w55xhawximbuk8k/Colorless.png?dl=1",
+                            "imageWidth": 25,
+                            "imageHeight": 25
+                        }
+                    ],
+                    "text": "Heal 30 damage from 1 of your Pokémon."
+                },
+                {
+                    "name": "Sting",
+                    "cost": [
+                        {
+                            "name": "GrassColorless",
+                            "image": "https://www.dropbox.com/s/3lr8ethrcit0cn7/GrassColorless.png?dl=1",
+                            "imageWidth": 51,
+                            "imageHeight": 25
+                        }
+                    ],
+                    "damage": "20"
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Fire",
+                    "image": "https://www.dropbox.com/s/datcoyg7988gaam/Fire.png?dl=1",
+                    "imageWidth": 25,
+                    "imageHeight": 25,
+                    "value": "×2"
+                }
+            ],
+            "retreatCost": [
+                {
+                    "name": "Colorless",
+                    "image": "https://www.dropbox.com/s/isxpid0osmi1j6x/Colorless.png?dl=1",
+                    "imageWidth": 25,
+                    "imageHeight": 25
+                }
+            ],
+            "setinfo": [
+                {
+                    "id": "swsh1",
+                    "name": "Sword & Shield",
+                    "series": "Sword & Shield Series",
+                    "language": "International",
+                    "completeSet": 202,
+                    "masterSet": 381,
+                    "exclusives": 100,
+                    "ptcgoCode": "SWSH"
+                }
+            ],
+            "number": "003",
+            "artist": "Naoyo Kimura",
+            "legalities": [
+                {
+                    "Standard": "Legal",
+                    "Expanded": "Legal",
+                    "Unlimited": "Legal"
+                }
+            ],
+            "variants": [
+                {
+                    "name": "Normal",
+                    "image": "https://www.dropbox.com/s/ipy0ndota50olgx/swsh1-3.png?dl=1",
+                    "market": 0.00
+                },
+                {
+                    "name": "Reverse Holo",
+                    "image": "https://www.dropbox.com/s/dbj84e12ffswcxz/swsh1-3-P.png?dl=1",
+                    "market": 0.00
+                }
+            ],
+            "rarity": [
+                {
+                    "name": "C",
+                    "image": "https://www.dropbox.com/s/r2ylfit6k7c0uzm/Ultra%20Rare.png?dl=1",
+                    "imageWidth": 25,
+                    "imageHeight": 25
+                }
+            ]
         }
     ],
-    "count": 2
+    "count": 3
 }
-
