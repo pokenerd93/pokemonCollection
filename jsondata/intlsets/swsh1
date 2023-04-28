@@ -75,9 +75,11 @@
             ],
             "number": "001",
             "legalities": [
-                "Standard": "Legal",
-                "Expanded": "Legal",
-                "Unlimited": "Legal"
+                {
+                    "Standard": "Legal",
+                    "Expanded": "Legal",
+                    "Unlimited": "Legal"
+                }
             ],
             "variants": [
                 {
