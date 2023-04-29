@@ -463,9 +463,291 @@
                     "fullname": "Common"
                 }
             ]
+        },
+        {
+            "id": "swsh1-6",
+            "name": "Whimsicott",
+            "supertype": "Pokémon",
+            "subtypes": "Stage 1",
+            "hp": "100",
+            "evolvesFrom": "Evolves from Cottonee",
+            "types": [
+                {
+                    "name": "Grass",
+                    "image": "https://www.dropbox.com/s/ej42khbib8quzg3/Grass.png?dl=1",
+                    "imageWidth": 25,
+                    "imageHeight": 25
+                }
+            ],
+            "attacks": [
+                {
+                    "name": "Cotton Ride",
+                    "cost": [
+                        {
+                            "name": "Colorless",
+                            "image": "https://www.dropbox.com/s/w55xhawximbuk8k/Colorless.png?dl=1",
+                            "imageWidth": 25,
+                            "imageHeight": 25
+                        }
+                    ],
+                    "text": "Flip a coin. If heads, your opponent shuffles their Active Pokémon and all attached cards into their deck."
+                },
+                {
+                    "name": "Leaf Step",
+                    "cost": [
+                        {
+                            "name": "Grass",
+                            "image": "https://www.dropbox.com/s/vdtb6ultb0wzerl/Grass.png?dl=1",
+                            "imageWidth": 25,
+                            "imageHeight": 25
+                        }
+                    ],
+                    "damage": "50"
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Fire",
+                    "image": "https://www.dropbox.com/s/datcoyg7988gaam/Fire.png?dl=1",
+                    "imageWidth": 25,
+                    "imageHeight": 25,
+                    "value": "×2"
+                }
+            ],
+            "retreatCost": [
+                {
+                    "name": "Colorless",
+                    "image": "https://www.dropbox.com/s/isxpid0osmi1j6x/Colorless.png?dl=1",
+                    "imageWidth": 25,
+                    "imageHeight": 25
+                }
+            ],
+            "setinfo": [
+                {
+                    "id": "swsh1",
+                    "name": "Sword & Shield",
+                    "series": "Sword & Shield Series",
+                    "language": "International",
+                    "completeSet": 202,
+                    "masterSet": 381,
+                    "exclusives": 100,
+                    "ptcgoCode": "SWSH"
+                }
+            ],
+            "number": "006",
+            "artist": "kodama",
+            "legalities": [
+                {
+                    "Standard": "Legal",
+                    "Expanded": "Legal",
+                    "Unlimited": "Legal"
+                }
+            ],
+            "variants": [
+                {
+                    "name": "Normal",
+                    "image": "https://www.dropbox.com/s/9p84ehcpt3cjxsz/swsh1-6.png?dl=1",
+                    "market": 0.00
+                },
+                {
+                    "name": "Reverse Holo",
+                    "image": "https://www.dropbox.com/s/x27ptrsxgid3cv7/swsh1-6-P.png?dl=1",
+                    "market": 0.00
+                }
+            ],
+            "rarity": [
+                {
+                    "name": "R",
+                    "fullname": "Rare"
+                }
+            ]
+        },
+        {
+            "id": "swsh1-7",
+            "name": "Maractus",
+            "supertype": "Pokémon",
+            "subtypes": "Basic",
+            "hp": "120",
+            "types": [
+                {
+                    "name": "Grass",
+                    "image": "https://www.dropbox.com/s/ej42khbib8quzg3/Grass.png?dl=1",
+                    "imageWidth": 25,
+                    "imageHeight": 25
+                }
+            ],
+            "attacks": [
+                {
+                    "name": "Zzzt",
+                    "cost": [
+                        {
+                            "name": "Colorless",
+                            "image": "https://www.dropbox.com/s/w55xhawximbuk8k/Colorless.png?dl=1",
+                            "imageWidth": 25,
+                            "imageHeight": 25
+                        }
+                    ],
+                    "damage": "20"
+                },
+                {
+                    "name": "Powerful Needles",
+                    "cost": [
+                        {
+                            "name": "GrassColorless",
+                            "image": "https://www.dropbox.com/s/3lr8ethrcit0cn7/GrassColorless.png?dl=1",
+                            "imageWidth": 51,
+                            "imageHeight": 25
+                        }
+                    ],
+                    "damage": "60x",
+                    "text": "Flip a coin for each Energy attached to this Pokémon. This attack does 60 damage for each heads."
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Fire",
+                    "image": "https://www.dropbox.com/s/datcoyg7988gaam/Fire.png?dl=1",
+                    "imageWidth": 25,
+                    "imageHeight": 25,
+                    "value": "×2"
+                }
+            ],
+            "retreatCost": [
+                {
+                    "name": "ColorlessColorless",
+                    "image": "https://www.dropbox.com/s/zrqzpiaftjizj85/ColorlessColorless.png?dl=1",
+                    "imageWidth": 51,
+                    "imageHeight": 25
+                }
+            ],
+            "setinfo": [
+                {
+                    "id": "swsh1",
+                    "name": "Sword & Shield",
+                    "series": "Sword & Shield Series",
+                    "language": "International",
+                    "completeSet": 202,
+                    "masterSet": 381,
+                    "exclusives": 100,
+                    "ptcgoCode": "SWSH"
+                }
+            ],
+            "number": "007",
+            "artist": "Atsuko Nishida",
+            "legalities": [
+                {
+                    "Standard": "Legal",
+                    "Expanded": "Legal",
+                    "Unlimited": "Legal"
+                }
+            ],
+            "variants": [
+                {
+                    "name": "Normal",
+                    "image": "https://www.dropbox.com/s/qi6ctf5a6ktbgur/swsh1-7.png?dl=1",
+                    "market": 0.00
+                },
+                {
+                    "name": "Reverse Holo",
+                    "image": "https://www.dropbox.com/s/uwav270d195pavm/swsh1-7-P.png?dl=1",
+                    "market": 0.00
+                }
+            ],
+            "rarity": [
+                {
+                    "name": "C",
+                    "fullname": "Common"
+                }
+            ]
+        },
+        {
+            "id": "swsh1-8",
+            "name": "Durant",
+            "supertype": "Pokémon",
+            "subtypes": "Basic",
+            "hp": "110",
+            "types": [
+                {
+                    "name": "Grass",
+                    "image": "https://www.dropbox.com/s/ej42khbib8quzg3/Grass.png?dl=1",
+                    "imageWidth": 25,
+                    "imageHeight": 25
+                }
+            ],
+            "attacks": [
+                {
+                    "name": "Bite Together",
+                    "cost": [
+                        {
+                            "name": "GrassColorless",
+                            "image": "https://www.dropbox.com/s/3lr8ethrcit0cn7/GrassColorless.png?dl=1",
+                            "imageWidth": 51,
+                            "imageHeight": 25
+                        }
+                    ],
+                    "damage": "30+",
+                    "text": "If Durant is on your Bench, this attack does 60 more damage."
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Fire",
+                    "image": "https://www.dropbox.com/s/datcoyg7988gaam/Fire.png?dl=1",
+                    "imageWidth": 25,
+                    "imageHeight": 25,
+                    "value": "×2"
+                }
+            ],
+            "retreatCost": [
+                {
+                    "name": "Colorless",
+                    "image": "https://www.dropbox.com/s/isxpid0osmi1j6x/Colorless.png?dl=1",
+                    "imageWidth": 25,
+                    "imageHeight": 25
+                }
+            ],
+            "setinfo": [
+                {
+                    "id": "swsh1",
+                    "name": "Sword & Shield",
+                    "series": "Sword & Shield Series",
+                    "language": "International",
+                    "completeSet": 202,
+                    "masterSet": 381,
+                    "exclusives": 100,
+                    "ptcgoCode": "SWSH"
+                }
+            ],
+            "number": "008",
+            "artist": "Miki Tanaka",
+            "legalities": [
+                {
+                    "Standard": "Legal",
+                    "Expanded": "Legal",
+                    "Unlimited": "Legal"
+                }
+            ],
+            "variants": [
+                {
+                    "name": "Normal",
+                    "image": "https://www.dropbox.com/s/w6hm9r8r6r17x4l/swsh1-8.png?dl=1",
+                    "market": 0.00
+                },
+                {
+                    "name": "Reverse Holo",
+                    "image": "https://www.dropbox.com/s/u54h6ivpd9xy5xj/swsh1-8-P.png?dl=1",
+                    "market": 0.00
+                }
+            ],
+            "rarity": [
+                {
+                    "name": "R",
+                    "fullname": "Rare"
+                }
+            ]
         }
     ],
-    "count": 5
+    "count": 7
 }
 
 
