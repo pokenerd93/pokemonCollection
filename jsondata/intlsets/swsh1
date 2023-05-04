@@ -14,6 +14,9 @@
                     "imageHeight": 25
                 }
             ],
+            "rules": [
+                "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+            ],
             "attacks": [
                 {
                     "name": "Find a Friend",
@@ -25,6 +28,8 @@
                             "imageHeight": 25
                         }
                     ],
+                    "convertedEnergyCost": 1,
+                    "damage": "",
                     "text": "Search your deck for up to 2 Pokémon, reveal them, and put them into your hand. Then, shuffle your deck."
                 },
                 {
@@ -37,12 +42,10 @@
                             "imageHeight": 25
                         }
                     ],
+                    "convertedEnergyCost": 2,
                     "damage": "50+",
                     "text": "This attack does 20 more damage for each of your Benched Pokémon."
                 }
-            ],
-            "rules": [
-                "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
             ],
             "weaknesses": [
                 {
@@ -61,6 +64,7 @@
                     "imageHeight": 25
                 }
             ],
+            "convertedRetreatCost": 1,
             "setinfo": [
                 {
                     "id": "swsh1",
@@ -75,29 +79,35 @@
             ],
             "number": "001",
             "artist": "PLANETA Igarashi",
-            "legalities": [
-                {
-                    "Standard": "Legal",
-                    "Expanded": "Legal",
-                    "Unlimited": "Legal"
-                }
-            ],
-            "variants": [
-                {
-                    "name": "Normal Holo",
-                    "image": "https://www.dropbox.com/s/sk9uou64oi9k082/swsh1-1.png?dl=1",
-                    "priceURL": "https://www.pricecharting.com/game/pokemon-sword-&-shield/celebi-v-1?q=celebi+v+%231"
-                }
-            ],
             "rarity": [
                 {
                     "name": "UR",
                     "fullname": "Ultra Rare"
                 }
+            ],
+            "nationalPokedexNumbers": [
+                251
+            ],
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "regulationMark": "D",
+            "variants": [
+                {
+                    "Normal Holo": [
+                        {
+                            "image": "https://www.dropbox.com/s/sk9uou64oi9k082/swsh1-1.png?dl=1",
+                            "priceURL": "https://www.pricecharting.com/game/pokemon-sword-&-shield/celebi-v-1?q=celebi+v+%231"
+                        }
+                    ]
+                }
             ]
         }
     ],
-    "count": 7
+    "page": 1,
+    "pageSize": 250,
+    "count": 216,
+    "totalCount": 216
 }
-
-
