@@ -101,6 +101,96 @@
                     "priceURL": "https://www.pricecharting.com/game/pokemon-sword-&-shield/celebi-v-1?q=celebi+v+%231"
                 }
             ]
+        },
+        {
+            "id": "swsh1-2",
+            "name": "Roselia",
+            "supertype": "Pokémon",
+            "subtypes": "Basic",
+            "hp": "70",
+            "types": [
+                {
+                    "name": "Grass",
+                    "image": "https://www.dropbox.com/s/ej42khbib8quzg3/Grass.png?dl=1",
+                    "imageWidth": 25,
+                    "imageHeight": 25
+                }
+            ],
+            "attacks": [
+                {
+                    "name": "Absorb",
+                    "cost": [
+                        {
+                            "name": "Grass",
+                            "image": "https://www.dropbox.com/s/vdtb6ultb0wzerl/Grass.png?dl=1",
+                            "imageWidth": 25,
+                            "imageHeight": 25
+                        }
+                    ],
+                    "convertedEnergyCost": 1,
+                    "damage": "10",
+                    "text": "Heal 10 damage from this Pokémon."
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Fire",
+                    "image": "https://www.dropbox.com/s/datcoyg7988gaam/Fire.png?dl=1",
+                    "imageWidth": 25,
+                    "imageHeight": 25,
+                    "value": "×2"
+                }
+            ],
+            "retreatCost": [
+                {
+                    "name": "Colorless",
+                    "image": "https://www.dropbox.com/s/isxpid0osmi1j6x/Colorless.png?dl=1",
+                    "imageWidth": 25,
+                    "imageHeight": 25
+                }
+            ],
+            "convertedRetreatCost": 1,
+            "setinfo": [
+                {
+                    "id": "swsh1",
+                    "name": "Sword & Shield",
+                    "series": "Sword & Shield Series",
+                    "language": "International",
+                    "completeSet": 202,
+                    "masterSet": 381,
+                    "exclusives": 100,
+                    "ptcgoCode": "SWSH"
+                }
+            ],
+            "number": "002",
+            "artist": "sowsow",
+            "rarity": [
+                {
+                    "name": "C",
+                    "fullname": "Common"
+                }
+            ],
+            "nationalPokedexNumbers": [
+                315
+            ],
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "regulationMark": "D",
+            "variants": [
+                {
+                    "name": "Standard",
+                    "image": "https://www.dropbox.com/s/9b2v2ahs8sge5mi/swsh1-en-2.png?dl=1",
+                    "priceURL": "https://www.pricecharting.com/game/pokemon-sword-&-shield/roselia-2"
+                },
+                {
+                    "name": "Reverse Holo",
+                    "image": "https://www.dropbox.com/s/py4d47050a7tygo/swsh1-en-2-P.png?dl=1",
+                    "priceURL": "https://www.pricecharting.com/game/pokemon-sword-&-shield/roselia-reverse-holo-2"
+                },
+            ]
         }
     ],
     "page": 1,
@@ -108,3 +198,4 @@
     "count": 216,
     "totalCount": 216
 }
+
