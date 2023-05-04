@@ -191,6 +191,215 @@
                     "priceURL": "https://www.pricecharting.com/game/pokemon-sword-&-shield/roselia-reverse-holo-2"
                 }
             ]
+        },
+        {
+            "id": "swsh1-3",
+            "name": "Roselia",
+            "supertype": "Pokémon",
+            "subtypes": "Basic",
+            "hp": "70",
+            "types": [
+                {
+                    "name": "Grass",
+                    "image": "https://www.dropbox.com/s/ej42khbib8quzg3/Grass.png?dl=1",
+                    "imageWidth": 25,
+                    "imageHeight": 25
+                }
+            ],
+            "attacks": [
+                {
+                    "name": "Sweet Scent",
+                    "cost": [
+                        {
+                            "name": "Colorless",
+                            "image": "https://www.dropbox.com/s/w55xhawximbuk8k/Colorless.png?dl=1",
+                            "imageWidth": 25,
+                            "imageHeight": 25
+                        }
+                    ],
+                    "convertedEnergyCost": 1,
+                    "damage": "",
+                    "text": "Heal 30 damage from 1 of your Pokémon."
+                },
+                {
+                    "name": "Sting",
+                    "cost": [
+                        {
+                            "name": "GrassColorless",
+                            "image": "https://www.dropbox.com/s/3lr8ethrcit0cn7/GrassColorless.png?dl=1",
+                            "imageWidth": 51,
+                            "imageHeight": 25
+                        }
+                    ],
+                    "convertedEnergyCost": 2,
+                    "damage": "20",
+                    "text": ""
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Fire",
+                    "image": "https://www.dropbox.com/s/datcoyg7988gaam/Fire.png?dl=1",
+                    "imageWidth": 25,
+                    "imageHeight": 25,
+                    "value": "×2"
+                }
+            ],
+            "retreatCost": [
+                {
+                    "name": "Colorless",
+                    "image": "https://www.dropbox.com/s/isxpid0osmi1j6x/Colorless.png?dl=1",
+                    "imageWidth": 25,
+                    "imageHeight": 25
+                }
+            ],
+            "convertedRetreatCost": 1,
+            "setinfo": [
+                {
+                    "id": "swsh1",
+                    "name": "Sword & Shield",
+                    "series": "Sword & Shield Series",
+                    "language": "International",
+                    "completeSet": 202,
+                    "masterSet": 381,
+                    "exclusives": 100,
+                    "ptcgoCode": "SWSH"
+                }
+            ],
+            "number": "003",
+            "artist": "Naoyo Kimura",
+            "rarity": [
+                {
+                    "name": "C",
+                    "fullname": "Common"
+                }
+            ],
+            "nationalPokedexNumbers": [
+                315
+            ],
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "regulationMark": "D",
+            "variants": [
+                {
+                    "name": "Standard",
+                    "image": "https://www.dropbox.com/s/ipy0ndota50olgx/swsh1-en-3.png?dl=1",
+                    "priceURL": "https://www.pricecharting.com/game/pokemon-sword-&-shield/roselia-3"
+                },
+                {
+                    "name": "Reverse Holo",
+                    "image": "https://www.dropbox.com/s/dbj84e12ffswcxz/swsh1-en-3-P.png?dl=1",
+                    "priceURL": "https://www.pricecharting.com/game/pokemon-sword-&-shield/roselia-reverse-holo-3"
+                }
+            ]
+        },
+        {
+            "id": "swsh1-4",
+            "name": "Roserade",
+            "supertype": "Pokémon",
+            "subtypes": "Stage 1",
+            "hp": "120",
+            "types": [
+                {
+                    "name": "Grass",
+                    "image": "https://www.dropbox.com/s/ej42khbib8quzg3/Grass.png?dl=1",
+                    "imageWidth": 25,
+                    "imageHeight": 25
+                }
+            ],
+            "evolvesFrom": "Evolves from Roselia",
+            "attacks": [
+                {
+                    "name": "Paralyze Poison",
+                    "cost": [
+                        {
+                            "name": "Grass",
+                            "image": "https://www.dropbox.com/s/vdtb6ultb0wzerl/Grass.png?dl=1",
+                            "imageWidth": 25,
+                            "imageHeight": 25
+                        }
+                    ],
+                    "convertedEnergyCost": 1,
+                    "damage": "30",
+                    "text": "Your opponent's Active Pokémon is now Poisoned. Flip a coin. If heads, your opponent's Active Pokémon is also Paralyzed."
+                },
+                {
+                    "name": "Mega Drain",
+                    "cost": [
+                        {
+                            "name": "GrassColorlessColorless",
+                            "image": "https://www.dropbox.com/s/39m63tqnhfky586/GrassColorlessColorless.png?dl=1",
+                            "imageWidth": 80,
+                            "imageHeight": 25
+                        }
+                    ],
+                    "convertedEnergyCost": 3,
+                    "damage": "90",
+                    "text": "Heal 30 damage from this Pokémon."
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Fire",
+                    "image": "https://www.dropbox.com/s/datcoyg7988gaam/Fire.png?dl=1",
+                    "imageWidth": 25,
+                    "imageHeight": 25,
+                    "value": "×2"
+                }
+            ],
+            "retreatCost": [
+                {
+                    "name": "Colorless",
+                    "image": "https://www.dropbox.com/s/isxpid0osmi1j6x/Colorless.png?dl=1",
+                    "imageWidth": 25,
+                    "imageHeight": 25
+                }
+            ],
+            "convertedRetreatCost": 1,
+            "setinfo": [
+                {
+                    "id": "swsh1",
+                    "name": "Sword & Shield",
+                    "series": "Sword & Shield Series",
+                    "language": "International",
+                    "completeSet": 202,
+                    "masterSet": 381,
+                    "exclusives": 100,
+                    "ptcgoCode": "SWSH"
+                }
+            ],
+            "number": "004",
+            "artist": "chibi",
+            "rarity": [
+                {
+                    "name": "R",
+                    "fullname": "Rare"
+                }
+            ],
+            "nationalPokedexNumbers": [
+                407
+            ],
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "regulationMark": "D",
+            "variants": [
+                {
+                    "name": "Standard",
+                    "image": "https://www.dropbox.com/s/t89vlkdp9pfuyuz/swsh1-en-4.png?dl=1",
+                    "priceURL": "https://www.pricecharting.com/game/pokemon-sword-&-shield/roserade-4"
+                },
+                {
+                    "name": "Reverse Holo",
+                    "image": "https://www.dropbox.com/s/oe3xqd1v4i2x9km/swsh1-en-4-P.png?dl=1",
+                    "priceURL": "https://www.pricecharting.com/game/pokemon-sword-&-shield/roserade-reverse-holo-4"
+                }
+            ]
         }
     ],
     "page": 1,
@@ -198,4 +407,5 @@
     "count": 216,
     "totalCount": 216
 }
+
 
