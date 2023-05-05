@@ -400,6 +400,305 @@
                     "priceURL": "https://www.pricecharting.com/game/pokemon-sword-&-shield/roserade-reverse-holo-4"
                 }
             ]
+        },
+        {
+            "id": "swsh1-5",
+            "name": "Cottonee",
+            "supertype": "Pokémon",
+            "subtypes": "Basic",
+            "hp": "60",
+            "types": [
+                {
+                    "name": "Grass",
+                    "image": "https://www.dropbox.com/s/ej42khbib8quzg3/Grass.png?dl=1",
+                    "imageWidth": 25,
+                    "imageHeight": 25
+                }
+            ],
+            "attacks": [
+                {
+                    "name": "Attach",
+                    "cost": [
+                        {
+                            "name": "Colorless",
+                            "image": "https://www.dropbox.com/s/w55xhawximbuk8k/Colorless.png?dl=1",
+                            "imageWidth": 25,
+                            "imageHeight": 25
+                        }
+                    ],
+                    "convertedEnergyCost": 1,
+                    "damage": "10",
+                    "text": ""
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Fire",
+                    "image": "https://www.dropbox.com/s/datcoyg7988gaam/Fire.png?dl=1",
+                    "imageWidth": 25,
+                    "imageHeight": 25,
+                    "value": "×2"
+                }
+            ],
+            "retreatCost": [
+                {
+                    "name": "Colorless",
+                    "image": "https://www.dropbox.com/s/isxpid0osmi1j6x/Colorless.png?dl=1",
+                    "imageWidth": 25,
+                    "imageHeight": 25
+                }
+            ],
+            "convertedRetreatCost": 1,
+            "setinfo": [
+                {
+                    "id": "swsh1",
+                    "name": "Sword & Shield",
+                    "series": "Sword & Shield Series",
+                    "language": "International",
+                    "completeSet": 202,
+                    "masterSet": 381,
+                    "exclusives": 100,
+                    "ptcgoCode": "SWSH"
+                }
+            ],
+            "number": "005",
+            "artist": "ryoma uratsuka",
+            "rarity": [
+                {
+                    "name": "C",
+                    "fullname": "Common"
+                }
+            ],
+            "nationalPokedexNumbers": [
+                546
+            ],
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "regulationMark": "D",
+            "variants": [
+                {
+                    "name": "Standard",
+                    "image": "https://www.dropbox.com/s/vu4r3ivbduj860r/swsh1-en-5.png?dl=1",
+                    "priceURL": "https://www.pricecharting.com/game/pokemon-sword-&-shield/cottonee-5"
+                },
+                {
+                    "name": "Reverse Holo",
+                    "image": "https://www.dropbox.com/s/xl2crzp8tjwrjby/swsh1-en-5-P.png?dl=1",
+                    "priceURL": "https://www.pricecharting.com/game/pokemon-sword-&-shield/cottonee-reverse-holo-5"
+                }
+            ]
+        },
+        {
+            "id": "swsh1-6",
+            "name": "Whimsicott",
+            "supertype": "Pokémon",
+            "subtypes": "Stage 1",
+            "hp": "100",
+            "types": [
+                {
+                    "name": "Grass",
+                    "image": "https://www.dropbox.com/s/ej42khbib8quzg3/Grass.png?dl=1",
+                    "imageWidth": 25,
+                    "imageHeight": 25
+                }
+            ],
+            "evolvesFrom": "Evolves from Cottonee",
+            "attacks": [
+                {
+                    "name": "Cotton Ride",
+                    "cost": [
+                        {
+                            "name": "Colorless",
+                            "image": "https://www.dropbox.com/s/w55xhawximbuk8k/Colorless.png?dl=1",
+                            "imageWidth": 25,
+                            "imageHeight": 25
+                        }
+                    ],
+                    "convertedEnergyCost": 1,
+                    "damage": "",
+                    "text": "Flip a coin. If heads, your opponent shuffles their Active Pokémon and all attached cards into their deck."
+                },
+                {
+                    "name": "Leaf Step",
+                    "cost": [
+                        {
+                            "name": "Grass",
+                            "image": "https://www.dropbox.com/s/vdtb6ultb0wzerl/Grass.png?dl=1",
+                            "imageWidth": 25,
+                            "imageHeight": 25
+                        }
+                    ],
+                    "convertedEnergyCost": 1,
+                    "damage": "50",
+                    "text": ""
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Fire",
+                    "image": "https://www.dropbox.com/s/datcoyg7988gaam/Fire.png?dl=1",
+                    "imageWidth": 25,
+                    "imageHeight": 25,
+                    "value": "×2"
+                }
+            ],
+            "retreatCost": [
+                {
+                    "name": "Colorless",
+                    "image": "https://www.dropbox.com/s/isxpid0osmi1j6x/Colorless.png?dl=1",
+                    "imageWidth": 25,
+                    "imageHeight": 25
+                }
+            ],
+            "convertedRetreatCost": 1,
+            "setinfo": [
+                {
+                    "id": "swsh1",
+                    "name": "Sword & Shield",
+                    "series": "Sword & Shield Series",
+                    "language": "International",
+                    "completeSet": 202,
+                    "masterSet": 381,
+                    "exclusives": 100,
+                    "ptcgoCode": "SWSH"
+                }
+            ],
+            "number": "006",
+            "artist": "kodama",
+            "rarity": [
+                {
+                    "name": "R",
+                    "fullname": "Rare"
+                }
+            ],
+            "nationalPokedexNumbers": [
+                547
+            ],
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "regulationMark": "D",
+            "variants": [
+                {
+                    "name": "Standard",
+                    "image": "https://www.dropbox.com/s/9p84ehcpt3cjxsz/swsh1-en-6.png?dl=1",
+                    "priceURL": "https://www.pricecharting.com/game/pokemon-sword-&-shield/whimsicott-6"
+                },
+                {
+                    "name": "Reverse Holo",
+                    "image": "https://www.dropbox.com/s/x27ptrsxgid3cv7/swsh1-en-6-P.png?dl=1",
+                    "priceURL": "https://www.pricecharting.com/game/pokemon-sword-&-shield/whimsicott-reverse-holo-6"
+                }
+            ]
+        },
+        {
+            "id": "swsh1-7",
+            "name": "Maractus",
+            "supertype": "Pokémon",
+            "subtypes": "Basic",
+            "hp": "110",
+            "types": [
+                {
+                    "name": "Grass",
+                    "image": "https://www.dropbox.com/s/ej42khbib8quzg3/Grass.png?dl=1",
+                    "imageWidth": 25,
+                    "imageHeight": 25
+                }
+            ],
+            "attacks": [
+                {
+                    "name": "Zzzt",
+                    "cost": [
+                        {
+                            "name": "Colorless",
+                            "image": "https://www.dropbox.com/s/w55xhawximbuk8k/Colorless.png?dl=1",
+                            "imageWidth": 25,
+                            "imageHeight": 25
+                        }
+                    ],
+                    "convertedEnergyCost": 1,
+                    "damage": "20",
+                    "text": ""
+                },
+                {
+                    "name": "Powerful Needles",
+                    "cost": [
+                        {
+                            "name": "GrassColorless",
+                            "image": "https://www.dropbox.com/s/3lr8ethrcit0cn7/GrassColorless.png?dl=1",
+                            "imageWidth": 51,
+                            "imageHeight": 25
+                        }
+                    ],
+                    "convertedEnergyCost": 1,
+                    "damage": "60x",
+                    "text": "Flip a coin for each Energy attached to this Pokémon. This attack does 60 damage for each heads."
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Fire",
+                    "image": "https://www.dropbox.com/s/datcoyg7988gaam/Fire.png?dl=1",
+                    "imageWidth": 25,
+                    "imageHeight": 25,
+                    "value": "×2"
+                }
+            ],
+            "retreatCost": [
+                {
+                    "name": "ColorlessColorless",
+                    "image": "https://www.dropbox.com/s/zrqzpiaftjizj85/ColorlessColorless.png?dl=1",
+                    "imageWidth": 51,
+                    "imageHeight": 25
+                }
+            ],
+            "convertedRetreatCost": 1,
+            "setinfo": [
+                {
+                    "id": "swsh1",
+                    "name": "Sword & Shield",
+                    "series": "Sword & Shield Series",
+                    "language": "International",
+                    "completeSet": 202,
+                    "masterSet": 381,
+                    "exclusives": 100,
+                    "ptcgoCode": "SWSH"
+                }
+            ],
+            "number": "007",
+            "artist": "Atsuko Nishida",
+            "rarity": [
+                {
+                    "name": "C",
+                    "fullname": "Common"
+                }
+            ],
+            "nationalPokedexNumbers": [
+                556
+            ],
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "regulationMark": "D",
+            "variants": [
+                {
+                    "name": "Standard",
+                    "image": "https://www.dropbox.com/s/qi6ctf5a6ktbgur/swsh1-en-7.png?dl=1",
+                    "priceURL": "https://www.pricecharting.com/game/pokemon-sword-&-shield/maractus-7"
+                },
+                {
+                    "name": "Reverse Holo",
+                    "image": "https://www.dropbox.com/s/uwav270d195pavm/swsh1-en-7-P.png?dl=1",
+                    "priceURL": "https://www.pricecharting.com/game/pokemon-sword-&-shield/maractus-reverse-holo-7"
+                }
+            ]
         }
     ],
     "page": 1,
