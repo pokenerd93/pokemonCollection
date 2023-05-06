@@ -1176,6 +1176,912 @@
                     "image": "https://www.dropbox.com/s/6cplm38q4lwprgq/swsh1-en-12-P.png?dl=1"
                 }
             ]
+        },
+        {
+            "id": "swsh1-13",
+            "name": "Thwackey",
+            "supertype": "Pokémon",
+            "subtypes": "Stage 1",
+            "hp": "100",
+            "types": [
+                {
+                    "name": "Grass",
+                    "image": "https://www.dropbox.com/s/ej42khbib8quzg3/Grass.png?dl=1",
+                    "imageWidth": 25,
+                    "imageHeight": 25
+                }
+            ],
+            "evolvesFrom": "Evolves from Grookey",
+            "attacks": [
+                {
+                    "name": "Beat",
+                    "cost": [
+                        {
+                            "name": "GrassColorless",
+                            "image": "https://www.dropbox.com/s/3lr8ethrcit0cn7/GrassColorless.png?dl=1",
+                            "imageWidth": 51,
+                            "imageHeight": 25
+                        }
+                    ],
+                    "convertedEnergyCost": 2,
+                    "damage": "30",
+                    "text": ""
+                },
+                {
+                    "name": "Ambush",
+                    "cost": [
+                        {
+                            "name": "GrassGrassColorless",
+                            "image": "https://www.dropbox.com/s/v25crdqxz9htp5p/GrassGrassColorless.png?dl=1",
+                            "imageWidth": 80,
+                            "imageHeight": 25
+                        }
+                    ],
+                    "convertedEnergyCost": 3,
+                    "damage": "50+",
+                    "text": "Flip a coin. If heads, this attack does 30 more damage."
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Fire",
+                    "image": "https://www.dropbox.com/s/datcoyg7988gaam/Fire.png?dl=1",
+                    "imageWidth": 25,
+                    "imageHeight": 25,
+                    "value": "×2"
+                }
+            ],
+            "retreatCost": [
+                {
+                    "name": "ColorlessColorless",
+                    "image": "https://www.dropbox.com/s/zrqzpiaftjizj85/ColorlessColorless.png?dl=1",
+                    "imageWidth": 51,
+                    "imageHeight": 25
+                }
+            ],
+            "convertedRetreatCost": 2,
+            "setinfo": [
+                {
+                    "id": "swsh1",
+                    "name": "Sword & Shield",
+                    "series": "Sword & Shield Series",
+                    "language": "International",
+                    "completeSet": 202,
+                    "masterSet": 381,
+                    "exclusives": 100,
+                    "ptcgoCode": "SWSH"
+                }
+            ],
+            "number": "013",
+            "artist": "Akira Komayama",
+            "rarity": [
+                {
+                    "name": "U",
+                    "fullname": "Uncommon"
+                }
+            ],
+            "nationalPokedexNumbers": [
+                811
+            ],
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "regulationMark": "D",
+            "variants": [
+                {
+                    "name": "Standard",
+                    "image": "https://www.dropbox.com/s/btj5vj6jy76upwk/swsh1-en-13.png?dl=1"
+                },
+                {
+                    "name": "Reverse Holo",
+                    "image": "https://www.dropbox.com/s/vnrbyhi5zorlf88/swsh1-en-13-P.png?dl=1"
+                }
+            ]
+        },
+        {
+            "id": "swsh1-14",
+            "name": "Rillaboom",
+            "supertype": "Pokémon",
+            "subtypes": "Stage 2",
+            "hp": "170",
+            "types": [
+                {
+                    "name": "Grass",
+                    "image": "https://www.dropbox.com/s/ej42khbib8quzg3/Grass.png?dl=1",
+                    "imageWidth": 25,
+                    "imageHeight": 25
+                }
+            ],
+            "evolvesFrom": "Evolves from Thwackey",
+            "abilities": [
+                {
+                    "name": "Voltage Beat",
+                    "image": "https://www.dropbox.com/s/h7ott20a21yg5wq/PokemonPower.png?dl=1",
+                    "imageWidth": 80,
+                    "imageHeight": 25,
+                    "text": "Once during your turn, you may search your deck for up to 2 Grass Energy cards and attach them to 1 of your Pokémon. Then, shuffle your deck."
+                }
+            ],
+            "attacks": [
+                {
+                    "name": "Hammer In",
+                    "cost": [
+                        {
+                            "name": "GrassGrassGrassColorless",
+                            "image": "https://www.dropbox.com/s/xilad54t2hc78e3/GrassGrassGrassColorless.png?dl=1",
+                            "imageWidth": 105,
+                            "imageHeight": 25
+                        }
+                    ],
+                    "convertedEnergyCost": 4,
+                    "damage": "140",
+                    "text": ""
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Fire",
+                    "image": "https://www.dropbox.com/s/datcoyg7988gaam/Fire.png?dl=1",
+                    "imageWidth": 25,
+                    "imageHeight": 25,
+                    "value": "×2"
+                }
+            ],
+            "retreatCost": [
+                {
+                    "name": "ColorlessColorlessColorless",
+                    "image": "https://www.dropbox.com/s/z8os06jnx21r5py/ColorlessColorlessColorless.png?dl=1",
+                    "imageWidth": 80,
+                    "imageHeight": 25
+                }
+            ],
+            "convertedRetreatCost": 3,
+            "setinfo": [
+                {
+                    "id": "swsh1",
+                    "name": "Sword & Shield",
+                    "series": "Sword & Shield Series",
+                    "language": "International",
+                    "completeSet": 202,
+                    "masterSet": 381,
+                    "exclusives": 100,
+                    "ptcgoCode": "SWSH"
+                }
+            ],
+            "number": "014",
+            "artist": "Anesaki Dynamic",
+            "rarity": [
+                {
+                    "name": "RH",
+                    "fullname": "Rare Holo"
+                }
+            ],
+            "nationalPokedexNumbers": [
+                812
+            ],
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "regulationMark": "D",
+            "variants": [
+                {
+                    "name": "Standard Holo",
+                    "image": "https://www.dropbox.com/s/0x8l077ybbhhkxl/swsh1-en-14.png?dl=1"
+                },
+                {
+                    "name": "Reverse Holo",
+                    "image": "https://www.dropbox.com/s/m1xa888hoaxpkum/swsh1-en-14-P.png?dl=1"
+                },
+                {
+                    "name": "Non-Holo",
+                    "image": "https://www.dropbox.com/s/du8fyeqo4y48e5k/swsh1-en-14-E1.png?dl=1"
+                },
+                {
+                    "name": "Pokémon League",
+                    "image": "https://www.dropbox.com/s/5o9ykxsrk4zzhge/swsh1-en-14-E2.png?dl=1"
+                },
+                {
+                    "name": "Play! Pokémon Prize Pack, Non-Holo",
+                    "image": "https://www.dropbox.com/s/jhnobd64q527uky/swsh1-en-14-E3.png?dl=1"
+                },
+                {
+                    "name": "Cosmos Holo",
+                    "image": "https://www.dropbox.com/s/zji0sdsrv7bibtp/swsh1-en-14-E4.png?dl=1"
+                }
+            ]
+        },
+        {
+            "id": "swsh1-15",
+            "name": "Rillaboom",
+            "supertype": "Pokémon",
+            "subtypes": "Stage 2",
+            "hp": "190",
+            "types": [
+                {
+                    "name": "Grass",
+                    "image": "https://www.dropbox.com/s/ej42khbib8quzg3/Grass.png?dl=1",
+                    "imageWidth": 25,
+                    "imageHeight": 25
+                }
+            ],
+            "evolvesFrom": "Evolves from Thwackey",
+            "attacks": [
+                {
+                    "name": "Drum Roll",
+                    "cost": [
+                        {
+                            "name": "GrassGrassColorless",
+                            "image": "https://www.dropbox.com/s/v25crdqxz9htp5p/GrassGrassColorless.png?dl=1",
+                            "imageWidth": 80,
+                            "imageHeight": 25
+                        }
+                    ],
+                    "convertedEnergyCost": 3,
+                    "damage": "90",
+                    "text": "This attack also does 10 damage to each of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+                },
+                {
+                    "name": "Drum Beating",
+                    "cost": [
+                        {
+                            "name": "GrassGrassGrassColorless",
+                            "image": "https://www.dropbox.com/s/xilad54t2hc78e3/GrassGrassGrassColorless.png?dl=1",
+                            "imageWidth": 105,
+                            "imageHeight": 25
+                        }
+                    ],
+                    "convertedEnergyCost": 4,
+                    "damage": "180",
+                    "text": "During your next turn, this Pokémon can't use Drum Beating."
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Fire",
+                    "image": "https://www.dropbox.com/s/datcoyg7988gaam/Fire.png?dl=1",
+                    "imageWidth": 25,
+                    "imageHeight": 25,
+                    "value": "×2"
+                }
+            ],
+            "retreatCost": [
+                {
+                    "name": "ColorlessColorlessColorlessColorless",
+                    "image": "https://www.dropbox.com/s/31i02nz5e9s9g3f/ColorlessColorlessColorlessColorless.png?dl=1",
+                    "imageWidth": 105,
+                    "imageHeight": 25
+                }
+            ],
+            "convertedRetreatCost": 4,
+            "setinfo": [
+                {
+                    "id": "swsh1",
+                    "name": "Sword & Shield",
+                    "series": "Sword & Shield Series",
+                    "language": "International",
+                    "completeSet": 202,
+                    "masterSet": 381,
+                    "exclusives": 100,
+                    "ptcgoCode": "SWSH"
+                }
+            ],
+            "number": "015",
+            "artist": "Shin Nagasawa",
+            "rarity": [
+                {
+                    "name": "R",
+                    "fullname": "Rare"
+                }
+            ],
+            "nationalPokedexNumbers": [
+                812
+            ],
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "regulationMark": "D",
+            "variants": [
+                {
+                    "name": "Standard",
+                    "image": "https://www.dropbox.com/s/6h6t32089n0ll5c/swsh1-en-15.png?dl=1"
+                },
+                {
+                    "name": "Reverse Holo",
+                    "image": "https://www.dropbox.com/s/gxi31aqp8fo50rd/swsh1-en-15-P.png?dl=1"
+                },
+                {
+                    "name": "Cracked Ice Holo",
+                    "image": "https://www.dropbox.com/s/r50wksczai4jddw/swsh1-en-15-E1.png?dl=1"
+                }
+            ]
+        },
+        {
+            "id": "swsh1-16",
+            "name": "Blipbug",
+            "supertype": "Pokémon",
+            "subtypes": "Basic",
+            "hp": "50",
+            "types": [
+                {
+                    "name": "Grass",
+                    "image": "https://www.dropbox.com/s/ej42khbib8quzg3/Grass.png?dl=1",
+                    "imageWidth": 25,
+                    "imageHeight": 25
+                }
+            ],
+            "attacks": [
+                {
+                    "name": "Gnaw",
+                    "cost": [
+                        {
+                            "name": "Grass",
+                            "image": "https://www.dropbox.com/s/vdtb6ultb0wzerl/Grass.png?dl=1",
+                            "imageWidth": 25,
+                            "imageHeight": 25
+                        }
+                    ],
+                    "convertedEnergyCost": 1,
+                    "damage": "20",
+                    "text": ""
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Fire",
+                    "image": "https://www.dropbox.com/s/datcoyg7988gaam/Fire.png?dl=1",
+                    "imageWidth": 25,
+                    "imageHeight": 25,
+                    "value": "×2"
+                }
+            ],
+            "retreatCost": [
+                {
+                    "name": "Colorless",
+                    "image": "https://www.dropbox.com/s/isxpid0osmi1j6x/Colorless.png?dl=1",
+                    "imageWidth": 25,
+                    "imageHeight": 25
+                }
+            ],
+            "convertedRetreatCost": 1,
+            "setinfo": [
+                {
+                    "id": "swsh1",
+                    "name": "Sword & Shield",
+                    "series": "Sword & Shield Series",
+                    "language": "International",
+                    "completeSet": 202,
+                    "masterSet": 381,
+                    "exclusives": 100,
+                    "ptcgoCode": "SWSH"
+                }
+            ],
+            "number": "016",
+            "artist": "nagimiso",
+            "rarity": [
+                {
+                    "name": "C",
+                    "fullname": "Common"
+                }
+            ],
+            "nationalPokedexNumbers": [
+                824
+            ],
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "regulationMark": "D",
+            "variants": [
+                {
+                    "name": "Standard",
+                    "image": "https://www.dropbox.com/s/bdsmwjzwixzh2h2/swsh1-en-16.png?dl=1"
+                },
+                {
+                    "name": "Reverse Holo",
+                    "image": "https://www.dropbox.com/s/gzxgzs3ikgkgur9/swsh1-en-16-P.png?dl=1"
+                }
+            ]
+        },
+        {
+            "id": "swsh1-17",
+            "name": "Blipbug",
+            "supertype": "Pokémon",
+            "subtypes": "Basic",
+            "hp": "40",
+            "types": [
+                {
+                    "name": "Grass",
+                    "image": "https://www.dropbox.com/s/ej42khbib8quzg3/Grass.png?dl=1",
+                    "imageWidth": 25,
+                    "imageHeight": 25
+                }
+            ],
+            "attacks": [
+                {
+                    "name": "Call for Family",
+                    "cost": [
+                        {
+                            "name": "Colorless",
+                            "image": "https://www.dropbox.com/s/w55xhawximbuk8k/Colorless.png?dl=1",
+                            "imageWidth": 25,
+                            "imageHeight": 25
+                        }
+                    ],
+                    "convertedEnergyCost": 1,
+                    "damage": "",
+                    "text": "Search your deck for a Basic Pokémon and put it onto your Bench. Then, shuffle your deck."
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Fire",
+                    "image": "https://www.dropbox.com/s/datcoyg7988gaam/Fire.png?dl=1",
+                    "imageWidth": 25,
+                    "imageHeight": 25,
+                    "value": "×2"
+                }
+            ],
+            "retreatCost": [
+                {
+                    "name": "Colorless",
+                    "image": "https://www.dropbox.com/s/isxpid0osmi1j6x/Colorless.png?dl=1",
+                    "imageWidth": 25,
+                    "imageHeight": 25
+                }
+            ],
+            "convertedRetreatCost": 1,
+            "setinfo": [
+                {
+                    "id": "swsh1",
+                    "name": "Sword & Shield",
+                    "series": "Sword & Shield Series",
+                    "language": "International",
+                    "completeSet": 202,
+                    "masterSet": 381,
+                    "exclusives": 100,
+                    "ptcgoCode": "SWSH"
+                }
+            ],
+            "number": "017",
+            "artist": "Mina Nakai",
+            "rarity": [
+                {
+                    "name": "C",
+                    "fullname": "Common"
+                }
+            ],
+            "nationalPokedexNumbers": [
+                824
+            ],
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "regulationMark": "D",
+            "variants": [
+                {
+                    "name": "Standard",
+                    "image": "https://www.dropbox.com/s/ylqqfogo14zvxhc/swsh1-en-17.png?dl=1"
+                },
+                {
+                    "name": "Reverse Holo",
+                    "image": "https://www.dropbox.com/s/519es8y3sqjdhom/swsh1-en-17-P.png?dl=1"
+                }
+            ]
+        },
+        {
+            "id": "swsh1-18",
+            "name": "Dottler",
+            "supertype": "Pokémon",
+            "subtypes": "Stage 1",
+            "hp": "70",
+            "types": [
+                {
+                    "name": "Grass",
+                    "image": "https://www.dropbox.com/s/ej42khbib8quzg3/Grass.png?dl=1",
+                    "imageWidth": 25,
+                    "imageHeight": 25
+                }
+            ],
+            "evolvesFrom": "Evolves from Blipbug",
+            "attacks": [
+                {
+                    "name": "Reflect",
+                    "cost": [
+                        {
+                            "name": "Colorless",
+                            "image": "https://www.dropbox.com/s/w55xhawximbuk8k/Colorless.png?dl=1",
+                            "imageWidth": 25,
+                            "imageHeight": 25
+                        }
+                    ],
+                    "convertedEnergyCost": 1,
+                    "damage": "",
+                    "text": "During your opponent's next turn, this Pokémon takes 40 less damage from attacks (after applying Weakness and Resistance)."
+                },
+                {
+                    "name": "Ram",
+                    "cost": [
+                        {
+                            "name": "GrassColorless",
+                            "image": "https://www.dropbox.com/s/3lr8ethrcit0cn7/GrassColorless.png?dl=1",
+                            "imageWidth": 51,
+                            "imageHeight": 25
+                        }
+                    ],
+                    "convertedEnergyCost": 2,
+                    "damage": "30",
+                    "text": ""
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Fire",
+                    "image": "https://www.dropbox.com/s/datcoyg7988gaam/Fire.png?dl=1",
+                    "imageWidth": 25,
+                    "imageHeight": 25,
+                    "value": "×2"
+                }
+            ],
+            "retreatCost": [
+                {
+                    "name": "ColorlessColorless",
+                    "image": "https://www.dropbox.com/s/zrqzpiaftjizj85/ColorlessColorless.png?dl=1",
+                    "imageWidth": 51,
+                    "imageHeight": 25
+                }
+            ],
+            "convertedRetreatCost": 2,
+            "setinfo": [
+                {
+                    "id": "swsh1",
+                    "name": "Sword & Shield",
+                    "series": "Sword & Shield Series",
+                    "language": "International",
+                    "completeSet": 202,
+                    "masterSet": 381,
+                    "exclusives": 100,
+                    "ptcgoCode": "SWSH"
+                }
+            ],
+            "number": "018",
+            "artist": "Misa Tsutsui",
+            "rarity": [
+                {
+                    "name": "U",
+                    "fullname": "Uncommon"
+                }
+            ],
+            "nationalPokedexNumbers": [
+                825
+            ],
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "regulationMark": "D",
+            "variants": [
+                {
+                    "name": "Standard",
+                    "image": "https://www.dropbox.com/s/kp16tfk5y77cdda/swsh1-en-18.png?dl=1"
+                },
+                {
+                    "name": "Reverse Holo",
+                    "image": "https://www.dropbox.com/s/t70ecqackeupzi5/swsh1-en-18-P.png?dl=1"
+                }
+            ]
+        },
+        {
+            "id": "swsh1-19",
+            "name": "Orbeetle",
+            "supertype": "Pokémon",
+            "subtypes": "Stage 2",
+            "hp": "130",
+            "types": [
+                {
+                    "name": "Grass",
+                    "image": "https://www.dropbox.com/s/ej42khbib8quzg3/Grass.png?dl=1",
+                    "imageWidth": 25,
+                    "imageHeight": 25
+                }
+            ],
+            "evolvesFrom": "Evolves from Dottler",
+            "abilities": [
+                {
+                    "name": "Bug's Radar",
+                    "image": "https://www.dropbox.com/s/h7ott20a21yg5wq/PokemonPower.png?dl=1",
+                    "imageWidth": 80,
+                    "imageHeight": 25,
+                    "text": "Once during your turn, you may look at the top 3 cards of your opponent's deck and put them back in any order."
+                }
+            ],
+            "attacks": [
+                {
+                    "name": "Brainwave",
+                    "cost": [
+                        {
+                            "name": "GrassColorless",
+                            "image": "https://www.dropbox.com/s/3lr8ethrcit0cn7/GrassColorless.png?dl=1",
+                            "imageWidth": 51,
+                            "imageHeight": 25
+                        }
+                    ],
+                    "convertedEnergyCost": 2,
+                    "damage": "90+",
+                    "text": "This attack does 30 more damage for each Psychic Energy attached to this Pokémon."
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Fire",
+                    "image": "https://www.dropbox.com/s/datcoyg7988gaam/Fire.png?dl=1",
+                    "imageWidth": 25,
+                    "imageHeight": 25,
+                    "value": "×2"
+                }
+            ],
+            "retreatCost": [
+                {
+                    "name": "Colorless",
+                    "image": "https://www.dropbox.com/s/isxpid0osmi1j6x/Colorless.png?dl=1",
+                    "imageWidth": 25,
+                    "imageHeight": 25
+                }
+            ],
+            "convertedRetreatCost": 1,
+            "setinfo": [
+                {
+                    "id": "swsh1",
+                    "name": "Sword & Shield",
+                    "series": "Sword & Shield Series",
+                    "language": "International",
+                    "completeSet": 202,
+                    "masterSet": 381,
+                    "exclusives": 100,
+                    "ptcgoCode": "SWSH"
+                }
+            ],
+            "number": "019",
+            "artist": "Hitoshi Ariga",
+            "rarity": [
+                {
+                    "name": "R",
+                    "fullname": "Rare"
+                }
+            ],
+            "nationalPokedexNumbers": [
+                826
+            ],
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "regulationMark": "D",
+            "variants": [
+                {
+                    "name": "Standard",
+                    "image": "https://www.dropbox.com/s/tw7f5yl9xiq2ae1/swsh1-en-19.png?dl=1"
+                },
+                {
+                    "name": "Reverse Holo",
+                    "image": "https://www.dropbox.com/s/fayyfrfsqklo2zd/swsh1-en-19-P.png?dl=1"
+                }
+            ]
+        },
+        {
+            "id": "swsh1-20",
+            "name": "Gossifleur",
+            "supertype": "Pokémon",
+            "subtypes": "Basic",
+            "hp": "50",
+            "types": [
+                {
+                    "name": "Grass",
+                    "image": "https://www.dropbox.com/s/ej42khbib8quzg3/Grass.png?dl=1",
+                    "imageWidth": 25,
+                    "imageHeight": 25
+                }
+            ],
+            "attacks": [
+                {
+                    "name": "Call for Family",
+                    "cost": [
+                        {
+                            "name": "Colorless",
+                            "image": "https://www.dropbox.com/s/w55xhawximbuk8k/Colorless.png?dl=1",
+                            "imageWidth": 25,
+                            "imageHeight": 25
+                        }
+                    ],
+                    "convertedEnergyCost": 1,
+                    "damage": "",
+                    "text": "Search your deck for up to 3 Basic Pokémon and put them onto your Bench. Then, shuffle your deck."
+                },
+                {
+                    "name": "Razor Leaf",
+                    "cost": [
+                        {
+                            "name": "Grass",
+                            "image": "https://www.dropbox.com/s/vdtb6ultb0wzerl/Grass.png?dl=1",
+                            "imageWidth": 25,
+                            "imageHeight": 25
+                        }
+                    ],
+                    "convertedEnergyCost": 1,
+                    "damage": "10",
+                    "text": ""
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Fire",
+                    "image": "https://www.dropbox.com/s/datcoyg7988gaam/Fire.png?dl=1",
+                    "imageWidth": 25,
+                    "imageHeight": 25,
+                    "value": "×2"
+                }
+            ],
+            "retreatCost": [
+                {
+                    "name": "Colorless",
+                    "image": "https://www.dropbox.com/s/isxpid0osmi1j6x/Colorless.png?dl=1",
+                    "imageWidth": 25,
+                    "imageHeight": 25
+                }
+            ],
+            "convertedRetreatCost": 1,
+            "setinfo": [
+                {
+                    "id": "swsh1",
+                    "name": "Sword & Shield",
+                    "series": "Sword & Shield Series",
+                    "language": "International",
+                    "completeSet": 202,
+                    "masterSet": 381,
+                    "exclusives": 100,
+                    "ptcgoCode": "SWSH"
+                }
+            ],
+            "number": "020",
+            "artist": "Saya Tsuruta",
+            "rarity": [
+                {
+                    "name": "C",
+                    "fullname": "Common"
+                }
+            ],
+            "nationalPokedexNumbers": [
+                829
+            ],
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "regulationMark": "D",
+            "variants": [
+                {
+                    "name": "Standard",
+                    "image": "https://www.dropbox.com/s/eu94obzgykny4li/swsh1-en-20.png?dl=1"
+                },
+                {
+                    "name": "Reverse Holo",
+                    "image": "https://www.dropbox.com/s/3lw6ankxzu0a1n7/swsh1-en-20-P.png?dl=1"
+                }
+            ]
+        },
+        {
+            "id": "swsh1-21",
+            "name": "Eldegoss",
+            "supertype": "Pokémon",
+            "subtypes": "Stage 1",
+            "hp": "80",
+            "types": [
+                {
+                    "name": "Grass",
+                    "image": "https://www.dropbox.com/s/ej42khbib8quzg3/Grass.png?dl=1",
+                    "imageWidth": 25,
+                    "imageHeight": 25
+                }
+            ],
+            "evolvesFrom": "Evolves from Gossifleur",
+            "attacks": [
+                {
+                    "name": "Blessing of Fluff",
+                    "cost": [
+                        {
+                            "name": "Colorless",
+                            "image": "https://www.dropbox.com/s/w55xhawximbuk8k/Colorless.png?dl=1",
+                            "imageWidth": 25,
+                            "imageHeight": 25
+                        }
+                    ],
+                    "convertedEnergyCost": 1,
+                    "damage": "",
+                    "text": "Search your deck for up to 3 Grass Energy cards and attach them to your Benched Pokémon in any way you like. Then, shuffle your deck."
+                },
+                {
+                    "name": "Leafage",
+                    "cost": [
+                        {
+                            "name": "Grass",
+                            "image": "https://www.dropbox.com/s/vdtb6ultb0wzerl/Grass.png?dl=1",
+                            "imageWidth": 25,
+                            "imageHeight": 25
+                        }
+                    ],
+                    "convertedEnergyCost": 1,
+                    "damage": "30",
+                    "text": ""
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Fire",
+                    "image": "https://www.dropbox.com/s/datcoyg7988gaam/Fire.png?dl=1",
+                    "imageWidth": 25,
+                    "imageHeight": 25,
+                    "value": "×2"
+                }
+            ],
+            "retreatCost": [
+                {
+                    "name": "Colorless",
+                    "image": "https://www.dropbox.com/s/isxpid0osmi1j6x/Colorless.png?dl=1",
+                    "imageWidth": 25,
+                    "imageHeight": 25
+                }
+            ],
+            "convertedRetreatCost": 1,
+            "setinfo": [
+                {
+                    "id": "swsh1",
+                    "name": "Sword & Shield",
+                    "series": "Sword & Shield Series",
+                    "language": "International",
+                    "completeSet": 202,
+                    "masterSet": 381,
+                    "exclusives": 100,
+                    "ptcgoCode": "SWSH"
+                }
+            ],
+            "number": "021",
+            "artist": "Kagemaru Himeno",
+            "rarity": [
+                {
+                    "name": "U",
+                    "fullname": "Uncommon"
+                }
+            ],
+            "nationalPokedexNumbers": [
+                830
+            ],
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "regulationMark": "D",
+            "variants": [
+                {
+                    "name": "Standard",
+                    "image": "https://www.dropbox.com/s/laq1mf4v7uqdqxn/swsh1-en-21.png?dl=1"
+                },
+                {
+                    "name": "Reverse Holo",
+                    "image": "https://www.dropbox.com/s/td2snxmm6f09dzd/swsh1-en-21-P.png?dl=1"
+                }
+            ]
         }
     ],
     "page": 1,
