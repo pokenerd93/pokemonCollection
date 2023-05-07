@@ -22,9 +22,7 @@
                     "cost": [
                         {
                             "name": "Grass",
-                            "image": "https://www.dropbox.com/s/vdtb6ultb0wzerl/Grass.png?dl=1",
-                            "imageWidth": 25,
-                            "imageHeight": 25
+                            "image": "https://www.dropbox.com/s/vdtb6ultb0wzerl/Grass.png?dl=1"
                         }
                     ],
                     "convertedEnergyCost": 1,
@@ -36,9 +34,7 @@
                     "cost": [
                         {
                             "name": "GrassColorless",
-                            "image": "https://www.dropbox.com/s/3lr8ethrcit0cn7/GrassColorless.png?dl=1",
-                            "imageWidth": 51,
-                            "imageHeight": 25
+                            "image": "https://www.dropbox.com/s/3lr8ethrcit0cn7/GrassColorless.png?dl=1"
                         }
                     ],
                     "convertedEnergyCost": 2,
@@ -58,12 +54,9 @@
             "retreatCost": [
                 {
                     "name": "Colorless",
-                    "image": "https://www.dropbox.com/s/isxpid0osmi1j6x/Colorless.png?dl=1",
-                    "imageWidth": 25,
-                    "imageHeight": 25
+                    "image": "https://www.dropbox.com/s/isxpid0osmi1j6x/Colorless.png?dl=1"
                 }
             ],
-            "convertedRetreatCost": 1,
             "setinfo": [
                 {
                     "id": "swsh1",
@@ -119,9 +112,7 @@
                     "cost": [
                         {
                             "name": "Grass",
-                            "image": "https://www.dropbox.com/s/vdtb6ultb0wzerl/Grass.png?dl=1",
-                            "imageWidth": 25,
-                            "imageHeight": 25
+                            "image": "https://www.dropbox.com/s/vdtb6ultb0wzerl/Grass.png?dl=1"
                         }
                     ],
                     "convertedEnergyCost": 1,
@@ -141,12 +132,9 @@
             "retreatCost": [
                 {
                     "name": "Colorless",
-                    "image": "https://www.dropbox.com/s/isxpid0osmi1j6x/Colorless.png?dl=1",
-                    "imageWidth": 25,
-                    "imageHeight": 25
+                    "image": "https://www.dropbox.com/s/isxpid0osmi1j6x/Colorless.png?dl=1"
                 }
             ],
-            "convertedRetreatCost": 1,
             "setinfo": [
                 {
                     "id": "swsh1",
@@ -206,9 +194,7 @@
                     "cost": [
                         {
                             "name": "Colorless",
-                            "image": "https://www.dropbox.com/s/w55xhawximbuk8k/Colorless.png?dl=1",
-                            "imageWidth": 25,
-                            "imageHeight": 25
+                            "image": "https://www.dropbox.com/s/w55xhawximbuk8k/Colorless.png?dl=1"
                         }
                     ],
                     "convertedEnergyCost": 1,
@@ -220,9 +206,7 @@
                     "cost": [
                         {
                             "name": "GrassColorless",
-                            "image": "https://www.dropbox.com/s/3lr8ethrcit0cn7/GrassColorless.png?dl=1",
-                            "imageWidth": 51,
-                            "imageHeight": 25
+                            "image": "https://www.dropbox.com/s/3lr8ethrcit0cn7/GrassColorless.png?dl=1"
                         }
                     ],
                     "convertedEnergyCost": 2,
@@ -242,12 +226,9 @@
             "retreatCost": [
                 {
                     "name": "Colorless",
-                    "image": "https://www.dropbox.com/s/isxpid0osmi1j6x/Colorless.png?dl=1",
-                    "imageWidth": 25,
-                    "imageHeight": 25
+                    "image": "https://www.dropbox.com/s/isxpid0osmi1j6x/Colorless.png?dl=1"
                 }
             ],
-            "convertedRetreatCost": 1,
             "setinfo": [
                 {
                     "id": "swsh1",
@@ -308,9 +289,7 @@
                     "cost": [
                         {
                             "name": "Grass",
-                            "image": "https://www.dropbox.com/s/vdtb6ultb0wzerl/Grass.png?dl=1",
-                            "imageWidth": 25,
-                            "imageHeight": 25
+                            "image": "https://www.dropbox.com/s/vdtb6ultb0wzerl/Grass.png?dl=1"
                         }
                     ],
                     "convertedEnergyCost": 1,
@@ -322,9 +301,7 @@
                     "cost": [
                         {
                             "name": "GrassColorlessColorless",
-                            "image": "https://www.dropbox.com/s/39m63tqnhfky586/GrassColorlessColorless.png?dl=1",
-                            "imageWidth": 80,
-                            "imageHeight": 25
+                            "image": "https://www.dropbox.com/s/39m63tqnhfky586/GrassColorlessColorless.png?dl=1"
                         }
                     ],
                     "convertedEnergyCost": 3,
@@ -344,12 +321,9 @@
             "retreatCost": [
                 {
                     "name": "Colorless",
-                    "image": "https://www.dropbox.com/s/isxpid0osmi1j6x/Colorless.png?dl=1",
-                    "imageWidth": 25,
-                    "imageHeight": 25
+                    "image": "https://www.dropbox.com/s/isxpid0osmi1j6x/Colorless.png?dl=1"
                 }
             ],
-            "convertedRetreatCost": 1,
             "setinfo": [
                 {
                     "id": "swsh1",
@@ -409,9 +383,7 @@
                     "cost": [
                         {
                             "name": "Colorless",
-                            "image": "https://www.dropbox.com/s/w55xhawximbuk8k/Colorless.png?dl=1",
-                            "imageWidth": 25,
-                            "imageHeight": 25
+                            "image": "https://www.dropbox.com/s/w55xhawximbuk8k/Colorless.png?dl=1"
                         }
                     ],
                     "convertedEnergyCost": 1,
@@ -431,12 +403,9 @@
             "retreatCost": [
                 {
                     "name": "Colorless",
-                    "image": "https://www.dropbox.com/s/isxpid0osmi1j6x/Colorless.png?dl=1",
-                    "imageWidth": 25,
-                    "imageHeight": 25
+                    "image": "https://www.dropbox.com/s/isxpid0osmi1j6x/Colorless.png?dl=1"
                 }
             ],
-            "convertedRetreatCost": 1,
             "setinfo": [
                 {
                     "id": "swsh1",
@@ -497,9 +466,7 @@
                     "cost": [
                         {
                             "name": "Colorless",
-                            "image": "https://www.dropbox.com/s/w55xhawximbuk8k/Colorless.png?dl=1",
-                            "imageWidth": 25,
-                            "imageHeight": 25
+                            "image": "https://www.dropbox.com/s/w55xhawximbuk8k/Colorless.png?dl=1"
                         }
                     ],
                     "convertedEnergyCost": 1,
@@ -511,9 +478,7 @@
                     "cost": [
                         {
                             "name": "Grass",
-                            "image": "https://www.dropbox.com/s/vdtb6ultb0wzerl/Grass.png?dl=1",
-                            "imageWidth": 25,
-                            "imageHeight": 25
+                            "image": "https://www.dropbox.com/s/vdtb6ultb0wzerl/Grass.png?dl=1"
                         }
                     ],
                     "convertedEnergyCost": 1,
@@ -533,12 +498,9 @@
             "retreatCost": [
                 {
                     "name": "Colorless",
-                    "image": "https://www.dropbox.com/s/isxpid0osmi1j6x/Colorless.png?dl=1",
-                    "imageWidth": 25,
-                    "imageHeight": 25
+                    "image": "https://www.dropbox.com/s/isxpid0osmi1j6x/Colorless.png?dl=1"
                 }
             ],
-            "convertedRetreatCost": 1,
             "setinfo": [
                 {
                     "id": "swsh1",
@@ -598,9 +560,7 @@
                     "cost": [
                         {
                             "name": "Colorless",
-                            "image": "https://www.dropbox.com/s/w55xhawximbuk8k/Colorless.png?dl=1",
-                            "imageWidth": 25,
-                            "imageHeight": 25
+                            "image": "https://www.dropbox.com/s/w55xhawximbuk8k/Colorless.png?dl=1"
                         }
                     ],
                     "convertedEnergyCost": 1,
@@ -612,9 +572,7 @@
                     "cost": [
                         {
                             "name": "GrassColorless",
-                            "image": "https://www.dropbox.com/s/3lr8ethrcit0cn7/GrassColorless.png?dl=1",
-                            "imageWidth": 51,
-                            "imageHeight": 25
+                            "image": "https://www.dropbox.com/s/3lr8ethrcit0cn7/GrassColorless.png?dl=1"
                         }
                     ],
                     "convertedEnergyCost": 1,
@@ -634,12 +592,9 @@
             "retreatCost": [
                 {
                     "name": "ColorlessColorless",
-                    "image": "https://www.dropbox.com/s/zrqzpiaftjizj85/ColorlessColorless.png?dl=1",
-                    "imageWidth": 51,
-                    "imageHeight": 25
+                    "image": "https://www.dropbox.com/s/zrqzpiaftjizj85/ColorlessColorless.png?dl=1"
                 }
             ],
-            "convertedRetreatCost": 1,
             "setinfo": [
                 {
                     "id": "swsh1",
@@ -699,9 +654,7 @@
                     "cost": [
                         {
                             "name": "GrassColorless",
-                            "image": "https://www.dropbox.com/s/3lr8ethrcit0cn7/GrassColorless.png?dl=1",
-                            "imageWidth": 51,
-                            "imageHeight": 25
+                            "image": "https://www.dropbox.com/s/3lr8ethrcit0cn7/GrassColorless.png?dl=1"
                         }
                     ],
                     "convertedEnergyCost": 2,
@@ -721,12 +674,9 @@
             "retreatCost": [
                 {
                     "name": "Colorless",
-                    "image": "https://www.dropbox.com/s/isxpid0osmi1j6x/Colorless.png?dl=1",
-                    "imageWidth": 25,
-                    "imageHeight": 25
+                    "image": "https://www.dropbox.com/s/isxpid0osmi1j6x/Colorless.png?dl=1"
                 }
             ],
-            "convertedRetreatCost": 1,
             "setinfo": [
                 {
                     "id": "swsh1",
@@ -789,9 +739,7 @@
                     "cost": [
                         {
                             "name": "Grass",
-                            "image": "https://www.dropbox.com/s/vdtb6ultb0wzerl/Grass.png?dl=1",
-                            "imageWidth": 25,
-                            "imageHeight": 25
+                            "image": "https://www.dropbox.com/s/vdtb6ultb0wzerl/Grass.png?dl=1"
                         }
                     ],
                     "convertedEnergyCost": 1,
@@ -803,9 +751,7 @@
                     "cost": [
                         {
                             "name": "GrassGrassColorless",
-                            "image": "https://www.dropbox.com/s/v25crdqxz9htp5p/GrassGrassColorless.png?dl=1",
-                            "imageWidth": 80,
-                            "imageHeight": 25
+                            "image": "https://www.dropbox.com/s/v25crdqxz9htp5p/GrassGrassColorless.png?dl=1"
                         }
                     ],
                     "convertedEnergyCost": 3,
@@ -825,12 +771,9 @@
             "retreatCost": [
                 {
                     "name": "ColorlessColorless",
-                    "image": "https://www.dropbox.com/s/zrqzpiaftjizj85/ColorlessColorless.png?dl=1",
-                    "imageWidth": 51,
-                    "imageHeight": 25
+                    "image": "https://www.dropbox.com/s/zrqzpiaftjizj85/ColorlessColorless.png?dl=1"
                 }
             ],
-            "convertedRetreatCost": 2,
             "setinfo": [
                 {
                     "id": "swsh1",
@@ -886,9 +829,7 @@
                     "cost": [
                         {
                             "name": "Colorless",
-                            "image": "https://www.dropbox.com/s/w55xhawximbuk8k/Colorless.png?dl=1",
-                            "imageWidth": 25,
-                            "imageHeight": 25
+                            "image": "https://www.dropbox.com/s/w55xhawximbuk8k/Colorless.png?dl=1"
                         }
                     ],
                     "convertedEnergyCost": 1,
@@ -908,12 +849,9 @@
             "retreatCost": [
                 {
                     "name": "Colorless",
-                    "image": "https://www.dropbox.com/s/isxpid0osmi1j6x/Colorless.png?dl=1",
-                    "imageWidth": 25,
-                    "imageHeight": 25
+                    "image": "https://www.dropbox.com/s/isxpid0osmi1j6x/Colorless.png?dl=1"
                 }
             ],
-            "convertedRetreatCost": 1,
             "setinfo": [
                 {
                     "id": "swsh1",
@@ -977,9 +915,7 @@
                     "cost": [
                         {
                             "name": "Colorless",
-                            "image": "https://www.dropbox.com/s/w55xhawximbuk8k/Colorless.png?dl=1",
-                            "imageWidth": 25,
-                            "imageHeight": 25
+                            "image": "https://www.dropbox.com/s/w55xhawximbuk8k/Colorless.png?dl=1"
                         }
                     ],
                     "convertedEnergyCost": 1,
@@ -991,9 +927,7 @@
                     "cost": [
                         {
                             "name": "GrassColorless",
-                            "image": "https://www.dropbox.com/s/3lr8ethrcit0cn7/GrassColorless.png?dl=1",
-                            "imageWidth": 51,
-                            "imageHeight": 25
+                            "image": "https://www.dropbox.com/s/3lr8ethrcit0cn7/GrassColorless.png?dl=1"
                         }
                     ],
                     "convertedEnergyCost": 2,
@@ -1014,11 +948,8 @@
                 {
                     "name": "Colorless",
                     "image": "https://www.dropbox.com/s/isxpid0osmi1j6x/Colorless.png?dl=1",
-                    "imageWidth": 25,
-                    "imageHeight": 25
                 }
             ],
-            "convertedRetreatCost": 1,
             "setinfo": [
                 {
                     "id": "swsh1",
@@ -1083,9 +1014,7 @@
                     "cost": [
                         {
                             "name": "Colorless",
-                            "image": "https://www.dropbox.com/s/w55xhawximbuk8k/Colorless.png?dl=1",
-                            "imageWidth": 25,
-                            "imageHeight": 25
+                            "image": "https://www.dropbox.com/s/w55xhawximbuk8k/Colorless.png?dl=1"
                         }
                     ],
                     "convertedEnergyCost": 1,
@@ -1097,9 +1026,7 @@
                     "cost": [
                         {
                             "name": "GrassGrassColorless",
-                            "image": "https://www.dropbox.com/s/v25crdqxz9htp5p/GrassGrassColorless.png?dl=1",
-                            "imageWidth": 80,
-                            "imageHeight": 25
+                            "image": "https://www.dropbox.com/s/v25crdqxz9htp5p/GrassGrassColorless.png?dl=1"
                         }
                     ],
                     "convertedEnergyCost": 3,
@@ -1119,12 +1046,9 @@
             "retreatCost": [
                 {
                     "name": "ColorlessColorless",
-                    "image": "https://www.dropbox.com/s/zrqzpiaftjizj85/ColorlessColorless.png?dl=1",
-                    "imageWidth": 51,
-                    "imageHeight": 25
+                    "image": "https://www.dropbox.com/s/zrqzpiaftjizj85/ColorlessColorless.png?dl=1"
                 }
             ],
-            "convertedRetreatCost": 2,
             "setinfo": [
                 {
                     "id": "swsh1",
@@ -1185,9 +1109,7 @@
                     "cost": [
                         {
                             "name": "GrassColorless",
-                            "image": "https://www.dropbox.com/s/3lr8ethrcit0cn7/GrassColorless.png?dl=1",
-                            "imageWidth": 51,
-                            "imageHeight": 25
+                            "image": "https://www.dropbox.com/s/3lr8ethrcit0cn7/GrassColorless.png?dl=1"
                         }
                     ],
                     "convertedEnergyCost": 2,
@@ -1199,9 +1121,7 @@
                     "cost": [
                         {
                             "name": "GrassGrassColorless",
-                            "image": "https://www.dropbox.com/s/v25crdqxz9htp5p/GrassGrassColorless.png?dl=1",
-                            "imageWidth": 80,
-                            "imageHeight": 25
+                            "image": "https://www.dropbox.com/s/v25crdqxz9htp5p/GrassGrassColorless.png?dl=1"
                         }
                     ],
                     "convertedEnergyCost": 3,
@@ -1221,12 +1141,9 @@
             "retreatCost": [
                 {
                     "name": "ColorlessColorless",
-                    "image": "https://www.dropbox.com/s/zrqzpiaftjizj85/ColorlessColorless.png?dl=1",
-                    "imageWidth": 51,
-                    "imageHeight": 25
+                    "image": "https://www.dropbox.com/s/zrqzpiaftjizj85/ColorlessColorless.png?dl=1"
                 }
             ],
-            "convertedRetreatCost": 2,
             "setinfo": [
                 {
                     "id": "swsh1",
@@ -1284,8 +1201,8 @@
             "abilities": [
                 {
                     "name": "Voltage Beat",
-                    "image": "https://www.dropbox.com/s/h7ott20a21yg5wq/PokemonPower.png?dl=1",
-                    "imageWidth": 80,
+                    "image": "https://www.dropbox.com/s/d4usps52lni3lav/Ability.png?dl=1",
+                    "imageWidth": 40,
                     "imageHeight": 25,
                     "text": "Once during your turn, you may search your deck for up to 2 Grass Energy cards and attach them to 1 of your Pokémon. Then, shuffle your deck."
                 }
@@ -1296,9 +1213,7 @@
                     "cost": [
                         {
                             "name": "GrassGrassGrassColorless",
-                            "image": "https://www.dropbox.com/s/xilad54t2hc78e3/GrassGrassGrassColorless.png?dl=1",
-                            "imageWidth": 105,
-                            "imageHeight": 25
+                            "image": "https://www.dropbox.com/s/xilad54t2hc78e3/GrassGrassGrassColorless.png?dl=1"
                         }
                     ],
                     "convertedEnergyCost": 4,
@@ -1318,12 +1233,9 @@
             "retreatCost": [
                 {
                     "name": "ColorlessColorlessColorless",
-                    "image": "https://www.dropbox.com/s/z8os06jnx21r5py/ColorlessColorlessColorless.png?dl=1",
-                    "imageWidth": 80,
-                    "imageHeight": 25
+                    "image": "https://www.dropbox.com/s/z8os06jnx21r5py/ColorlessColorlessColorless.png?dl=1"
                 }
             ],
-            "convertedRetreatCost": 3,
             "setinfo": [
                 {
                     "id": "swsh1",
@@ -1400,9 +1312,7 @@
                     "cost": [
                         {
                             "name": "GrassGrassColorless",
-                            "image": "https://www.dropbox.com/s/v25crdqxz9htp5p/GrassGrassColorless.png?dl=1",
-                            "imageWidth": 80,
-                            "imageHeight": 25
+                            "image": "https://www.dropbox.com/s/v25crdqxz9htp5p/GrassGrassColorless.png?dl=1"
                         }
                     ],
                     "convertedEnergyCost": 3,
@@ -1414,9 +1324,7 @@
                     "cost": [
                         {
                             "name": "GrassGrassGrassColorless",
-                            "image": "https://www.dropbox.com/s/xilad54t2hc78e3/GrassGrassGrassColorless.png?dl=1",
-                            "imageWidth": 105,
-                            "imageHeight": 25
+                            "image": "https://www.dropbox.com/s/xilad54t2hc78e3/GrassGrassGrassColorless.png?dl=1"
                         }
                     ],
                     "convertedEnergyCost": 4,
@@ -1436,12 +1344,9 @@
             "retreatCost": [
                 {
                     "name": "ColorlessColorlessColorlessColorless",
-                    "image": "https://www.dropbox.com/s/31i02nz5e9s9g3f/ColorlessColorlessColorlessColorless.png?dl=1",
-                    "imageWidth": 105,
-                    "imageHeight": 25
+                    "image": "https://www.dropbox.com/s/31i02nz5e9s9g3f/ColorlessColorlessColorlessColorless.png?dl=1"
                 }
             ],
-            "convertedRetreatCost": 4,
             "setinfo": [
                 {
                     "id": "swsh1",
@@ -1505,9 +1410,7 @@
                     "cost": [
                         {
                             "name": "Grass",
-                            "image": "https://www.dropbox.com/s/vdtb6ultb0wzerl/Grass.png?dl=1",
-                            "imageWidth": 25,
-                            "imageHeight": 25
+                            "image": "https://www.dropbox.com/s/vdtb6ultb0wzerl/Grass.png?dl=1"
                         }
                     ],
                     "convertedEnergyCost": 1,
@@ -1527,12 +1430,9 @@
             "retreatCost": [
                 {
                     "name": "Colorless",
-                    "image": "https://www.dropbox.com/s/isxpid0osmi1j6x/Colorless.png?dl=1",
-                    "imageWidth": 25,
-                    "imageHeight": 25
+                    "image": "https://www.dropbox.com/s/isxpid0osmi1j6x/Colorless.png?dl=1"
                 }
             ],
-            "convertedRetreatCost": 1,
             "setinfo": [
                 {
                     "id": "swsh1",
@@ -1592,9 +1492,7 @@
                     "cost": [
                         {
                             "name": "Colorless",
-                            "image": "https://www.dropbox.com/s/w55xhawximbuk8k/Colorless.png?dl=1",
-                            "imageWidth": 25,
-                            "imageHeight": 25
+                            "image": "https://www.dropbox.com/s/w55xhawximbuk8k/Colorless.png?dl=1"
                         }
                     ],
                     "convertedEnergyCost": 1,
@@ -1614,12 +1512,9 @@
             "retreatCost": [
                 {
                     "name": "Colorless",
-                    "image": "https://www.dropbox.com/s/isxpid0osmi1j6x/Colorless.png?dl=1",
-                    "imageWidth": 25,
-                    "imageHeight": 25
+                    "image": "https://www.dropbox.com/s/isxpid0osmi1j6x/Colorless.png?dl=1"
                 }
             ],
-            "convertedRetreatCost": 1,
             "setinfo": [
                 {
                     "id": "swsh1",
@@ -1680,9 +1575,7 @@
                     "cost": [
                         {
                             "name": "Colorless",
-                            "image": "https://www.dropbox.com/s/w55xhawximbuk8k/Colorless.png?dl=1",
-                            "imageWidth": 25,
-                            "imageHeight": 25
+                            "image": "https://www.dropbox.com/s/w55xhawximbuk8k/Colorless.png?dl=1"
                         }
                     ],
                     "convertedEnergyCost": 1,
@@ -1694,9 +1587,7 @@
                     "cost": [
                         {
                             "name": "GrassColorless",
-                            "image": "https://www.dropbox.com/s/3lr8ethrcit0cn7/GrassColorless.png?dl=1",
-                            "imageWidth": 51,
-                            "imageHeight": 25
+                            "image": "https://www.dropbox.com/s/3lr8ethrcit0cn7/GrassColorless.png?dl=1"
                         }
                     ],
                     "convertedEnergyCost": 2,
@@ -1716,12 +1607,9 @@
             "retreatCost": [
                 {
                     "name": "ColorlessColorless",
-                    "image": "https://www.dropbox.com/s/zrqzpiaftjizj85/ColorlessColorless.png?dl=1",
-                    "imageWidth": 51,
-                    "imageHeight": 25
+                    "image": "https://www.dropbox.com/s/zrqzpiaftjizj85/ColorlessColorless.png?dl=1"
                 }
             ],
-            "convertedRetreatCost": 2,
             "setinfo": [
                 {
                     "id": "swsh1",
@@ -1791,9 +1679,7 @@
                     "cost": [
                         {
                             "name": "GrassColorless",
-                            "image": "https://www.dropbox.com/s/3lr8ethrcit0cn7/GrassColorless.png?dl=1",
-                            "imageWidth": 51,
-                            "imageHeight": 25
+                            "image": "https://www.dropbox.com/s/3lr8ethrcit0cn7/GrassColorless.png?dl=1"
                         }
                     ],
                     "convertedEnergyCost": 2,
@@ -1813,12 +1699,9 @@
             "retreatCost": [
                 {
                     "name": "Colorless",
-                    "image": "https://www.dropbox.com/s/isxpid0osmi1j6x/Colorless.png?dl=1",
-                    "imageWidth": 25,
-                    "imageHeight": 25
+                    "image": "https://www.dropbox.com/s/isxpid0osmi1j6x/Colorless.png?dl=1"
                 }
             ],
-            "convertedRetreatCost": 1,
             "setinfo": [
                 {
                     "id": "swsh1",
@@ -1878,9 +1761,7 @@
                     "cost": [
                         {
                             "name": "Colorless",
-                            "image": "https://www.dropbox.com/s/w55xhawximbuk8k/Colorless.png?dl=1",
-                            "imageWidth": 25,
-                            "imageHeight": 25
+                            "image": "https://www.dropbox.com/s/w55xhawximbuk8k/Colorless.png?dl=1"
                         }
                     ],
                     "convertedEnergyCost": 1,
@@ -1892,9 +1773,7 @@
                     "cost": [
                         {
                             "name": "Grass",
-                            "image": "https://www.dropbox.com/s/vdtb6ultb0wzerl/Grass.png?dl=1",
-                            "imageWidth": 25,
-                            "imageHeight": 25
+                            "image": "https://www.dropbox.com/s/vdtb6ultb0wzerl/Grass.png?dl=1"
                         }
                     ],
                     "convertedEnergyCost": 1,
@@ -1914,12 +1793,9 @@
             "retreatCost": [
                 {
                     "name": "Colorless",
-                    "image": "https://www.dropbox.com/s/isxpid0osmi1j6x/Colorless.png?dl=1",
-                    "imageWidth": 25,
-                    "imageHeight": 25
+                    "image": "https://www.dropbox.com/s/isxpid0osmi1j6x/Colorless.png?dl=1"
                 }
             ],
-            "convertedRetreatCost": 1,
             "setinfo": [
                 {
                     "id": "swsh1",
@@ -1980,9 +1856,7 @@
                     "cost": [
                         {
                             "name": "Colorless",
-                            "image": "https://www.dropbox.com/s/w55xhawximbuk8k/Colorless.png?dl=1",
-                            "imageWidth": 25,
-                            "imageHeight": 25
+                            "image": "https://www.dropbox.com/s/w55xhawximbuk8k/Colorless.png?dl=1"
                         }
                     ],
                     "convertedEnergyCost": 1,
@@ -1994,9 +1868,7 @@
                     "cost": [
                         {
                             "name": "Grass",
-                            "image": "https://www.dropbox.com/s/vdtb6ultb0wzerl/Grass.png?dl=1",
-                            "imageWidth": 25,
-                            "imageHeight": 25
+                            "image": "https://www.dropbox.com/s/vdtb6ultb0wzerl/Grass.png?dl=1"
                         }
                     ],
                     "convertedEnergyCost": 1,
@@ -2016,12 +1888,9 @@
             "retreatCost": [
                 {
                     "name": "Colorless",
-                    "image": "https://www.dropbox.com/s/isxpid0osmi1j6x/Colorless.png?dl=1",
-                    "imageWidth": 25,
-                    "imageHeight": 25
+                    "image": "https://www.dropbox.com/s/isxpid0osmi1j6x/Colorless.png?dl=1"
                 }
             ],
-            "convertedRetreatCost": 1,
             "setinfo": [
                 {
                     "id": "swsh1",
@@ -2081,9 +1950,7 @@
                     "cost": [
                         {
                             "name": "Fire",
-                            "image": "https://www.dropbox.com/s/31g5u2cealrrtq9/Fire.png?dl=1",
-                            "imageWidth": 25,
-                            "imageHeight": 25
+                            "image": "https://www.dropbox.com/s/31g5u2cealrrtq9/Fire.png?dl=1"
                         }
                     ],
                     "convertedEnergyCost": 1,
@@ -2103,12 +1970,9 @@
             "retreatCost": [
                 {
                     "name": "Colorless",
-                    "image": "https://www.dropbox.com/s/isxpid0osmi1j6x/Colorless.png?dl=1",
-                    "imageWidth": 25,
-                    "imageHeight": 25
+                    "image": "https://www.dropbox.com/s/isxpid0osmi1j6x/Colorless.png?dl=1"
                 }
             ],
-            "convertedRetreatCost": 1,
             "setinfo": [
                 {
                     "id": "swsh1",
@@ -2169,9 +2033,7 @@
                     "cost": [
                         {
                             "name": "Fire",
-                            "image": "https://www.dropbox.com/s/31g5u2cealrrtq9/Fire.png?dl=1",
-                            "imageWidth": 25,
-                            "imageHeight": 25
+                            "image": "https://www.dropbox.com/s/31g5u2cealrrtq9/Fire.png?dl=1"
                         }
                     ],
                     "convertedEnergyCost": 1,
@@ -2183,9 +2045,7 @@
                     "cost": [
                         {
                             "name": "FireColorless",
-                            "image": "https://www.dropbox.com/s/q2oildzmbh589lq/FireColorless.png?dl=1",
-                            "imageWidth": 51,
-                            "imageHeight": 25
+                            "image": "https://www.dropbox.com/s/q2oildzmbh589lq/FireColorless.png?dl=1"
                         }
                     ],
                     "convertedEnergyCost": 2,
@@ -2205,12 +2065,9 @@
             "retreatCost": [
                 {
                     "name": "Colorless",
-                    "image": "https://www.dropbox.com/s/isxpid0osmi1j6x/Colorless.png?dl=1",
-                    "imageWidth": 25,
-                    "imageHeight": 25
+                    "image": "https://www.dropbox.com/s/isxpid0osmi1j6x/Colorless.png?dl=1"
                 }
             ],
-            "convertedRetreatCost": 1,
             "setinfo": [
                 {
                     "id": "swsh1",
@@ -2273,9 +2130,7 @@
                     "cost": [
                         {
                             "name": "FireFireColorless",
-                            "image": "https://www.dropbox.com/s/loe9dnqkmvqnou8/FireFireColorless.png?dl=1",
-                            "imageWidth": 80,
-                            "imageHeight": 25
+                            "image": "https://www.dropbox.com/s/loe9dnqkmvqnou8/FireFireColorless.png?dl=1"
                         }
                     ],
                     "convertedEnergyCost": 3,
@@ -2287,9 +2142,7 @@
                     "cost": [
                         {
                             "name": "FireFireFireColorless",
-                            "image": "https://www.dropbox.com/s/fmhiid72xwuxpw2/FireFireFireColorless.png?dl=1",
-                            "imageWidth": 105,
-                            "imageHeight": 25
+                            "image": "https://www.dropbox.com/s/fmhiid72xwuxpw2/FireFireFireColorless.png?dl=1"
                         }
                     ],
                     "convertedEnergyCost": 4,
@@ -2309,12 +2162,9 @@
             "retreatCost": [
                 {
                     "name": "ColorlessColorlessColorlessColorless",
-                    "image": "https://www.dropbox.com/s/31i02nz5e9s9g3f/ColorlessColorlessColorlessColorless.png?dl=1",
-                    "imageWidth": 105,
-                    "imageHeight": 25
+                    "image": "https://www.dropbox.com/s/31i02nz5e9s9g3f/ColorlessColorlessColorlessColorless.png?dl=1"
                 }
             ],
-            "convertedRetreatCost": 4,
             "setinfo": [
                 {
                     "id": "swsh1",
@@ -2373,9 +2223,7 @@
                     "cost": [
                         {
                             "name": "Colorless",
-                            "image": "https://www.dropbox.com/s/w55xhawximbuk8k/Colorless.png?dl=1",
-                            "imageWidth": 80,
-                            "imageHeight": 25
+                            "image": "https://www.dropbox.com/s/w55xhawximbuk8k/Colorless.png?dl=1"
                         }
                     ],
                     "convertedEnergyCost": 1,
@@ -2387,9 +2235,7 @@
                     "cost": [
                         {
                             "name": "FireFire",
-                            "image": "https://www.dropbox.com/s/xy6urrkdo2ajpl9/FireFire.png?dl=1",
-                            "imageWidth": 51,
-                            "imageHeight": 25
+                            "image": "https://www.dropbox.com/s/xy6urrkdo2ajpl9/FireFire.png?dl=1"
                         }
                     ],
                     "convertedEnergyCost": 2,
@@ -2409,12 +2255,9 @@
             "retreatCost": [
                 {
                     "name": "ColorlessColorless",
-                    "image": "https://www.dropbox.com/s/zrqzpiaftjizj85/ColorlessColorless.png?dl=1",
-                    "imageWidth": 51,
-                    "imageHeight": 25
+                    "image": "https://www.dropbox.com/s/zrqzpiaftjizj85/ColorlessColorless.png?dl=1"
                 }
             ],
-            "convertedRetreatCost": 2,
             "setinfo": [
                 {
                     "id": "swsh1",
@@ -2474,9 +2317,7 @@
                     "cost": [
                         {
                             "name": "Fire",
-                            "image": "https://www.dropbox.com/s/31g5u2cealrrtq9/Fire.png?dl=1",
-                            "imageWidth": 25,
-                            "imageHeight": 25
+                            "image": "https://www.dropbox.com/s/31g5u2cealrrtq9/Fire.png?dl=1"
                         }
                     ],
                     "convertedEnergyCost": 1,
@@ -2488,9 +2329,7 @@
                     "cost": [
                         {
                             "name": "FireFire",
-                            "image": "https://www.dropbox.com/s/xy6urrkdo2ajpl9/FireFire.png?dl=1",
-                            "imageWidth": 51,
-                            "imageHeight": 25
+                            "image": "https://www.dropbox.com/s/xy6urrkdo2ajpl9/FireFire.png?dl=1"
                         }
                     ],
                     "convertedEnergyCost": 2,
@@ -2510,12 +2349,9 @@
             "retreatCost": [
                 {
                     "name": "Colorless",
-                    "image": "https://www.dropbox.com/s/isxpid0osmi1j6x/Colorless.png?dl=1",
-                    "imageWidth": 51,
-                    "imageHeight": 25
+                    "image": "https://www.dropbox.com/s/isxpid0osmi1j6x/Colorless.png?dl=1"
                 }
             ],
-            "convertedRetreatCost": 1,
             "setinfo": [
                 {
                     "id": "swsh1",
