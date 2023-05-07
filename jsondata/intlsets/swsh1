@@ -2250,6 +2250,311 @@
                     "image": "https://www.dropbox.com/s/bhr7qj5a445df9n/swsh1-en-23-P.png?dl=1"
                 }
             ]
+        },
+        {
+            "id": "swsh1-24",
+            "name": "Torkoal V",
+            "supertype": "Pokémon",
+            "subtypes": "Basic V",
+            "hp": "210",
+            "types": [
+                {
+                    "name": "Fire",
+                    "imageWidth": 25,
+                    "imageHeight": 25
+                }
+            ],
+            "rules": [
+                "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+            ],
+            "attacks": [
+                {
+                    "name": "Combustion Pillar",
+                    "cost": [
+                        {
+                            "name": "FireFireColorless",
+                            "image": "https://www.dropbox.com/s/loe9dnqkmvqnou8/FireFireColorless.png?dl=1",
+                            "imageWidth": 80,
+                            "imageHeight": 25
+                        }
+                    ],
+                    "convertedEnergyCost": 3,
+                    "damage": "90+",
+                    "text": "Discard the top card of your deck. If that card is a Fire Energy card, this attack does 90 more damage."
+                },
+                {
+                    "name": "Steam Crush",
+                    "cost": [
+                        {
+                            "name": "FireFireFireColorless",
+                            "image": "https://www.dropbox.com/s/fmhiid72xwuxpw2/FireFireFireColorless.png?dl=1",
+                            "imageWidth": 105,
+                            "imageHeight": 25
+                        }
+                    ],
+                    "convertedEnergyCost": 4,
+                    "damage": "120",
+                    "text": "Discard 2 Energy from your opponent's Active Pokémon."
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Water",
+                    "image": "https://www.dropbox.com/s/1yfi42g3os1rxno/Water.png?dl=1",
+                    "imageWidth": 25,
+                    "imageHeight": 25,
+                    "value": "×2"
+                }
+            ],
+            "retreatCost": [
+                {
+                    "name": "ColorlessColorlessColorlessColorless",
+                    "image": "https://www.dropbox.com/s/31i02nz5e9s9g3f/ColorlessColorlessColorlessColorless.png?dl=1",
+                    "imageWidth": 105,
+                    "imageHeight": 25
+                }
+            ],
+            "convertedRetreatCost": 4,
+            "setinfo": [
+                {
+                    "id": "swsh1",
+                    "name": "Sword & Shield",
+                    "series": "Sword & Shield Series",
+                    "language": "International",
+                    "completeSet": 202,
+                    "masterSet": 381,
+                    "exclusives": 100,
+                    "ptcgoCode": "SWSH"
+                }
+            ],
+            "number": "024",
+            "artist": "Ayaka Yoshida",
+            "rarity": [
+                {
+                    "name": "UR",
+                    "fullname": "Ultra Rare"
+                }
+            ],
+            "nationalPokedexNumbers": [
+                324
+            ],
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "regulationMark": "D",
+            "variants": [
+                {
+                    "name": "Standard Holo",
+                    "image": "https://www.dropbox.com/s/sw78x6xmauiiyce/swsh1-en-24.png?dl=1"
+                }
+            ]
+        },
+        {
+            "id": "swsh1-25",
+            "name": "Victini V",
+            "supertype": "Pokémon",
+            "subtypes": "Basic V",
+            "hp": "190",
+            "types": [
+                {
+                    "name": "Fire",
+                    "imageWidth": 25,
+                    "imageHeight": 25
+                }
+            ],
+            "rules": [
+                "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards."
+            ],
+            "attacks": [
+                {
+                    "name": "Spreading Flames",
+                    "cost": [
+                        {
+                            "name": "Colorless",
+                            "image": "https://www.dropbox.com/s/w55xhawximbuk8k/Colorless.png?dl=1",
+                            "imageWidth": 80,
+                            "imageHeight": 25
+                        }
+                    ],
+                    "convertedEnergyCost": 1,
+                    "damage": "",
+                    "text": "Attach up to 3 Fire Energy cards from your discard pile to your Pokémon in any way you like."
+                },
+                {
+                    "name": "Energy Burst",
+                    "cost": [
+                        {
+                            "name": "FireFire",
+                            "image": "https://www.dropbox.com/s/xy6urrkdo2ajpl9/FireFire.png?dl=1",
+                            "imageWidth": 51,
+                            "imageHeight": 25
+                        }
+                    ],
+                    "convertedEnergyCost": 2,
+                    "damage": "30x",
+                    "text": "This attack does 30 damage for each Energy attached to both Active Pokémon."
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Water",
+                    "image": "https://www.dropbox.com/s/1yfi42g3os1rxno/Water.png?dl=1",
+                    "imageWidth": 25,
+                    "imageHeight": 25,
+                    "value": "×2"
+                }
+            ],
+            "retreatCost": [
+                {
+                    "name": "ColorlessColorless",
+                    "image": "https://www.dropbox.com/s/zrqzpiaftjizj85/ColorlessColorless.png?dl=1",
+                    "imageWidth": 51,
+                    "imageHeight": 25
+                }
+            ],
+            "convertedRetreatCost": 2,
+            "setinfo": [
+                {
+                    "id": "swsh1",
+                    "name": "Sword & Shield",
+                    "series": "Sword & Shield Series",
+                    "language": "International",
+                    "completeSet": 202,
+                    "masterSet": 381,
+                    "exclusives": 100,
+                    "ptcgoCode": "SWSH"
+                }
+            ],
+            "number": "025",
+            "artist": "PLANETA Tsuji",
+            "rarity": [
+                {
+                    "name": "UR",
+                    "fullname": "Ultra Rare"
+                }
+            ],
+            "nationalPokedexNumbers": [
+                494
+            ],
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "regulationMark": "D",
+            "variants": [
+                {
+                    "name": "Standard Holo",
+                    "image": "https://www.dropbox.com/s/ouq8kkmcmk0e2ci/swsh1-en-25.png?dl=1"
+                },
+                {
+                    "name": "Play! Pokémon Prize Pack",
+                    "image": "https://www.dropbox.com/s/bx1zghhvg0mpyn8/swsh1-en-25-E1.png?dl=1"
+                }
+            ]
+        },
+        {
+            "id": "swsh1-26",
+            "name": "Heatmor",
+            "supertype": "Pokémon",
+            "subtypes": "Basic",
+            "hp": "110",
+            "types": [
+                {
+                    "name": "Fire",
+                    "imageWidth": 25,
+                    "imageHeight": 25
+                }
+            ],
+            "attacks": [
+                {
+                    "name": "Searing Flame",
+                    "cost": [
+                        {
+                            "name": "Fire",
+                            "image": "https://www.dropbox.com/s/31g5u2cealrrtq9/Fire.png?dl=1",
+                            "imageWidth": 25,
+                            "imageHeight": 25
+                        }
+                    ],
+                    "convertedEnergyCost": 1,
+                    "damage": "10",
+                    "text": "Your opponent's Active Pokémon is now Burned."
+                },
+                {
+                    "name": "Fire Claws",
+                    "cost": [
+                        {
+                            "name": "FireFire",
+                            "image": "https://www.dropbox.com/s/xy6urrkdo2ajpl9/FireFire.png?dl=1",
+                            "imageWidth": 51,
+                            "imageHeight": 25
+                        }
+                    ],
+                    "convertedEnergyCost": 2,
+                    "damage": "50",
+                    "text": ""
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Water",
+                    "image": "https://www.dropbox.com/s/1yfi42g3os1rxno/Water.png?dl=1",
+                    "imageWidth": 25,
+                    "imageHeight": 25,
+                    "value": "×2"
+                }
+            ],
+            "retreatCost": [
+                {
+                    "name": "Colorless",
+                    "image": "https://www.dropbox.com/s/isxpid0osmi1j6x/Colorless.png?dl=1",
+                    "imageWidth": 51,
+                    "imageHeight": 25
+                }
+            ],
+            "convertedRetreatCost": 1,
+            "setinfo": [
+                {
+                    "id": "swsh1",
+                    "name": "Sword & Shield",
+                    "series": "Sword & Shield Series",
+                    "language": "International",
+                    "completeSet": 202,
+                    "masterSet": 381,
+                    "exclusives": 100,
+                    "ptcgoCode": "SWSH"
+                }
+            ],
+            "number": "026",
+            "artist": "kawayoo",
+            "rarity": [
+                {
+                    "name": "UC",
+                    "fullname": "Uncommon"
+                }
+            ],
+            "nationalPokedexNumbers": [
+                631
+            ],
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "regulationMark": "D",
+            "variants": [
+                {
+                    "name": "Standard",
+                    "image": "https://www.dropbox.com/s/bkptg64ku9zpimo/swsh1-en-26.png?dl=1"
+                },
+                {
+                    "name": "Reverse Holo",
+                    "image": "https://www.dropbox.com/s/j7vv3s5cvg7hk68/swsh1-en-26-P.png?dl=1"
+                }
+            ]
         }
     ],
     "page": 1,
