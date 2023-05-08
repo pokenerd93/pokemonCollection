@@ -92,8 +92,24 @@
             "regulationMark": "D",
             "variants": [
                 {
-                    "name": "Normal Holo",
+                    "name": "Normal Holo (English)",
                     "image": "https://www.dropbox.com/s/sk9uou64oi9k082/swsh1-1.png?dl=1"
+                },
+                {
+                    "name": "Normal Holo (French)",
+                    "image": "https://www.dropbox.com/s/o1ix34e5pywmud2/swsh1-fr-1.png?dl=1"
+                },
+                {
+                    "name": "Normal Holo (German)",
+                    "image": "https://www.dropbox.com/s/i7lpdj8oxbtlyrk/swsh1-ge-1.png?dl=1"
+                },
+                {
+                    "name": "Normal Holo (Portuguese)",
+                    "image": "https://www.dropbox.com/s/0qc0f8jev5vjd0g/swsh1-po-1.png?dl=1"
+                },
+                {
+                    "name": "Normal Holo (Spanish)",
+                    "image": "https://www.dropbox.com/s/3bfk81rv35hamof/swsh1-sp-1.png?dl=1"
                 }
             ]
         },
