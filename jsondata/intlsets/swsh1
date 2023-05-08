@@ -2387,6 +2387,361 @@
                     "image": "https://www.dropbox.com/s/j7vv3s5cvg7hk68/swsh1-en-26-P.png?dl=1"
                 }
             ]
+        },
+        {
+            "id": "swsh1-27",
+            "name": "Salandit",
+            "supertype": "Pokémon",
+            "subtypes": "Basic",
+            "hp": "70",
+            "types": [
+                {
+                    "name": "Fire",
+                    "imageWidth": 25,
+                    "imageHeight": 25
+                }
+            ],
+            "attacks": [
+                {
+                    "name": "Smog",
+                    "cost": [
+                        {
+                            "name": "Fire",
+                            "image": "https://www.dropbox.com/s/31g5u2cealrrtq9/Fire.png?dl=1"
+                        }
+                    ],
+                    "convertedEnergyCost": 1,
+                    "text": "Your opponent's Active Pokémon is now Poisoned."
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Water",
+                    "image": "https://www.dropbox.com/s/1yfi42g3os1rxno/Water.png?dl=1",
+                    "imageWidth": 25,
+                    "imageHeight": 25,
+                    "value": "×2"
+                }
+            ],
+            "retreatCost": [
+                {
+                    "name": "Colorless",
+                    "image": "https://www.dropbox.com/s/isxpid0osmi1j6x/Colorless.png?dl=1"
+                }
+            ],
+            "setinfo": [
+                {
+                    "id": "swsh1",
+                    "name": "Sword & Shield",
+                    "series": "Sword & Shield Series",
+                    "language": "International",
+                    "completeSet": 202,
+                    "masterSet": 381,
+                    "exclusives": 100,
+                    "ptcgoCode": "SWSH"
+                }
+            ],
+            "number": "027",
+            "artist": "SATOSHI NAKAI",
+            "rarity": [
+                {
+                    "name": "C",
+                    "fullname": "Common"
+                }
+            ],
+            "nationalPokedexNumbers": [
+                757
+            ],
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "regulationMark": "D",
+            "variants": [
+                {
+                    "name": "Standard",
+                    "image": "https://www.dropbox.com/s/0nvmwqy90dm3fqi/swsh1-en-27.png?dl=1"
+                },
+                {
+                    "name": "Reverse Holo",
+                    "image": "https://www.dropbox.com/s/d8v93x7kh1o5rmt/swsh1-en-27-P.png?dl=1"
+                }
+            ]
+        },
+        {
+            "id": "swsh1-28",
+            "name": "Salazzle",
+            "supertype": "Pokémon",
+            "subtypes": "Stage 1",
+            "hp": "120",
+            "types": [
+                {
+                    "name": "Fire",
+                    "imageWidth": 25,
+                    "imageHeight": 25
+                }
+            ],
+            "evolvesFrom": "Evolves from Salandit",
+            "attacks": [
+                {
+                    "name": "Searing Flame",
+                    "cost": [
+                        {
+                            "name": "Fire",
+                            "image": "https://www.dropbox.com/s/31g5u2cealrrtq9/Fire.png?dl=1"
+                        }
+                    ],
+                    "convertedEnergyCost": 1,
+                    "damage": "20",
+                    "text": "Your opponent's Active Pokémon is now Burned."
+                },
+                {
+                    "name": "Bright Flame",
+                    "cost": [
+                        {
+                            "name": "FireColorless",
+                            "image": "https://www.dropbox.com/s/q2oildzmbh589lq/FireColorless.png?dl=1"
+                        }
+                    ],
+                    "convertedEnergyCost": 2,
+                    "damage": "120",
+                    "text": "Discard 2 Energy from this Pokémon."
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Water",
+                    "image": "https://www.dropbox.com/s/1yfi42g3os1rxno/Water.png?dl=1",
+                    "imageWidth": 25,
+                    "imageHeight": 25,
+                    "value": "×2"
+                }
+            ],
+            "retreatCost": [
+                {
+                    "name": "Colorless",
+                    "image": "https://www.dropbox.com/s/isxpid0osmi1j6x/Colorless.png?dl=1"
+                }
+            ],
+            "setinfo": [
+                {
+                    "id": "swsh1",
+                    "name": "Sword & Shield",
+                    "series": "Sword & Shield Series",
+                    "language": "International",
+                    "completeSet": 202,
+                    "masterSet": 381,
+                    "exclusives": 100,
+                    "ptcgoCode": "SWSH"
+                }
+            ],
+            "number": "028",
+            "artist": "Tomokazu Komiya",
+            "rarity": [
+                {
+                    "name": "U",
+                    "fullname": "Uncommon"
+                }
+            ],
+            "nationalPokedexNumbers": [
+                758
+            ],
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "regulationMark": "D",
+            "variants": [
+                {
+                    "name": "Standard",
+                    "image": "https://www.dropbox.com/s/d6h8u964dpui132/swsh1-en-28.png?dl=1"
+                },
+                {
+                    "name": "Reverse Holo",
+                    "image": "https://www.dropbox.com/s/xaix3kzftssdcf8/swsh1-en-28-P.png?dl=1"
+                }
+            ]
+        },
+        {
+            "id": "swsh1-29",
+            "name": "Turtonator",
+            "supertype": "Pokémon",
+            "subtypes": "Basic",
+            "hp": "130",
+            "types": [
+                {
+                    "name": "Fire",
+                    "imageWidth": 25,
+                    "imageHeight": 25
+                }
+            ],
+            "attacks": [
+                {
+                    "name": "Tackle",
+                    "cost": [
+                        {
+                            "name": "ColorlessColorless",
+                            "image": "https://www.dropbox.com/s/6n4xop9jnfkgn85/ColorlessColorless.png?dl=1"
+                        }
+                    ],
+                    "convertedEnergyCost": 2,
+                    "damage": "30"
+                },
+                {
+                    "name": "Fire Spin",
+                    "cost": [
+                        {
+                            "name": "FireFireFireColorless",
+                            "image": "https://www.dropbox.com/s/fmhiid72xwuxpw2/FireFireFireColorless.png?dl=1"
+                        }
+                    ],
+                    "convertedEnergyCost": 4,
+                    "damage": "150",
+                    "text": "Discard 2 Energy from this Pokémon."
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Water",
+                    "image": "https://www.dropbox.com/s/1yfi42g3os1rxno/Water.png?dl=1",
+                    "imageWidth": 25,
+                    "imageHeight": 25,
+                    "value": "×2"
+                }
+            ],
+            "retreatCost": [
+                {
+                    "name": "ColorlessColorlessColorless",
+                    "image": "https://www.dropbox.com/s/z8os06jnx21r5py/ColorlessColorlessColorless.png?dl=1"
+                }
+            ],
+            "setinfo": [
+                {
+                    "id": "swsh1",
+                    "name": "Sword & Shield",
+                    "series": "Sword & Shield Series",
+                    "language": "International",
+                    "completeSet": 202,
+                    "masterSet": 381,
+                    "exclusives": 100,
+                    "ptcgoCode": "SWSH"
+                }
+            ],
+            "number": "029",
+            "artist": "KEIICHIRO ITO",
+            "rarity": [
+                {
+                    "name": "R",
+                    "fullname": "Rare"
+                }
+            ],
+            "nationalPokedexNumbers": [
+                776
+            ],
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "regulationMark": "D",
+            "variants": [
+                {
+                    "name": "Standard",
+                    "image": "https://www.dropbox.com/s/ymuc8vkdbh2d1c4/swsh1-en-29.png?dl=1"
+                },
+                {
+                    "name": "Reverse Holo",
+                    "image": "https://www.dropbox.com/s/2hzlr3ecd1stgxb/swsh1-en-29-P.png?dl=1"
+                }
+            ]
+        },
+        {
+            "id": "swsh1-30",
+            "name": "Scorbunny",
+            "supertype": "Pokémon",
+            "subtypes": "Basic",
+            "hp": "60",
+            "types": [
+                {
+                    "name": "Fire",
+                    "imageWidth": 25,
+                    "imageHeight": 25
+                }
+            ],
+            "attacks": [
+                {
+                    "name": "Ember",
+                    "cost": [
+                        {
+                            "name": "Fire",
+                            "image": "https://www.dropbox.com/s/31g5u2cealrrtq9/Fire.png?dl=1"
+                        }
+                    ],
+                    "convertedEnergyCost": 2,
+                    "damage": "30",
+                    "text": "Discard an Energy from this Pokémon."
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Water",
+                    "image": "https://www.dropbox.com/s/1yfi42g3os1rxno/Water.png?dl=1",
+                    "imageWidth": 25,
+                    "imageHeight": 25,
+                    "value": "×2"
+                }
+            ],
+            "retreatCost": [
+                {
+                    "name": "ColorlessColorlessColorless",
+                    "image": "https://www.dropbox.com/s/isxpid0osmi1j6x/Colorless.png?dl=1"
+                }
+            ],
+            "setinfo": [
+                {
+                    "id": "swsh1",
+                    "name": "Sword & Shield",
+                    "series": "Sword & Shield Series",
+                    "language": "International",
+                    "completeSet": 202,
+                    "masterSet": 381,
+                    "exclusives": 100,
+                    "ptcgoCode": "SWSH"
+                }
+            ],
+            "number": "030",
+            "artist": "kirisAki",
+            "rarity": [
+                {
+                    "name": "C",
+                    "fullname": "Common"
+                }
+            ],
+            "nationalPokedexNumbers": [
+                813
+            ],
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "regulationMark": "D",
+            "variants": [
+                {
+                    "name": "Standard",
+                    "image": "https://www.dropbox.com/s/w2mpjgf48eako4k/swsh1-en-30.png?dl=1"
+                },
+                {
+                    "name": "Reverse Holo",
+                    "image": "https://www.dropbox.com/s/c5nyr11jno6jw4z/swsh1-en-30-P.png?dl=1"
+                },
+                {
+                    "name": "Cosmos Holo",
+                    "image": "https://www.dropbox.com/s/nxk4yaleklt0801/swsh1-en-30-E1.png?dl=1"
+                }
+            ]
         }
     ],
     "page": 1,
