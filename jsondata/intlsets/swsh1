@@ -2742,6 +2742,397 @@
                     "image": "https://www.dropbox.com/s/nxk4yaleklt0801/swsh1-en-30-E1.png?dl=1"
                 }
             ]
+        },
+        {
+            "id": "swsh1-31",
+            "name": "Scorbunny",
+            "supertype": "Pokémon",
+            "subtypes": "Basic",
+            "hp": "70",
+            "types": [
+                {
+                    "name": "Fire",
+                    "imageWidth": 25,
+                    "imageHeight": 25
+                }
+            ],
+            "attacks": [
+                {
+                    "name": "Tackle",
+                    "cost": [
+                        {
+                            "name": "Colorless",
+                            "image": "https://www.dropbox.com/s/w55xhawximbuk8k/Colorless.png?dl=1"
+                        }
+                    ],
+                    "convertedEnergyCost": 1,
+                    "damage": "10"
+                },
+                {
+                    "name": "Flare",
+                    "cost": [
+                        {
+                            "name": "FireColorless",
+                            "image": "https://www.dropbox.com/s/q2oildzmbh589lq/FireColorless.png?dl=1"
+                        }
+                    ],
+                    "convertedEnergyCost": 2,
+                    "damage": "20"
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Water",
+                    "image": "https://www.dropbox.com/s/1yfi42g3os1rxno/Water.png?dl=1",
+                    "imageWidth": 25,
+                    "imageHeight": 25,
+                    "value": "×2"
+                }
+            ],
+            "retreatCost": [
+                {
+                    "name": "Colorless",
+                    "image": "https://www.dropbox.com/s/isxpid0osmi1j6x/Colorless.png?dl=1"
+                }
+            ],
+            "setinfo": [
+                {
+                    "id": "swsh1",
+                    "name": "Sword & Shield",
+                    "series": "Sword & Shield Series",
+                    "language": "International",
+                    "completeSet": 202,
+                    "masterSet": 381,
+                    "exclusives": 100,
+                    "ptcgoCode": "SWSH"
+                }
+            ],
+            "number": "031",
+            "artist": "Kagemaru Himeno",
+            "rarity": [
+                {
+                    "name": "C",
+                    "fullname": "Common"
+                }
+            ],
+            "nationalPokedexNumbers": [
+                813
+            ],
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "regulationMark": "D",
+            "variants": [
+                {
+                    "name": "Standard",
+                    "image": "https://www.dropbox.com/s/yn2610ffq6zb04a/swsh1-en-31.png?dl=1"
+                },
+                {
+                    "name": "Reverse Holo",
+                    "image": "https://www.dropbox.com/s/f3ma3b1svuwkun7/swsh1-en-31-P.png?dl=1"
+                },
+                {
+                    "name": "Holo",
+                    "image": "https://www.dropbox.com/s/i75bmd0s0mlkfry/swsh1-en-31-E1.png?dl=1"
+                }
+            ]
+        },
+        {
+            "id": "swsh1-32",
+            "name": "Raboot",
+            "supertype": "Pokémon",
+            "subtypes": "Stage 1",
+            "hp": "90",
+            "types": [
+                {
+                    "name": "Fire",
+                    "imageWidth": 25,
+                    "imageHeight": 25
+                }
+            ],
+            "evolvesFrom": "Evolves from Scorbunny",
+            "attacks": [
+                {
+                    "name": "Flame Charge",
+                    "cost": [
+                        {
+                            "name": "Fire",
+                            "image": "https://www.dropbox.com/s/31g5u2cealrrtq9/Fire.png?dl=1"
+                        }
+                    ],
+                    "convertedEnergyCost": 1,
+                    "damage": "20",
+                    "text": "Search your deck for a Fire Energy card and attach it to this Pokémon. Then, shuffle your deck."
+                },
+                {
+                    "name": "Magnum Kick",
+                    "cost": [
+                        {
+                            "name": "FireFireColorless",
+                            "image": "https://www.dropbox.com/s/loe9dnqkmvqnou8/FireFireColorless.png?dl=1"
+                        }
+                    ],
+                    "convertedEnergyCost": 3,
+                    "damage": "70"
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Water",
+                    "image": "https://www.dropbox.com/s/1yfi42g3os1rxno/Water.png?dl=1",
+                    "imageWidth": 25,
+                    "imageHeight": 25,
+                    "value": "×2"
+                }
+            ],
+            "retreatCost": [
+                {
+                    "name": "Colorless",
+                    "image": "https://www.dropbox.com/s/isxpid0osmi1j6x/Colorless.png?dl=1"
+                }
+            ],
+            "setinfo": [
+                {
+                    "id": "swsh1",
+                    "name": "Sword & Shield",
+                    "series": "Sword & Shield Series",
+                    "language": "International",
+                    "completeSet": 202,
+                    "masterSet": 381,
+                    "exclusives": 100,
+                    "ptcgoCode": "SWSH"
+                }
+            ],
+            "number": "032",
+            "artist": "Mizue",
+            "rarity": [
+                {
+                    "name": "U",
+                    "fullname": "Uncommon"
+                }
+            ],
+            "nationalPokedexNumbers": [
+                814
+            ],
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "regulationMark": "D",
+            "variants": [
+                {
+                    "name": "Standard",
+                    "image": "https://www.dropbox.com/s/uh3u9fhk7w8h18q/swsh1-en-32.png?dl=1"
+                },
+                {
+                    "name": "Reverse Holo",
+                    "image": "https://www.dropbox.com/s/7p97twql2ro1k2z/swsh1-en-32-P.png?dl=1"
+                }
+            ]
+        },
+        {
+            "id": "swsh1-33",
+            "name": "Raboot",
+            "supertype": "Pokémon",
+            "subtypes": "Stage 1",
+            "hp": "90",
+            "types": [
+                {
+                    "name": "Fire",
+                    "imageWidth": 25,
+                    "imageHeight": 25
+                }
+            ],
+            "evolvesFrom": "Evolves from Scorbunny",
+            "attacks": [
+                {
+                    "name": "Kick",
+                    "cost": [
+                        {
+                            "name": "Colorless",
+                            "image": "https://www.dropbox.com/s/w55xhawximbuk8k/Colorless.png?dl=1"
+                        }
+                    ],
+                    "convertedEnergyCost": 1,
+                    "damage": "20"
+                },
+                {
+                    "name": "Heat Blast",
+                    "cost": [
+                        {
+                            "name": "FireFire",
+                            "image": "https://www.dropbox.com/s/xy6urrkdo2ajpl9/FireFire.png?dl=1"
+                        }
+                    ],
+                    "convertedEnergyCost": 2,
+                    "damage": "50"
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Water",
+                    "image": "https://www.dropbox.com/s/1yfi42g3os1rxno/Water.png?dl=1",
+                    "imageWidth": 25,
+                    "imageHeight": 25,
+                    "value": "×2"
+                }
+            ],
+            "retreatCost": [
+                {
+                    "name": "Colorless",
+                    "image": "https://www.dropbox.com/s/isxpid0osmi1j6x/Colorless.png?dl=1"
+                }
+            ],
+            "setinfo": [
+                {
+                    "id": "swsh1",
+                    "name": "Sword & Shield",
+                    "series": "Sword & Shield Series",
+                    "language": "International",
+                    "completeSet": 202,
+                    "masterSet": 381,
+                    "exclusives": 100,
+                    "ptcgoCode": "SWSH"
+                }
+            ],
+            "number": "033",
+            "artist": "Akira Komayama",
+            "rarity": [
+                {
+                    "name": "U",
+                    "fullname": "Uncommon"
+                }
+            ],
+            "nationalPokedexNumbers": [
+                814
+            ],
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "regulationMark": "D",
+            "variants": [
+                {
+                    "name": "Standard",
+                    "image": "https://www.dropbox.com/s/nzeyuooc92mk1a7/swsh1-en-33.png?dl=1"
+                },
+                {
+                    "name": "Reverse Holo",
+                    "image": "https://www.dropbox.com/s/4vpxnn3apgbsdsv/swsh1-en-33-P.png?dl=1"
+                }
+            ]
+        },
+        {
+            "id": "swsh1-34",
+            "name": "Cinderace",
+            "supertype": "Pokémon",
+            "subtypes": "Stage 2",
+            "hp": "170",
+            "types": [
+                {
+                    "name": "Fire",
+                    "imageWidth": 25,
+                    "imageHeight": 25
+                }
+            ],
+            "evolvesFrom": "Evolves from Raboot",
+            "abilities": [
+                {
+                    "name": "Libero",
+                    "image": "https://www.dropbox.com/s/d4usps52lni3lav/Ability.png?dl=1",
+                    "imageWidth": 40,
+                    "imageHeight": 25,
+                    "text": "Once during your turn, when this Pokémon moves from your Bench to the Active Spot, you may attach up to 2 Fire Energy cards from your discard pile to it."
+                }
+            ],
+            "attacks": [
+                {
+                    "name": "Flare Striker",
+                    "cost": [
+                        {
+                            "name": "FireFireColorless",
+                            "image": "https://www.dropbox.com/s/loe9dnqkmvqnou8/FireFireColorless.png?dl=1"
+                        }
+                    ],
+                    "convertedEnergyCost": 3,
+                    "damage": "190",
+                    "text": "Discard 2 Energy from this Pokémon."
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Water",
+                    "image": "https://www.dropbox.com/s/1yfi42g3os1rxno/Water.png?dl=1",
+                    "imageWidth": 25,
+                    "imageHeight": 25,
+                    "value": "×2"
+                }
+            ],
+            "retreatCost": [
+                {
+                    "name": "Colorless",
+                    "image": "https://www.dropbox.com/s/isxpid0osmi1j6x/Colorless.png?dl=1"
+                }
+            ],
+            "setinfo": [
+                {
+                    "id": "swsh1",
+                    "name": "Sword & Shield",
+                    "series": "Sword & Shield Series",
+                    "language": "International",
+                    "completeSet": 202,
+                    "masterSet": 381,
+                    "exclusives": 100,
+                    "ptcgoCode": "SWSH"
+                }
+            ],
+            "number": "034",
+            "artist": "Kouki Saitou",
+            "rarity": [
+                {
+                    "name": "RH",
+                    "fullname": "Rare Holo"
+                }
+            ],
+            "nationalPokedexNumbers": [
+                815
+            ],
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "regulationMark": "D",
+            "variants": [
+                {
+                    "name": "Standard Holo",
+                    "image": "https://www.dropbox.com/s/xdbhind3dup3npd/swsh1-en-34.png?dl=1"
+                },
+                {
+                    "name": "Reverse Holo",
+                    "image": "https://www.dropbox.com/s/qw6bpapqg0yygyk/swsh1-en-34-P.png?dl=1"
+                },
+                {
+                    "name": "Cosmos Holo",
+                    "image": "https://www.dropbox.com/s/fsxb2c0rd3opz6b/swsh1-en-34-E1.png?dl=1"
+                },
+                {
+                    "name": "Non-Holo",
+                    "image": "https://www.dropbox.com/s/w9oaq4giian8pmu/swsh1-en-34-E2.png?dl=1"
+                },
+                {
+                    "name": "Play! Pokémon Prize Pack, Non-Holo",
+                    "image": "https://www.dropbox.com/s/nguy9wtgdu944o9/swsh1-en-34-E3.png?dl=1"
+                },
+                {
+                    "name": "Pokémon League",
+                    "image": "https://www.dropbox.com/s/6sgcmh8g3rnm358/swsh1-en-34-E4.png?dl=1"
+                },
+            ]
         }
     ],
     "page": 1,
