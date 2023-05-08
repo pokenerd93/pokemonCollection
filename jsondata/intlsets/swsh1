@@ -2679,7 +2679,7 @@
                             "image": "https://www.dropbox.com/s/31g5u2cealrrtq9/Fire.png?dl=1"
                         }
                     ],
-                    "convertedEnergyCost": 2,
+                    "convertedEnergyCost": 1,
                     "damage": "30",
                     "text": "Discard an Energy from this Pokémon."
                 }
