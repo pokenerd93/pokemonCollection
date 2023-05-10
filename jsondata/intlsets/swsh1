@@ -1,5 +1,5 @@
 {
-    "data": [
+    "cards": [
         {
             "id": "swsh1-1",
             "name": "Celebi V",
@@ -63,13 +63,12 @@
             ],
             "setinfo": [
                 {
-                    "id": "swsh1",
+                    "id": "swsh1-en",
                     "name": "Sword & Shield",
                     "series": "Sword & Shield Series",
                     "language": "English",
                     "completeSet": 202,
                     "masterSet": 381,
-                    "exclusives": 100,
                     "ptcgoCode": "SWSH"
                 }
             ],
@@ -92,24 +91,8 @@
             "regulationMark": "D",
             "variants": [
                 {
-                    "name": "Normal Holo (English)",
+                    "name": "Normal Holo",
                     "image": "https://www.dropbox.com/s/sk9uou64oi9k082/swsh1-1.png?dl=1"
-                },
-                {
-                    "name": "Normal Holo (French)",
-                    "image": "https://www.dropbox.com/s/o1ix34e5pywmud2/swsh1-fr-1.png?dl=1"
-                },
-                {
-                    "name": "Normal Holo (German)",
-                    "image": "https://www.dropbox.com/s/i7lpdj8oxbtlyrk/swsh1-ge-1.png?dl=1"
-                },
-                {
-                    "name": "Normal Holo (Portuguese)",
-                    "image": "https://www.dropbox.com/s/0qc0f8jev5vjd0g/swsh1-po-1.png?dl=1"
-                },
-                {
-                    "name": "Normal Holo (Spanish)",
-                    "image": "https://www.dropbox.com/s/3bfk81rv35hamof/swsh1-sp-1.png?dl=1"
                 }
             ]
         },
@@ -157,13 +140,12 @@
             ],
             "setinfo": [
                 {
-                    "id": "swsh1",
+                    "id": "swsh1-en",
                     "name": "Sword & Shield",
                     "series": "Sword & Shield Series",
                     "language": "English",
                     "completeSet": 202,
                     "masterSet": 381,
-                    "exclusives": 100,
                     "ptcgoCode": "SWSH"
                 }
             ],
@@ -249,13 +231,12 @@
             ],
             "setinfo": [
                 {
-                    "id": "swsh1",
+                    "id": "swsh1-en",
                     "name": "Sword & Shield",
                     "series": "Sword & Shield Series",
                     "language": "English",
                     "completeSet": 202,
                     "masterSet": 381,
-                    "exclusives": 100,
                     "ptcgoCode": "SWSH"
                 }
             ],
@@ -344,13 +325,12 @@
             ],
             "setinfo": [
                 {
-                    "id": "swsh1",
+                    "id": "swsh1-en",
                     "name": "Sword & Shield",
                     "series": "Sword & Shield Series",
                     "language": "English",
                     "completeSet": 202,
                     "masterSet": 381,
-                    "exclusives": 100,
                     "ptcgoCode": "SWSH"
                 }
             ],
@@ -425,13 +405,12 @@
             ],
             "setinfo": [
                 {
-                    "id": "swsh1",
+                    "id": "swsh1-en",
                     "name": "Sword & Shield",
                     "series": "Sword & Shield Series",
                     "language": "English",
                     "completeSet": 202,
                     "masterSet": 381,
-                    "exclusives": 100,
                     "ptcgoCode": "SWSH"
                 }
             ],
@@ -518,13 +497,12 @@
             ],
             "setinfo": [
                 {
-                    "id": "swsh1",
+                    "id": "swsh1-en",
                     "name": "Sword & Shield",
                     "series": "Sword & Shield Series",
                     "language": "English",
                     "completeSet": 202,
                     "masterSet": 381,
-                    "exclusives": 100,
                     "ptcgoCode": "SWSH"
                 }
             ],
@@ -611,13 +589,12 @@
             ],
             "setinfo": [
                 {
-                    "id": "swsh1",
+                    "id": "swsh1-en",
                     "name": "Sword & Shield",
                     "series": "Sword & Shield Series",
                     "language": "English",
                     "completeSet": 202,
                     "masterSet": 381,
-                    "exclusives": 100,
                     "ptcgoCode": "SWSH"
                 }
             ],
@@ -693,13 +670,12 @@
             ],
             "setinfo": [
                 {
-                    "id": "swsh1",
+                    "id": "swsh1-en",
                     "name": "Sword & Shield",
                     "series": "Sword & Shield Series",
                     "language": "English",
                     "completeSet": 202,
                     "masterSet": 381,
-                    "exclusives": 100,
                     "ptcgoCode": "SWSH"
                 }
             ],
@@ -793,15 +769,14 @@
                     "image": "https://www.dropbox.com/s/zrqzpiaftjizj85/ColorlessColorless.png?dl=1"
                 }
             ],
-           "setinfo": [
+            "setinfo": [
                 {
-                    "id": "swsh1",
+                    "id": "swsh1-en",
                     "name": "Sword & Shield",
                     "series": "Sword & Shield Series",
                     "language": "English",
                     "completeSet": 202,
                     "masterSet": 381,
-                    "exclusives": 100,
                     "ptcgoCode": "SWSH"
                 }
             ],
@@ -873,13 +848,12 @@
             ],
             "setinfo": [
                 {
-                    "id": "swsh1",
+                    "id": "swsh1-en",
                     "name": "Sword & Shield",
                     "series": "Sword & Shield Series",
                     "language": "English",
                     "completeSet": 202,
                     "masterSet": 381,
-                    "exclusives": 100,
                     "ptcgoCode": "SWSH"
                 }
             ],
@@ -908,10 +882,6 @@
                 {
                     "name": "Reverse Holo",
                     "image": "https://www.dropbox.com/s/l6v2lkrsoetfadi/swsh1-en-10-P.png?dl=1"
-                },
-                {
-                    "name": "Cosmos Holo",
-                    "image": "https://www.dropbox.com/s/wojrlyuf1jdixhe/swsh1-en-10-E1.png?dl=1"
                 }
             ]
         },
@@ -969,13 +939,12 @@
             ],
             "setinfo": [
                 {
-                    "id": "swsh1",
+                    "id": "swsh1-en",
                     "name": "Sword & Shield",
                     "series": "Sword & Shield Series",
                     "language": "English",
                     "completeSet": 202,
                     "masterSet": 381,
-                    "exclusives": 100,
                     "ptcgoCode": "SWSH"
                 }
             ],
@@ -1004,10 +973,6 @@
                 {
                     "name": "Reverse Holo",
                     "image": "https://www.dropbox.com/s/hfgwqjb17eh3lbj/swsh1-en-11-P.png?dl=1"
-                },
-                {
-                    "name": "Holo",
-                    "image": "https://www.dropbox.com/s/f2r1dedhjszuy5p/swsh1-en-11-E1.png?dl=1"
                 }
             ]
         },
@@ -1065,15 +1030,14 @@
                     "image": "https://www.dropbox.com/s/zrqzpiaftjizj85/ColorlessColorless.png?dl=1"
                 }
             ],
-           "setinfo": [
+            "setinfo": [
                 {
-                    "id": "swsh1",
+                    "id": "swsh1-en",
                     "name": "Sword & Shield",
                     "series": "Sword & Shield Series",
                     "language": "English",
                     "completeSet": 202,
                     "masterSet": 381,
-                    "exclusives": 100,
                     "ptcgoCode": "SWSH"
                 }
             ],
@@ -1161,13 +1125,12 @@
             ],
             "setinfo": [
                 {
-                    "id": "swsh1",
+                    "id": "swsh1-en",
                     "name": "Sword & Shield",
                     "series": "Sword & Shield Series",
                     "language": "English",
                     "completeSet": 202,
                     "masterSet": 381,
-                    "exclusives": 100,
                     "ptcgoCode": "SWSH"
                 }
             ],
@@ -1216,8 +1179,8 @@
             "abilities": [
                 {
                     "name": "Voltage Beat",
-                    "image": "https://www.dropbox.com/s/d4usps52lni3lav/Ability.png?dl=1",
-                    "imageWidth": 40,
+                    "image": "https://www.dropbox.com/s/9tmqfudg1dqteml/Ability.png?dl=1",
+                    "imageWidth": 80,
                     "imageHeight": 25,
                     "text": "Once during your turn, you may search your deck for up to 2 Grass Energy cards and attach them to 1 of your Pokémon. Then, shuffle your deck."
                 }
@@ -1252,13 +1215,12 @@
             ],
             "setinfo": [
                 {
-                    "id": "swsh1",
+                    "id": "swsh1-en",
                     "name": "Sword & Shield",
                     "series": "Sword & Shield Series",
                     "language": "English",
                     "completeSet": 202,
                     "masterSet": 381,
-                    "exclusives": 100,
                     "ptcgoCode": "SWSH"
                 }
             ],
@@ -1287,22 +1249,6 @@
                 {
                     "name": "Reverse Holo",
                     "image": "https://www.dropbox.com/s/m1xa888hoaxpkum/swsh1-en-14-P.png?dl=1"
-                },
-                {
-                    "name": "Non-Holo",
-                    "image": "https://www.dropbox.com/s/du8fyeqo4y48e5k/swsh1-en-14-E1.png?dl=1"
-                },
-                {
-                    "name": "Pokémon League",
-                    "image": "https://www.dropbox.com/s/5o9ykxsrk4zzhge/swsh1-en-14-E2.png?dl=1"
-                },
-                {
-                    "name": "Play! Pokémon Prize Pack, Non-Holo",
-                    "image": "https://www.dropbox.com/s/jhnobd64q527uky/swsh1-en-14-E3.png?dl=1"
-                },
-                {
-                    "name": "Cosmos Holo",
-                    "image": "https://www.dropbox.com/s/zji0sdsrv7bibtp/swsh1-en-14-E4.png?dl=1"
                 }
             ]
         },
@@ -1363,13 +1309,12 @@
             ],
             "setinfo": [
                 {
-                    "id": "swsh1",
+                    "id": "swsh1-en",
                     "name": "Sword & Shield",
                     "series": "Sword & Shield Series",
                     "language": "English",
                     "completeSet": 202,
                     "masterSet": 381,
-                    "exclusives": 100,
                     "ptcgoCode": "SWSH"
                 }
             ],
@@ -1398,10 +1343,6 @@
                 {
                     "name": "Reverse Holo",
                     "image": "https://www.dropbox.com/s/gxi31aqp8fo50rd/swsh1-en-15-P.png?dl=1"
-                },
-                {
-                    "name": "Cracked Ice Holo",
-                    "image": "https://www.dropbox.com/s/r50wksczai4jddw/swsh1-en-15-E1.png?dl=1"
                 }
             ]
         },
@@ -1448,13 +1389,12 @@
             ],
             "setinfo": [
                 {
-                    "id": "swsh1",
+                    "id": "swsh1-en",
                     "name": "Sword & Shield",
                     "series": "Sword & Shield Series",
                     "language": "English",
                     "completeSet": 202,
                     "masterSet": 381,
-                    "exclusives": 100,
                     "ptcgoCode": "SWSH"
                 }
             ],
@@ -1529,13 +1469,12 @@
             ],
             "setinfo": [
                 {
-                    "id": "swsh1",
+                    "id": "swsh1-en",
                     "name": "Sword & Shield",
                     "series": "Sword & Shield Series",
                     "language": "English",
                     "completeSet": 202,
                     "masterSet": 381,
-                    "exclusives": 100,
                     "ptcgoCode": "SWSH"
                 }
             ],
@@ -1622,13 +1561,12 @@
             ],
             "setinfo": [
                 {
-                    "id": "swsh1",
+                    "id": "swsh1-en",
                     "name": "Sword & Shield",
                     "series": "Sword & Shield Series",
                     "language": "English",
                     "completeSet": 202,
                     "masterSet": 381,
-                    "exclusives": 100,
                     "ptcgoCode": "SWSH"
                 }
             ],
@@ -1677,7 +1615,7 @@
             "abilities": [
                 {
                     "name": "Bug's Radar",
-                    "image": "https://www.dropbox.com/s/h7ott20a21yg5wq/PokemonPower.png?dl=1",
+                    "image": "https://www.dropbox.com/s/9tmqfudg1dqteml/Ability.png?dl=1",
                     "imageWidth": 80,
                     "imageHeight": 25,
                     "text": "Once during your turn, you may look at the top 3 cards of your opponent's deck and put them back in any order."
@@ -1714,13 +1652,12 @@
             ],
             "setinfo": [
                 {
-                    "id": "swsh1",
+                    "id": "swsh1-en",
                     "name": "Sword & Shield",
                     "series": "Sword & Shield Series",
                     "language": "English",
                     "completeSet": 202,
                     "masterSet": 381,
-                    "exclusives": 100,
                     "ptcgoCode": "SWSH"
                 }
             ],
@@ -1806,13 +1743,12 @@
             ],
             "setinfo": [
                 {
-                    "id": "swsh1",
+                    "id": "swsh1-en",
                     "name": "Sword & Shield",
                     "series": "Sword & Shield Series",
                     "language": "English",
                     "completeSet": 202,
                     "masterSet": 381,
-                    "exclusives": 100,
                     "ptcgoCode": "SWSH"
                 }
             ],
@@ -1899,13 +1835,12 @@
             ],
             "setinfo": [
                 {
-                    "id": "swsh1",
+                    "id": "swsh1-en",
                     "name": "Sword & Shield",
                     "series": "Sword & Shield Series",
                     "language": "English",
                     "completeSet": 202,
                     "masterSet": 381,
-                    "exclusives": 100,
                     "ptcgoCode": "SWSH"
                 }
             ],
@@ -1980,13 +1915,12 @@
             ],
             "setinfo": [
                 {
-                    "id": "swsh1",
+                    "id": "swsh1-en",
                     "name": "Sword & Shield",
                     "series": "Sword & Shield Series",
                     "language": "English",
                     "completeSet": 202,
                     "masterSet": 381,
-                    "exclusives": 100,
                     "ptcgoCode": "SWSH"
                 }
             ],
@@ -2074,13 +2008,12 @@
             ],
             "setinfo": [
                 {
-                    "id": "swsh1",
+                    "id": "swsh1-en",
                     "name": "Sword & Shield",
                     "series": "Sword & Shield Series",
                     "language": "English",
                     "completeSet": 202,
                     "masterSet": 381,
-                    "exclusives": 100,
                     "ptcgoCode": "SWSH"
                 }
             ],
@@ -2176,13 +2109,12 @@
             ],
             "setinfo": [
                 {
-                    "id": "swsh1",
+                    "id": "swsh1-en",
                     "name": "Sword & Shield",
                     "series": "Sword & Shield Series",
                     "language": "English",
                     "completeSet": 202,
                     "masterSet": 381,
-                    "exclusives": 100,
                     "ptcgoCode": "SWSH"
                 }
             ],
@@ -2271,15 +2203,14 @@
                     "image": "https://www.dropbox.com/s/zrqzpiaftjizj85/ColorlessColorless.png?dl=1"
                 }
             ],
-           "setinfo": [
+            "setinfo": [
                 {
-                    "id": "swsh1",
+                    "id": "swsh1-en",
                     "name": "Sword & Shield",
                     "series": "Sword & Shield Series",
                     "language": "English",
                     "completeSet": 202,
                     "masterSet": 381,
-                    "exclusives": 100,
                     "ptcgoCode": "SWSH"
                 }
             ],
@@ -2304,10 +2235,6 @@
                 {
                     "name": "Standard Holo",
                     "image": "https://www.dropbox.com/s/ouq8kkmcmk0e2ci/swsh1-en-25.png?dl=1"
-                },
-                {
-                    "name": "Play! Pokémon Prize Pack",
-                    "image": "https://www.dropbox.com/s/bx1zghhvg0mpyn8/swsh1-en-25-E1.png?dl=1"
                 }
             ]
         },
@@ -2366,13 +2293,12 @@
             ],
             "setinfo": [
                 {
-                    "id": "swsh1",
+                    "id": "swsh1-en",
                     "name": "Sword & Shield",
                     "series": "Sword & Shield Series",
                     "language": "English",
                     "completeSet": 202,
                     "masterSet": 381,
-                    "exclusives": 100,
                     "ptcgoCode": "SWSH"
                 }
             ],
@@ -2447,13 +2373,12 @@
             ],
             "setinfo": [
                 {
-                    "id": "swsh1",
+                    "id": "swsh1-en",
                     "name": "Sword & Shield",
                     "series": "Sword & Shield Series",
                     "language": "English",
                     "completeSet": 202,
                     "masterSet": 381,
-                    "exclusives": 100,
                     "ptcgoCode": "SWSH"
                 }
             ],
@@ -2542,13 +2467,12 @@
             ],
             "setinfo": [
                 {
-                    "id": "swsh1",
+                    "id": "swsh1-en",
                     "name": "Sword & Shield",
                     "series": "Sword & Shield Series",
                     "language": "English",
                     "completeSet": 202,
                     "masterSet": 381,
-                    "exclusives": 100,
                     "ptcgoCode": "SWSH"
                 }
             ],
@@ -2635,13 +2559,12 @@
             ],
             "setinfo": [
                 {
-                    "id": "swsh1",
+                    "id": "swsh1-en",
                     "name": "Sword & Shield",
                     "series": "Sword & Shield Series",
                     "language": "English",
                     "completeSet": 202,
                     "masterSet": 381,
-                    "exclusives": 100,
                     "ptcgoCode": "SWSH"
                 }
             ],
@@ -2715,15 +2638,14 @@
                     "image": "https://www.dropbox.com/s/isxpid0osmi1j6x/Colorless.png?dl=1"
                 }
             ],
-           "setinfo": [
+            "setinfo": [
                 {
-                    "id": "swsh1",
+                    "id": "swsh1-en",
                     "name": "Sword & Shield",
                     "series": "Sword & Shield Series",
                     "language": "English",
                     "completeSet": 202,
                     "masterSet": 381,
-                    "exclusives": 100,
                     "ptcgoCode": "SWSH"
                 }
             ],
@@ -2752,10 +2674,6 @@
                 {
                     "name": "Reverse Holo",
                     "image": "https://www.dropbox.com/s/c5nyr11jno6jw4z/swsh1-en-30-P.png?dl=1"
-                },
-                {
-                    "name": "Cosmos Holo",
-                    "image": "https://www.dropbox.com/s/nxk4yaleklt0801/swsh1-en-30-E1.png?dl=1"
                 }
             ]
         },
@@ -2813,13 +2731,12 @@
             ],
             "setinfo": [
                 {
-                    "id": "swsh1",
+                    "id": "swsh1-en",
                     "name": "Sword & Shield",
                     "series": "Sword & Shield Series",
                     "language": "English",
                     "completeSet": 202,
                     "masterSet": 381,
-                    "exclusives": 100,
                     "ptcgoCode": "SWSH"
                 }
             ],
@@ -2848,10 +2765,6 @@
                 {
                     "name": "Reverse Holo",
                     "image": "https://www.dropbox.com/s/f3ma3b1svuwkun7/swsh1-en-31-P.png?dl=1"
-                },
-                {
-                    "name": "Holo",
-                    "image": "https://www.dropbox.com/s/i75bmd0s0mlkfry/swsh1-en-31-E1.png?dl=1"
                 }
             ]
         },
@@ -2911,13 +2824,12 @@
             ],
             "setinfo": [
                 {
-                    "id": "swsh1",
+                    "id": "swsh1-en",
                     "name": "Sword & Shield",
                     "series": "Sword & Shield Series",
                     "language": "English",
                     "completeSet": 202,
                     "masterSet": 381,
-                    "exclusives": 100,
                     "ptcgoCode": "SWSH"
                 }
             ],
@@ -3004,13 +2916,12 @@
             ],
             "setinfo": [
                 {
-                    "id": "swsh1",
+                    "id": "swsh1-en",
                     "name": "Sword & Shield",
                     "series": "Sword & Shield Series",
                     "language": "English",
                     "completeSet": 202,
                     "masterSet": 381,
-                    "exclusives": 100,
                     "ptcgoCode": "SWSH"
                 }
             ],
@@ -3059,8 +2970,8 @@
             "abilities": [
                 {
                     "name": "Libero",
-                    "image": "https://www.dropbox.com/s/d4usps52lni3lav/Ability.png?dl=1",
-                    "imageWidth": 40,
+                    "image": "https://www.dropbox.com/s/9tmqfudg1dqteml/Ability.png?dl=1",
+                    "imageWidth": 80,
                     "imageHeight": 25,
                     "text": "Once during your turn, when this Pokémon moves from your Bench to the Active Spot, you may attach up to 2 Fire Energy cards from your discard pile to it."
                 }
@@ -3094,15 +3005,14 @@
                     "image": "https://www.dropbox.com/s/isxpid0osmi1j6x/Colorless.png?dl=1"
                 }
             ],
-           "setinfo": [
+            "setinfo": [
                 {
-                    "id": "swsh1",
+                    "id": "swsh1-en",
                     "name": "Sword & Shield",
                     "series": "Sword & Shield Series",
                     "language": "English",
                     "completeSet": 202,
                     "masterSet": 381,
-                    "exclusives": 100,
                     "ptcgoCode": "SWSH"
                 }
             ],
@@ -3131,22 +3041,2686 @@
                 {
                     "name": "Reverse Holo",
                     "image": "https://www.dropbox.com/s/qw6bpapqg0yygyk/swsh1-en-34-P.png?dl=1"
+                }
+            ]
+        },
+        {
+            "id": "swsh1-35",
+            "name": "Cinderace",
+            "supertype": "Pokémon",
+            "subtypes": "Stage 2",
+            "hp": "170",
+            "types": [
+                {
+                    "name": "Fire",
+                    "imageWidth": 25,
+                    "imageHeight": 25
+                }
+            ],
+            "evolvesFrom": "Evolves from Raboot",
+            "attacks": [
+                {
+                    "name": "Pyro Ball",
+                    "cost": [
+                        {
+                            "name": "Fire",
+                            "image": ""
+                        }
+                    ],
+                    "convertedEnergyCost": 1,
+                    "damage": "50",
+                    "text": "Your opponent's Active Pokémon is now Burned."
                 },
                 {
-                    "name": "Cosmos Holo",
-                    "image": "https://www.dropbox.com/s/fsxb2c0rd3opz6b/swsh1-en-34-E1.png?dl=1"
+                    "name": "Burning Kick",
+                    "cost": [
+                        {
+                            "name": "FireFire",
+                            "image": ""
+                        }
+                    ],
+                    "convertedEnergyCost": 2,
+                    "damage": "160",
+                    "text": "Discard all Energy from this Pokémon."
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Water",
+                    "image": "https://www.dropbox.com/s/1yfi42g3os1rxno/Water.png?dl=1",
+                    "imageWidth": 25,
+                    "imageHeight": 25,
+                    "value": "×2"
+                }
+            ],
+            "retreatCost": [
+                {
+                    "name": "Colorless",
+                    "image": "https://www.dropbox.com/s/isxpid0osmi1j6x/Colorless.png?dl=1"
+                }
+            ],
+            "setinfo": [
+                {
+                    "id": "swsh1-en",
+                    "name": "Sword & Shield",
+                    "series": "Sword & Shield Series",
+                    "language": "English",
+                    "completeSet": 202,
+                    "masterSet": 381,
+                    "ptcgoCode": "SWSH"
+                }
+            ],
+            "number": "035",
+            "artist": "Naoki Saito",
+            "rarity": [
+                {
+                    "name": "RH",
+                    "fullname": "Rare Holo"
+                }
+            ],
+            "nationalPokedexNumbers": [
+                815
+            ],
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "regulationMark": "D",
+            "variants": [
+                {
+                    "name": "Standard Holo",
+                    "image": ""
                 },
                 {
-                    "name": "Non-Holo",
-                    "image": "https://www.dropbox.com/s/w9oaq4giian8pmu/swsh1-en-34-E2.png?dl=1"
+                    "name": "Reverse Holo",
+                    "image": ""
+                }
+            ]
+        },
+        {
+            "id": "swsh1-36",
+            "name": "Cinderace",
+            "supertype": "Pokémon",
+            "subtypes": "Stage 2",
+            "hp": "170",
+            "types": [
+                {
+                    "name": "Fire",
+                    "imageWidth": 25,
+                    "imageHeight": 25
+                }
+            ],
+            "evolvesFrom": "Evolves from Raboot",
+            "attacks": [
+                {
+                    "name": "Flame Cloak",
+                    "cost": [
+                        {
+                            "name": "Fire",
+                            "image": ""
+                        }
+                    ],
+                    "convertedEnergyCost": 1,
+                    "damage": "40",
+                    "text": "Attach a Fire Energy card from your discard pile to this Pokémon."
                 },
                 {
-                    "name": "Play! Pokémon Prize Pack, Non-Holo",
-                    "image": "https://www.dropbox.com/s/nguy9wtgdu944o9/swsh1-en-34-E3.png?dl=1"
+                    "name": "Bright Flame",
+                    "cost": [
+                        {
+                            "name": "FireFireColorless",
+                            "image": ""
+                        }
+                    ],
+                    "convertedEnergyCost": 3,
+                    "damage": "160",
+                    "text": "Flip a coin. If tails, discard 2 Energy from this Pokémon."
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Water",
+                    "image": "https://www.dropbox.com/s/1yfi42g3os1rxno/Water.png?dl=1",
+                    "imageWidth": 25,
+                    "imageHeight": 25,
+                    "value": "×2"
+                }
+            ],
+            "retreatCost": [
+                {
+                    "name": "ColorlessColorless",
+                    "image": ""
+                }
+            ],
+            "setinfo": [
+                {
+                    "id": "swsh1-en",
+                    "name": "Sword & Shield",
+                    "series": "Sword & Shield Series",
+                    "language": "English",
+                    "completeSet": 202,
+                    "masterSet": 381,
+                    "ptcgoCode": "SWSH"
+                }
+            ],
+            "number": "036",
+            "artist": "Shin Nagasawa",
+            "rarity": [
+                {
+                    "name": "R",
+                    "fullname": "Rare"
+                }
+            ],
+            "nationalPokedexNumbers": [
+                815
+            ],
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "regulationMark": "D",
+            "variants": [
+                {
+                    "name": "Standard",
+                    "image": ""
                 },
                 {
-                    "name": "Pokémon League",
-                    "image": "https://www.dropbox.com/s/6sgcmh8g3rnm358/swsh1-en-34-E4.png?dl=1"
+                    "name": "Reverse Holo",
+                    "image": ""
+                }
+            ]
+        },
+        {
+            "id": "swsh1-37",
+            "name": "Sizzlipede",
+            "supertype": "Pokémon",
+            "subtypes": "Basic",
+            "hp": "70",
+            "types": [
+                {
+                    "name": "Fire",
+                    "imageWidth": 25,
+                    "imageHeight": 25
+                }
+            ],
+            "attacks": [
+                {
+                    "name": "Bite",
+                    "cost": [
+                        {
+                            "name": "Colorless",
+                            "image": ""
+                        }
+                    ],
+                    "convertedEnergyCost": 1,
+                    "damage": "10"
+                },
+                {
+                    "name": "Combustion",
+                    "cost": [
+                        {
+                            "name": "FireColorlessColorless",
+                            "image": ""
+                        }
+                    ],
+                    "convertedEnergyCost": 3,
+                    "damage": "50"
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Water",
+                    "image": "https://www.dropbox.com/s/1yfi42g3os1rxno/Water.png?dl=1",
+                    "imageWidth": 25,
+                    "imageHeight": 25,
+                    "value": "×2"
+                }
+            ],
+            "retreatCost": [
+                {
+                    "name": "Colorless",
+                    "image": ""
+                }
+            ],
+            "setinfo": [
+                {
+                    "id": "swsh1-en",
+                    "name": "Sword & Shield",
+                    "series": "Sword & Shield Series",
+                    "language": "English",
+                    "completeSet": 202,
+                    "masterSet": 381,
+                    "ptcgoCode": "SWSH"
+                }
+            ],
+            "number": "037",
+            "artist": "Akira Komayama",
+            "rarity": [
+                {
+                    "name": "C",
+                    "fullname": "Common"
+                }
+            ],
+            "nationalPokedexNumbers": [
+                850
+            ],
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "regulationMark": "D",
+            "variants": [
+                {
+                    "name": "Standard",
+                    "image": ""
+                },
+                {
+                    "name": "Reverse Holo",
+                    "image": ""
+                }
+            ]
+        },
+        {
+            "id": "swsh1-38",
+            "name": "Sizzlipede",
+            "supertype": "Pokémon",
+            "subtypes": "Basic",
+            "hp": "70",
+            "types": [
+                {
+                    "name": "Fire",
+                    "imageWidth": 25,
+                    "imageHeight": 25
+                }
+            ],
+            "attacks": [
+                {
+                    "name": "Relentless Flames",
+                    "cost": [
+                        {
+                            "name": "FireColorless",
+                            "image": ""
+                        }
+                    ],
+                    "convertedEnergyCost": 2,
+                    "damage": "40x",
+                    "text": "Flip a coin until you get tails. This attack does 40 damage for each heads."
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Water",
+                    "image": "https://www.dropbox.com/s/1yfi42g3os1rxno/Water.png?dl=1",
+                    "imageWidth": 25,
+                    "imageHeight": 25,
+                    "value": "×2"
+                }
+            ],
+            "retreatCost": [
+                {
+                    "name": "Colorless",
+                    "image": ""
+                }
+            ],
+            "setinfo": [
+                {
+                    "id": "swsh1-en",
+                    "name": "Sword & Shield",
+                    "series": "Sword & Shield Series",
+                    "language": "English",
+                    "completeSet": 202,
+                    "masterSet": 381,
+                    "ptcgoCode": "SWSH"
+                }
+            ],
+            "number": "038",
+            "artist": "Kouki Saitou",
+            "rarity": [
+                {
+                    "name": "C",
+                    "fullname": "Common"
+                }
+            ],
+            "nationalPokedexNumbers": [
+                850
+            ],
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "regulationMark": "D",
+            "variants": [
+                {
+                    "name": "Standard",
+                    "image": ""
+                },
+                {
+                    "name": "Reverse Holo",
+                    "image": ""
+                }
+            ]
+        },
+        {
+            "id": "swsh1-39",
+            "name": "Centiskorch",
+            "supertype": "Pokémon",
+            "subtypes": "Stage 1",
+            "hp": "130",
+            "types": [
+                {
+                    "name": "Fire",
+                    "imageWidth": 25,
+                    "imageHeight": 25
+                }
+            ],
+            "evolvesFrom": "Evolves from Sizzlipede",
+            "attacks": [
+                {
+                    "name": "Hundred Foot Flames",
+                    "cost": [
+                        {
+                            "name": "Fire",
+                            "image": ""
+                        }
+                    ],
+                    "convertedEnergyCost": 1,
+                    "text": "For each Fire Energy attached to this Pokémon, discard the top card of your opponent's deck."
+                },
+                {
+                    "name": "Searing Flame",
+                    "cost": [
+                        {
+                            "name": "FireColorlessColorlessColorless",
+                            "image": ""
+                        }
+                    ],
+                    "convertedEnergyCost": 4,
+                    "damage": "110",
+                    "text": "Your opponent's Active Pokémon is now Burned."
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Water",
+                    "image": "https://www.dropbox.com/s/1yfi42g3os1rxno/Water.png?dl=1",
+                    "imageWidth": 25,
+                    "imageHeight": 25,
+                    "value": "×2"
+                }
+            ],
+            "retreatCost": [
+                {
+                    "name": "ColorlessColorlessColorless",
+                    "image": ""
+                }
+            ],
+            "setinfo": [
+                {
+                    "id": "swsh1-en",
+                    "name": "Sword & Shield",
+                    "series": "Sword & Shield Series",
+                    "language": "English",
+                    "completeSet": 202,
+                    "masterSet": 381,
+                    "ptcgoCode": "SWSH"
+                }
+            ],
+            "number": "039",
+            "artist": "Anesaki Dynamic",
+            "rarity": [
+                {
+                    "name": "R",
+                    "fullname": "Rare"
+                }
+            ],
+            "nationalPokedexNumbers": [
+                851
+            ],
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "regulationMark": "D",
+            "variants": [
+                {
+                    "name": "Standard",
+                    "image": ""
+                },
+                {
+                    "name": "Reverse Holo",
+                    "image": ""
+                }
+            ]
+        },
+        {
+            "id": "swsh1-40",
+            "name": "Shellder",
+            "supertype": "Pokémon",
+            "subtypes": "Basic",
+            "hp": "70",
+            "types": [
+                {
+                    "name": "Water",
+                    "imageWidth": 25,
+                    "imageHeight": 25
+                }
+            ],
+            "attacks": [
+                {
+                    "name": "Water Splash",
+                    "cost": [
+                        {
+                            "name": "WaterColorless",
+                            "image": ""
+                        }
+                    ],
+                    "convertedEnergyCost": 2,
+                    "damage": "20+",
+                    "text": "Flip a coin. If heads, this attack does 20 more damage."
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Lightning",
+                    "image": "https://www.dropbox.com/s/lwau9fj1j6zgq2a/Lightning.png?dl=1",
+                    "imageWidth": 25,
+                    "imageHeight": 25,
+                    "value": "×2"
+                }
+            ],
+            "retreatCost": [
+                {
+                    "name": "Colorless",
+                    "image": ""
+                }
+            ],
+            "setinfo": [
+                {
+                    "id": "swsh1-en",
+                    "name": "Sword & Shield",
+                    "series": "Sword & Shield Series",
+                    "language": "English",
+                    "completeSet": 202,
+                    "masterSet": 381,
+                    "ptcgoCode": "SWSH"
+                }
+            ],
+            "number": "040",
+            "artist": "Sekio",
+            "rarity": [
+                {
+                    "name": "C",
+                    "fullname": "Common"
+                }
+            ],
+            "nationalPokedexNumbers": [
+                90
+            ],
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "regulationMark": "D",
+            "variants": [
+                {
+                    "name": "Standard",
+                    "image": ""
+                },
+                {
+                    "name": "Reverse Holo",
+                    "image": ""
+                }
+            ]
+        },
+        {
+            "id": "swsh1-41",
+            "name": "Cloyster",
+            "supertype": "Pokémon",
+            "subtypes": "Stage 1",
+            "hp": "130",
+            "types": [
+                {
+                    "name": "Water",
+                    "imageWidth": 25,
+                    "imageHeight": 25
+                }
+            ],
+            "evolvesFrom": "Evolves from Shellder",
+            "attacks": [
+                {
+                    "name": "Shell Grab",
+                    "cost": [
+                        {
+                            "name": "Colorless",
+                            "image": ""
+                        }
+                    ],
+                    "convertedEnergyCost": 1,
+                    "damage": "30",
+                    "text": "Flip a coin. If heads, your opponent's Active Pokémon is now Paralyzed."
+                },
+                {
+                    "name": "Tidal Wave",
+                    "cost": [
+                        {
+                            "name": "WaterColorlessColorless",
+                            "image": ""
+                        }
+                    ],
+                    "convertedEnergyCost": 3,
+                    "damage": "100"
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Lightning",
+                    "image": "https://www.dropbox.com/s/lwau9fj1j6zgq2a/Lightning.png?dl=1",
+                    "imageWidth": 25,
+                    "imageHeight": 25,
+                    "value": "×2"
+                }
+            ],
+            "retreatCost": [
+                {
+                    "name": "ColorlessColorless",
+                    "image": ""
+                }
+            ],
+            "setinfo": [
+                {
+                    "id": "swsh1-en",
+                    "name": "Sword & Shield",
+                    "series": "Sword & Shield Series",
+                    "language": "English",
+                    "completeSet": 202,
+                    "masterSet": 381,
+                    "ptcgoCode": "SWSH"
+                }
+            ],
+            "number": "041",
+            "artist": "MAHOU",
+            "rarity": [
+                {
+                    "name": "R",
+                    "fullname": "Rare"
+                }
+            ],
+            "nationalPokedexNumbers": [
+                91
+            ],
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "regulationMark": "D",
+            "variants": [
+                {
+                    "name": "Standard",
+                    "image": ""
+                },
+                {
+                    "name": "Reverse Holo",
+                    "image": ""
+                }
+            ]
+        },
+        {
+            "id": "swsh1-42",
+            "name": "Krabby",
+            "supertype": "Pokémon",
+            "subtypes": "Basic",
+            "hp": "80",
+            "types": [
+                {
+                    "name": "Water",
+                    "imageWidth": 25,
+                    "imageHeight": 25
+                }
+            ],
+            "attacks": [
+                {
+                    "name": "Aqua Shower",
+                    "cost": [
+                        {
+                            "name": "Water",
+                            "image": ""
+                        }
+                    ],
+                    "convertedEnergyCost": 1,
+                    "text": "This attack does 10 damage to each of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+                },
+                {
+                    "name": "Vise Grip",
+                    "cost": [
+                        {
+                            "name": "WaterColorless",
+                            "image": ""
+                        }
+                    ],
+                    "convertedEnergyCost": 2,
+                    "damage": "30"
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Lightning",
+                    "image": "https://www.dropbox.com/s/lwau9fj1j6zgq2a/Lightning.png?dl=1",
+                    "imageWidth": 25,
+                    "imageHeight": 25,
+                    "value": "×2"
+                }
+            ],
+            "retreatCost": [
+                {
+                    "name": "ColorlessColorless",
+                    "image": ""
+                }
+            ],
+            "setinfo": [
+                {
+                    "id": "swsh1-en",
+                    "name": "Sword & Shield",
+                    "series": "Sword & Shield Series",
+                    "language": "English",
+                    "completeSet": 202,
+                    "masterSet": 381,
+                    "ptcgoCode": "SWSH"
+                }
+            ],
+            "number": "042",
+            "artist": "ryoma uratsuka",
+            "rarity": [
+                {
+                    "name": "C",
+                    "fullname": "Common"
+                }
+            ],
+            "nationalPokedexNumbers": [
+                98
+            ],
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "regulationMark": "D",
+            "variants": [
+                {
+                    "name": "Standard",
+                    "image": ""
+                },
+                {
+                    "name": "Reverse Holo",
+                    "image": ""
+                }
+            ]
+        },
+        {
+            "id": "swsh1-43",
+            "name": "Krabby",
+            "supertype": "Pokémon",
+            "subtypes": "Basic",
+            "hp": "80",
+            "types": [
+                {
+                    "name": "Water",
+                    "imageWidth": 25,
+                    "imageHeight": 25
+                }
+            ],
+            "attacks": [
+                {
+                    "name": "Super Slice",
+                    "cost": [
+                        {
+                            "name": "ColorlessColorless",
+                            "image": ""
+                        }
+                    ],
+                    "convertedEnergyCost": 2,
+                    "damage": "120",
+                    "text": "Flip 2 coins. If either of them is tails, this attack does nothing."
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Lightning",
+                    "image": "https://www.dropbox.com/s/lwau9fj1j6zgq2a/Lightning.png?dl=1",
+                    "imageWidth": 25,
+                    "imageHeight": 25,
+                    "value": "×2"
+                }
+            ],
+            "retreatCost": [
+                {
+                    "name": "ColorlessColorless",
+                    "image": ""
+                }
+            ],
+            "setinfo": [
+                {
+                    "id": "swsh1-en",
+                    "name": "Sword & Shield",
+                    "series": "Sword & Shield Series",
+                    "language": "English",
+                    "completeSet": 202,
+                    "masterSet": 381,
+                    "ptcgoCode": "SWSH"
+                }
+            ],
+            "number": "043",
+            "artist": "miki kudo",
+            "rarity": [
+                {
+                    "name": "C",
+                    "fullname": "Common"
+                }
+            ],
+            "nationalPokedexNumbers": [
+                98
+            ],
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "regulationMark": "D",
+            "variants": [
+                {
+                    "name": "Standard",
+                    "image": ""
+                },
+                {
+                    "name": "Reverse Holo",
+                    "image": ""
+                }
+            ]
+        },
+        {
+            "id": "swsh1-44",
+            "name": "Kingler",
+            "supertype": "Pokémon",
+            "subtypes": "Stage 1",
+            "hp": "130",
+            "types": [
+                {
+                    "name": "Water",
+                    "imageWidth": 25,
+                    "imageHeight": 25
+                }
+            ],
+            "evolvesFrom": "Evolves from Krabby",
+            "attacks": [
+                {
+                    "name": "Heavy Pincers",
+                    "cost": [
+                        {
+                            "name": "Water",
+                            "image": ""
+                        }
+                    ],
+                    "convertedEnergyCost": 1,
+                    "damage": "40",
+                    "text": "Discard the top card of your opponent's deck."
+                },
+                {
+                    "name": "Claw Rend",
+                    "cost": [
+                        {
+                            "name": "WaterColorlessColorless",
+                            "image": ""
+                        }
+                    ],
+                    "convertedEnergyCost": 3,
+                    "damage": "90+",
+                    "text": "If your opponent's Active Pokémon already has any damage counters on it, this attack does 60 more damage."
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Lightning",
+                    "image": "https://www.dropbox.com/s/lwau9fj1j6zgq2a/Lightning.png?dl=1",
+                    "imageWidth": 25,
+                    "imageHeight": 25,
+                    "value": "×2"
+                }
+            ],
+            "retreatCost": [
+                {
+                    "name": "ColorlessColorless",
+                    "image": ""
+                }
+            ],
+            "setinfo": [
+                {
+                    "id": "swsh1-en",
+                    "name": "Sword & Shield",
+                    "series": "Sword & Shield Series",
+                    "language": "English",
+                    "completeSet": 202,
+                    "masterSet": 381,
+                    "ptcgoCode": "SWSH"
+                }
+            ],
+            "number": "044",
+            "artist": "tetsuya koizumi",
+            "rarity": [
+                {
+                    "name": "U",
+                    "fullname": "Uncommon"
+                }
+            ],
+            "nationalPokedexNumbers": [
+                99
+            ],
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "regulationMark": "D",
+            "variants": [
+                {
+                    "name": "Standard",
+                    "image": ""
+                },
+                {
+                    "name": "Reverse Holo",
+                    "image": ""
+                }
+            ]
+        },
+        {
+            "id": "swsh1-45",
+            "name": "Goldeen",
+            "supertype": "Pokémon",
+            "subtypes": "Basic",
+            "hp": "70",
+            "types": [
+                {
+                    "name": "Water",
+                    "imageWidth": 25,
+                    "imageHeight": 25
+                }
+            ],
+            "attacks": [
+                {
+                    "name": "Horn Attack",
+                    "cost": [
+                        {
+                            "name": "Colorless",
+                            "image": ""
+                        }
+                    ],
+                    "convertedEnergyCost": 1,
+                    "damage": "10"
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Lightning",
+                    "image": "https://www.dropbox.com/s/lwau9fj1j6zgq2a/Lightning.png?dl=1",
+                    "imageWidth": 25,
+                    "imageHeight": 25,
+                    "value": "×2"
+                }
+            ],
+            "retreatCost": [
+                {
+                    "name": "Colorless",
+                    "image": ""
+                }
+            ],
+            "setinfo": [
+                {
+                    "id": "swsh1-en",
+                    "name": "Sword & Shield",
+                    "series": "Sword & Shield Series",
+                    "language": "English",
+                    "completeSet": 202,
+                    "masterSet": 381,
+                    "ptcgoCode": "SWSH"
+                }
+            ],
+            "number": "045",
+            "artist": "Suwama Chiaki",
+            "rarity": [
+                {
+                    "name": "C",
+                    "fullname": "Common"
+                }
+            ],
+            "nationalPokedexNumbers": [
+                118
+            ],
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "regulationMark": "D",
+            "variants": [
+                {
+                    "name": "Standard",
+                    "image": ""
+                },
+                {
+                    "name": "Reverse Holo",
+                    "image": ""
+                }
+            ]
+        },
+        {
+            "id": "swsh1-46",
+            "name": "Goldeen",
+            "supertype": "Pokémon",
+            "subtypes": "Basic",
+            "hp": "70",
+            "types": [
+                {
+                    "name": "Water",
+                    "imageWidth": 25,
+                    "imageHeight": 25
+                }
+            ],
+            "attacks": [
+                {
+                    "name": "Collect",
+                    "cost": [
+                        {
+                            "name": "Colorless",
+                            "image": ""
+                        }
+                    ],
+                    "convertedEnergyCost": 1,
+                    "text": "Draw a card."
+                },
+                {
+                    "name": "Waterfall",
+                    "cost": [
+                        {
+                            "name": "WaterColorless",
+                            "image": ""
+                        }
+                    ],
+                    "convertedEnergyCost": 2,
+                    "damage": "20"
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Lightning",
+                    "image": "https://www.dropbox.com/s/lwau9fj1j6zgq2a/Lightning.png?dl=1",
+                    "imageWidth": 25,
+                    "imageHeight": 25,
+                    "value": "×2"
+                }
+            ],
+            "retreatCost": [
+                {
+                    "name": "Colorless",
+                    "image": ""
+                }
+            ],
+            "setinfo": [
+                {
+                    "id": "swsh1-en",
+                    "name": "Sword & Shield",
+                    "series": "Sword & Shield Series",
+                    "language": "English",
+                    "completeSet": 202,
+                    "masterSet": 381,
+                    "ptcgoCode": "SWSH"
+                }
+            ],
+            "number": "046",
+            "artist": "SATOSHI NAKAI",
+            "rarity": [
+                {
+                    "name": "C",
+                    "fullname": "Common"
+                }
+            ],
+            "nationalPokedexNumbers": [
+                118
+            ],
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "regulationMark": "D",
+            "variants": [
+                {
+                    "name": "Standard",
+                    "image": ""
+                },
+                {
+                    "name": "Reverse Holo",
+                    "image": ""
+                }
+            ]
+        },
+        {
+            "id": "swsh1-47",
+            "name": "Seaking",
+            "supertype": "Pokémon",
+            "subtypes": "Stage 1",
+            "hp": "110",
+            "types": [
+                {
+                    "name": "Water",
+                    "imageWidth": 25,
+                    "imageHeight": 25
+                }
+            ],
+            "evolvesFrom": "Evolves from Goldeen",
+            "attacks": [
+                {
+                    "name": "Ripping Horn",
+                    "cost": [
+                        {
+                            "name": "Water",
+                            "image": ""
+                        }
+                    ],
+                    "convertedEnergyCost": 1,
+                    "text": "Flip 3 coins. For each heads, discard an Energy from your opponent's Active Pokémon."
+                },
+                {
+                    "name": "Pierce",
+                    "cost": [
+                        {
+                            "name": "ColorlessColorless",
+                            "image": ""
+                        }
+                    ],
+                    "convertedEnergyCost": 2,
+                    "damage": "50"
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Lightning",
+                    "image": "https://www.dropbox.com/s/lwau9fj1j6zgq2a/Lightning.png?dl=1",
+                    "imageWidth": 25,
+                    "imageHeight": 25,
+                    "value": "×2"
+                }
+            ],
+            "retreatCost": [
+                {
+                    "name": "ColorlessColorless",
+                    "image": ""
+                }
+            ],
+            "setinfo": [
+                {
+                    "id": "swsh1-en",
+                    "name": "Sword & Shield",
+                    "series": "Sword & Shield Series",
+                    "language": "English",
+                    "completeSet": 202,
+                    "masterSet": 381,
+                    "ptcgoCode": "SWSH"
+                }
+            ],
+            "number": "047",
+            "artist": "Shibuzoh",
+            "rarity": [
+                {
+                    "name": "U",
+                    "fullname": "Uncommon"
+                }
+            ],
+            "nationalPokedexNumbers": [
+                119
+            ],
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "regulationMark": "D",
+            "variants": [
+                {
+                    "name": "Standard",
+                    "image": ""
+                },
+                {
+                    "name": "Reverse Holo",
+                    "image": ""
+                }
+            ]
+        },
+        {
+            "id": "swsh1-48",
+            "name": "Lapras",
+            "supertype": "Pokémon",
+            "subtypes": "Basic",
+            "hp": "130",
+            "types": [
+                {
+                    "name": "Water",
+                    "imageWidth": 25,
+                    "imageHeight": 25
+                }
+            ],
+            "attacks": [
+                {
+                    "name": "Aqua Wash",
+                    "cost": [
+                        {
+                            "name": "WaterWaterWaterWater",
+                            "image": ""
+                        }
+                    ],
+                    "convertedEnergyCost": 4,
+                    "damage": "70",
+                    "text": "You may put 2 Energy attached to your opponent's Active Pokémon into their hand."
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Lightning",
+                    "image": "https://www.dropbox.com/s/lwau9fj1j6zgq2a/Lightning.png?dl=1",
+                    "imageWidth": 25,
+                    "imageHeight": 25,
+                    "value": "×2"
+                }
+            ],
+            "retreatCost": [
+                {
+                    "name": "ColorlessColorlessColorless",
+                    "image": ""
+                }
+            ],
+            "setinfo": [
+                {
+                    "id": "swsh1-en",
+                    "name": "Sword & Shield",
+                    "series": "Sword & Shield Series",
+                    "language": "English",
+                    "completeSet": 202,
+                    "masterSet": 381,
+                    "ptcgoCode": "SWSH"
+                }
+            ],
+            "number": "048",
+            "artist": "Kazuma Koda",
+            "rarity": [
+                {
+                    "name": "R",
+                    "fullname": "Rare"
+                }
+            ],
+            "nationalPokedexNumbers": [
+                131
+            ],
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "regulationMark": "D",
+            "variants": [
+                {
+                    "name": "Standard",
+                    "image": ""
+                },
+                {
+                    "name": "Reverse Holo",
+                    "image": ""
+                }
+            ]
+        },
+        {
+            "id": "swsh1-49",
+            "name": "Lapras V",
+            "supertype": "Pokémon",
+            "subtypes": "Basic V",
+            "hp": "210",
+            "types": [
+                {
+                    "name": "Water",
+                    "imageWidth": 25,
+                    "imageHeight": 25
+                }
+            ],
+            "rules": [
+                {
+                    "name": "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards.",
+                    "image": "https://www.dropbox.com/s/642r000ejg95dkx/CardRule.png?dl=1",
+                    "imageWidth": 60,
+                    "imageHeight": 25
+                }
+            ],
+            "attacks": [
+                {
+                    "name": "Body Surf",
+                    "cost": [
+                        {
+                            "name": "Colorless",
+                            "image": ""
+                        }
+                    ],
+                    "convertedEnergyCost": 1,
+                    "text": "Attach a Water Energy card from your hand to this Pokémon. If you do, switch it with 1 of your Benched Pokémon."
+                },
+                {
+                    "name": "Ocean Loop",
+                    "cost": [
+                        {
+                            "name": "WaterWaterWaterColorless",
+                            "image": ""
+                        }
+                    ],
+                    "convertedEnergyCost": 4,
+                    "damage": "210",
+                    "text": "Put 2 Water Energy attached to this Pokémon into your hand."
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Lightning",
+                    "image": "https://www.dropbox.com/s/lwau9fj1j6zgq2a/Lightning.png?dl=1",
+                    "imageWidth": 25,
+                    "imageHeight": 25,
+                    "value": "×2"
+                }
+            ],
+            "retreatCost": [
+                {
+                    "name": "ColorlessColorless",
+                    "image": ""
+                }
+            ],
+            "setinfo": [
+                {
+                    "id": "swsh1-en",
+                    "name": "Sword & Shield",
+                    "series": "Sword & Shield Series",
+                    "language": "English",
+                    "completeSet": 202,
+                    "masterSet": 381,
+                    "ptcgoCode": "SWSH"
+                }
+            ],
+            "number": "049",
+            "artist": "Hasuno",
+            "rarity": [
+                {
+                    "name": "UR",
+                    "fullname": "Ultra Rare"
+                }
+            ],
+            "nationalPokedexNumbers": [
+                131
+            ],
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "regulationMark": "D",
+            "variants": [
+                {
+                    "name": "Standard Holo",
+                    "image": ""
+                }
+            ]
+        },
+        {
+            "id": "swsh1-50",
+            "name": "Lapras VMAX",
+            "supertype": "Pokémon",
+            "subtypes": "VMAX",
+            "hp": "320",
+            "types": [
+                {
+                    "name": "Water",
+                    "imageWidth": 25,
+                    "imageHeight": 25
+                }
+            ],
+            "evolvesFrom": "Evolves from Lapras V",
+            "rules": [
+                {
+                    "name": "VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards.",
+                    "image": "https://www.dropbox.com/s/642r000ejg95dkx/CardRule.png?dl=1",
+                    "imageWidth": 60,
+                    "imageHeight": 25
+                }
+            ],
+            "attacks": [
+                {
+                    "name": "G-Max Pump",
+                    "cost": [
+                        {
+                            "name": "ColorlessColorlessColorless",
+                            "image": ""
+                        }
+                    ],
+                    "convertedEnergyCost": 3,
+                    "damage": "90+",
+                    "text": "This attack does 30 more damage for each Water Energy attached to this Pokémon."
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Lightning",
+                    "image": "https://www.dropbox.com/s/lwau9fj1j6zgq2a/Lightning.png?dl=1",
+                    "imageWidth": 25,
+                    "imageHeight": 25,
+                    "value": "×2"
+                }
+            ],
+            "retreatCost": [
+                {
+                    "name": "ColorlessColorlessColorless",
+                    "image": ""
+                }
+            ],
+            "setinfo": [
+                {
+                    "id": "swsh1-en",
+                    "name": "Sword & Shield",
+                    "series": "Sword & Shield Series",
+                    "language": "English",
+                    "completeSet": 202,
+                    "masterSet": 381,
+                    "ptcgoCode": "SWSH"
+                }
+            ],
+            "number": "050",
+            "artist": "5ban Graphics",
+            "rarity": [
+                {
+                    "name": "UR",
+                    "fullname": "Ultra Rare"
+                }
+            ],
+            "nationalPokedexNumbers": [
+                131
+            ],
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "regulationMark": "D",
+            "variants": [
+                {
+                    "name": "Standard Holo",
+                    "image": ""
+                }
+            ]
+        },
+        {
+            "id": "swsh1-51",
+            "name": "Qwilfish",
+            "supertype": "Pokémon",
+            "subtypes": "Basic",
+            "hp": "90",
+            "types": [
+                {
+                    "name": "Water",
+                    "imageWidth": 25,
+                    "imageHeight": 25
+                }
+            ],
+            "abilities": [
+                {
+                    "name": "Poison Point",
+                    "image": "https://www.dropbox.com/s/9tmqfudg1dqteml/Ability.png?dl=1",
+                    "imageWidth": 80,
+                    "imageHeight": 25,
+                    "text": "If this Pokémon is your Active Pokémon and is damaged by an opponent's attack (even if this Pokémon is Knocked Out), the Attacking Pokémon is now Poisoned."
+                }
+            ],
+            "attacks": [
+                {
+                    "name": "Venoshock",
+                    "cost": [
+                        {
+                            "name": "Colorless",
+                            "image": ""
+                        }
+                    ],
+                    "convertedEnergyCost": 1,
+                    "damage": "10+",
+                    "text": "If your opponent's Active Pokémon is Poisoned, this attack does 60 more damage."
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Lightning",
+                    "image": "https://www.dropbox.com/s/lwau9fj1j6zgq2a/Lightning.png?dl=1",
+                    "imageWidth": 25,
+                    "imageHeight": 25,
+                    "value": "×2"
+                }
+            ],
+            "retreatCost": [
+                {
+                    "name": "Colorless",
+                    "image": ""
+                }
+            ],
+            "setinfo": [
+                {
+                    "id": "swsh1-en",
+                    "name": "Sword & Shield",
+                    "series": "Sword & Shield Series",
+                    "language": "English",
+                    "completeSet": 202,
+                    "masterSet": 381,
+                    "ptcgoCode": "SWSH"
+                }
+            ],
+            "number": "051",
+            "artist": "Midori Harada",
+            "rarity": [
+                {
+                    "name": "U",
+                    "fullname": "Uncommon"
+                }
+            ],
+            "nationalPokedexNumbers": [
+                211
+            ],
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "regulationMark": "D",
+            "variants": [
+                {
+                    "name": "Standard",
+                    "image": ""
+                },
+                {
+                    "name": "Reverse Holo",
+                    "image": ""
+                }
+            ]
+        },
+        {
+            "id": "swsh1-52",
+            "name": "Mantine",
+            "supertype": "Pokémon",
+            "subtypes": "Basic",
+            "hp": "110",
+            "types": [
+                {
+                    "name": "Water",
+                    "imageWidth": 25,
+                    "imageHeight": 25
+                }
+            ],
+            "attacks": [
+                {
+                    "name": "Water Reserve",
+                    "cost": [
+                        {
+                            "name": "Water",
+                            "image": ""
+                        }
+                    ],
+                    "convertedEnergyCost": 1,
+                    "text": "Search your deck for up to 3 Water Energy cards, reveal them, and put them into your hand. Then, shuffle your deck."
+                },
+                {
+                    "name": "Wave Splash",
+                    "cost": [
+                        {
+                            "name": "WaterWater",
+                            "image": ""
+                        }
+                    ],
+                    "convertedEnergyCost": 2,
+                    "damage": "60"
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Lightning",
+                    "image": "https://www.dropbox.com/s/lwau9fj1j6zgq2a/Lightning.png?dl=1",
+                    "imageWidth": 25,
+                    "imageHeight": 25,
+                    "value": "×2"
+                }
+            ],
+            "retreatCost": [
+                {
+                    "name": "Colorless",
+                    "image": ""
+                }
+            ],
+            "setinfo": [
+                {
+                    "id": "swsh1-en",
+                    "name": "Sword & Shield",
+                    "series": "Sword & Shield Series",
+                    "language": "English",
+                    "completeSet": 202,
+                    "masterSet": 381,
+                    "ptcgoCode": "SWSH"
+                }
+            ],
+            "number": "052",
+            "artist": "Jumpei Akasaka",
+            "rarity": [
+                {
+                    "name": "U",
+                    "fullname": "Uncommon"
+                }
+            ],
+            "nationalPokedexNumbers": [
+                226
+            ],
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "regulationMark": "D",
+            "variants": [
+                {
+                    "name": "Standard",
+                    "image": ""
+                },
+                {
+                    "name": "Reverse Holo",
+                    "image": ""
+                }
+            ]
+        },
+        {
+            "id": "swsh1-53",
+            "name": "Keldeo V",
+            "supertype": "Pokémon",
+            "subtypes": "Basic V",
+            "hp": "210",
+            "types": [
+                {
+                    "name": "Water",
+                    "imageWidth": 25,
+                    "imageHeight": 25
+                }
+            ],
+            "rules": [
+                {
+                    "name": "V rule: When your Pokémon V is Knocked Out, your opponent takes 2 Prize cards.",
+                    "image": "https://www.dropbox.com/s/642r000ejg95dkx/CardRule.png?dl=1",
+                    "imageWidth": 60,
+                    "imageHeight": 25
+                }
+            ],
+            "attacks": [
+                {
+                    "name": "Wave Splash",
+                    "cost": [
+                        {
+                            "name": "Water",
+                            "image": ""
+                        }
+                    ],
+                    "convertedEnergyCost": 1,
+                    "damage": "40"
+                },
+                {
+                    "name": "Secret Sword",
+                    "cost": [
+                        {
+                            "name": "ColorlessColorlessColorless",
+                            "image": ""
+                        }
+                    ],
+                    "convertedEnergyCost": 3,
+                    "damage": "50+",
+                    "text": "This attack does 30 more damage for each Water Energy attached to this Pokémon."
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Lightning",
+                    "image": "https://www.dropbox.com/s/lwau9fj1j6zgq2a/Lightning.png?dl=1",
+                    "imageWidth": 25,
+                    "imageHeight": 25,
+                    "value": "×2"
+                }
+            ],
+            "retreatCost": [
+                {
+                    "name": "ColorlessColorless",
+                    "image": ""
+                }
+            ],
+            "setinfo": [
+                {
+                    "id": "swsh1-en",
+                    "name": "Sword & Shield",
+                    "series": "Sword & Shield Series",
+                    "language": "English",
+                    "completeSet": 202,
+                    "masterSet": 381,
+                    "ptcgoCode": "SWSH"
+                }
+            ],
+            "number": "053",
+            "artist": "PLANETA Igarashi",
+            "rarity": [
+                {
+                    "name": "UR",
+                    "fullname": "Ultra Rare"
+                }
+            ],
+            "nationalPokedexNumbers": [
+                647
+            ],
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "regulationMark": "D",
+            "variants": [
+                {
+                    "name": "Standard Holo",
+                    "image": ""
+                }
+            ]
+        },
+        {
+            "id": "swsh1-54",
+            "name": "Sobble",
+            "supertype": "Pokémon",
+            "subtypes": "Basic",
+            "hp": "60",
+            "types": [
+                {
+                    "name": "Water",
+                    "imageWidth": 25,
+                    "imageHeight": 25
+                }
+            ],
+            "attacks": [
+                {
+                    "name": "Water Gun",
+                    "cost": [
+                        {
+                            "name": "Water",
+                            "image": ""
+                        }
+                    ],
+                    "convertedEnergyCost": 1,
+                    "damage": "20"
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Lightning",
+                    "image": "https://www.dropbox.com/s/lwau9fj1j6zgq2a/Lightning.png?dl=1",
+                    "imageWidth": 25,
+                    "imageHeight": 25,
+                    "value": "×2"
+                }
+            ],
+            "retreatCost": [
+                {
+                    "name": "Colorless",
+                    "image": ""
+                }
+            ],
+            "setinfo": [
+                {
+                    "id": "swsh1-en",
+                    "name": "Sword & Shield",
+                    "series": "Sword & Shield Series",
+                    "language": "English",
+                    "completeSet": 202,
+                    "masterSet": 381,
+                    "ptcgoCode": "SWSH"
+                }
+            ],
+            "number": "054",
+            "artist": "Megumi Mizutani",
+            "rarity": [
+                {
+                    "name": "C",
+                    "fullname": "Common"
+                }
+            ],
+            "nationalPokedexNumbers": [
+                816
+            ],
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "regulationMark": "D",
+            "variants": [
+                {
+                    "name": "Standard",
+                    "image": ""
+                },
+                {
+                    "name": "Reverse Holo",
+                    "image": ""
+                }
+            ]
+        },
+        {
+            "id": "swsh1-55",
+            "name": "Sobble",
+            "supertype": "Pokémon",
+            "subtypes": "Basic",
+            "hp": "70",
+            "types": [
+                {
+                    "name": "Water",
+                    "imageWidth": 25,
+                    "imageHeight": 25
+                }
+            ],
+            "attacks": [
+                {
+                    "name": "Pound",
+                    "cost": [
+                        {
+                            "name": "Colorless",
+                            "image": ""
+                        }
+                    ],
+                    "convertedEnergyCost": 1,
+                    "damage": "10"
+                },
+                {
+                    "name": "Water Gun",
+                    "cost": [
+                        {
+                            "name": "WaterColorless",
+                            "image": ""
+                        }
+                    ],
+                    "convertedEnergyCost": 2,
+                    "damage": "20"
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Lightning",
+                    "image": "https://www.dropbox.com/s/lwau9fj1j6zgq2a/Lightning.png?dl=1",
+                    "imageWidth": 25,
+                    "imageHeight": 25,
+                    "value": "×2"
+                }
+            ],
+            "retreatCost": [
+                {
+                    "name": "Colorless",
+                    "image": ""
+                }
+            ],
+            "setinfo": [
+                {
+                    "id": "swsh1-en",
+                    "name": "Sword & Shield",
+                    "series": "Sword & Shield Series",
+                    "language": "English",
+                    "completeSet": 202,
+                    "masterSet": 381,
+                    "ptcgoCode": "SWSH"
+                }
+            ],
+            "number": "055",
+            "artist": "Hitoshi Ariga",
+            "rarity": [
+                {
+                    "name": "C",
+                    "fullname": "Common"
+                }
+            ],
+            "nationalPokedexNumbers": [
+                816
+            ],
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "regulationMark": "D",
+            "variants": [
+                {
+                    "name": "Standard",
+                    "image": ""
+                },
+                {
+                    "name": "Reverse Holo",
+                    "image": ""
+                }
+            ]
+        },
+        {
+            "id": "swsh1-56",
+            "name": "Drizzile",
+            "supertype": "Pokémon",
+            "subtypes": "Stage 1",
+            "hp": "90",
+            "types": [
+                {
+                    "name": "Water",
+                    "imageWidth": 25,
+                    "imageHeight": 25
+                }
+            ],
+            "evolvesFrom": "Evolves from Sobble",
+            "abilities": [
+                {
+                    "name": "Shady Dealings",
+                    "image": "https://www.dropbox.com/s/9tmqfudg1dqteml/Ability.png?dl=1",
+                    "imageWidth": 80,
+                    "imageHeight": 25,
+                    "text": "When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may search your deck for a Trainer card, reveal it, and put it into your hand. Then, shuffle your deck."
+                }
+            ],
+            "attacks": [
+                {
+                    "name": "Water Drip",
+                    "cost": [
+                        {
+                            "name": "WaterColorless",
+                            "image": ""
+                        }
+                    ],
+                    "convertedEnergyCost": 2,
+                    "damage": "30"
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Lightning",
+                    "image": "https://www.dropbox.com/s/lwau9fj1j6zgq2a/Lightning.png?dl=1",
+                    "imageWidth": 25,
+                    "imageHeight": 25,
+                    "value": "×2"
+                }
+            ],
+            "retreatCost": [
+                {
+                    "name": "Colorless",
+                    "image": ""
+                }
+            ],
+            "setinfo": [
+                {
+                    "id": "swsh1-en",
+                    "name": "Sword & Shield",
+                    "series": "Sword & Shield Series",
+                    "language": "English",
+                    "completeSet": 202,
+                    "masterSet": 381,
+                    "ptcgoCode": "SWSH"
+                }
+            ],
+            "number": "056",
+            "artist": "Naoki Saito",
+            "rarity": [
+                {
+                    "name": "UC",
+                    "fullname": "Uncommon"
+                }
+            ],
+            "nationalPokedexNumbers": [
+                817
+            ],
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "regulationMark": "D",
+            "variants": [
+                {
+                    "name": "Standard",
+                    "image": ""
+                },
+                {
+                    "name": "Reverse Holo",
+                    "image": ""
+                }
+            ]
+        },
+        {
+            "id": "swsh1-57",
+            "name": "Drizzile",
+            "supertype": "Pokémon",
+            "subtypes": "Stage 1",
+            "hp": "90",
+            "types": [
+                {
+                    "name": "Water",
+                    "imageWidth": 25,
+                    "imageHeight": 25
+                }
+            ],
+            "evolvesFrom": "Evolves from Sobble",
+            "attacks": [
+                {
+                    "name": "Rain Splash",
+                    "cost": [
+                        {
+                            "name": "Water",
+                            "image": ""
+                        }
+                    ],
+                    "convertedEnergyCost": 1,
+                    "damage": "30"
+                },
+                {
+                    "name": "Wave Splash",
+                    "cost": [
+                        {
+                            "name": "WaterColorless",
+                            "image": ""
+                        }
+                    ],
+                    "convertedEnergyCost": 2,
+                    "damage": "40"
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Lightning",
+                    "image": "https://www.dropbox.com/s/lwau9fj1j6zgq2a/Lightning.png?dl=1",
+                    "imageWidth": 25,
+                    "imageHeight": 25,
+                    "value": "×2"
+                }
+            ],
+            "retreatCost": [
+                {
+                    "name": "Colorless",
+                    "image": ""
+                }
+            ],
+            "setinfo": [
+                {
+                    "id": "swsh1-en",
+                    "name": "Sword & Shield",
+                    "series": "Sword & Shield Series",
+                    "language": "English",
+                    "completeSet": 202,
+                    "masterSet": 381,
+                    "ptcgoCode": "SWSH"
+                }
+            ],
+            "number": "057",
+            "artist": "Mizue",
+            "rarity": [
+                {
+                    "name": "UC",
+                    "fullname": "Uncommon"
+                }
+            ],
+            "nationalPokedexNumbers": [
+                817
+            ],
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "regulationMark": "D",
+            "variants": [
+                {
+                    "name": "Standard",
+                    "image": ""
+                },
+                {
+                    "name": "Reverse Holo",
+                    "image": ""
+                }
+            ]
+        },
+        {
+            "id": "swsh1-58",
+            "name": "Inteleon",
+            "supertype": "Pokémon",
+            "subtypes": "Stage 2",
+            "hp": "160",
+            "types": [
+                {
+                    "name": "Water",
+                    "imageWidth": 25,
+                    "imageHeight": 25
+                }
+            ],
+            "evolvesFrom": "Evolves from Drizzile",
+            "abilities": [
+                {
+                    "name": "Shady Dealings",
+                    "image": "https://www.dropbox.com/s/9tmqfudg1dqteml/Ability.png?dl=1",
+                    "imageWidth": 80,
+                    "imageHeight": 25,
+                    "text": "When you play this Pokémon from your hand to evolve 1 of your Pokémon during your turn, you may search your deck for up to 2 Trainer cards, reveal them, and put them into your hand. Then, shuffle your deck."
+                }
+            ],
+            "attacks": [
+                {
+                    "name": "Aqua Bullet",
+                    "cost": [
+                        {
+                            "name": "WaterColorless",
+                            "image": ""
+                        }
+                    ],
+                    "convertedEnergyCost": 2,
+                    "damage": "120",
+                    "text": "This attack also does 20 damage to 1 of your opponent's Benched Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Lightning",
+                    "image": "https://www.dropbox.com/s/lwau9fj1j6zgq2a/Lightning.png?dl=1",
+                    "imageWidth": 25,
+                    "imageHeight": 25,
+                    "value": "×2"
+                }
+            ],
+            "retreatCost": [
+                {
+                    "name": "Colorless",
+                    "image": ""
+                }
+            ],
+            "setinfo": [
+                {
+                    "id": "swsh1-en",
+                    "name": "Sword & Shield",
+                    "series": "Sword & Shield Series",
+                    "language": "English",
+                    "completeSet": 202,
+                    "masterSet": 381,
+                    "ptcgoCode": "SWSH"
+                }
+            ],
+            "number": "058",
+            "artist": "Kagemaru Himeno",
+            "rarity": [
+                {
+                    "name": "RH",
+                    "fullname": "Rare Holo"
+                }
+            ],
+            "nationalPokedexNumbers": [
+                818
+            ],
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "regulationMark": "D",
+            "variants": [
+                {
+                    "name": "Standard Holo",
+                    "image": ""
+                },
+                {
+                    "name": "Reverse Holo",
+                    "image": ""
+                }
+            ]
+        },
+        {
+            "id": "swsh1-59",
+            "name": "Inteleon",
+            "supertype": "Pokémon",
+            "subtypes": "Stage 2",
+            "hp": "160",
+            "types": [
+                {
+                    "name": "Water",
+                    "imageWidth": 25,
+                    "imageHeight": 25
+                }
+            ],
+            "evolvesFrom": "Evolves from Drizzile",
+            "attacks": [
+                {
+                    "name": "Silent Shot",
+                    "cost": [
+                        {
+                            "name": "Colorless",
+                            "image": ""
+                        }
+                    ],
+                    "convertedEnergyCost": 1,
+                    "damage": "40",
+                    "text": "Discard a random card from your opponent's hand."
+                },
+                {
+                    "name": "Hydro Snipe",
+                    "cost": [
+                        {
+                            "name": "WaterColorless",
+                            "image": ""
+                        }
+                    ],
+                    "convertedEnergyCost": 2,
+                    "damage": "100",
+                    "text": "You may put an Energy attached to your opponent's Active Pokémon into their hand."
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Lightning",
+                    "image": "https://www.dropbox.com/s/lwau9fj1j6zgq2a/Lightning.png?dl=1",
+                    "imageWidth": 25,
+                    "imageHeight": 25,
+                    "value": "×2"
+                }
+            ],
+            "retreatCost": [
+                {
+                    "name": "Colorless",
+                    "image": ""
+                }
+            ],
+            "setinfo": [
+                {
+                    "id": "swsh1-en",
+                    "name": "Sword & Shield",
+                    "series": "Sword & Shield Series",
+                    "language": "English",
+                    "completeSet": 202,
+                    "masterSet": 381,
+                    "ptcgoCode": "SWSH"
+                }
+            ],
+            "number": "059",
+            "artist": "Akira Komayama",
+            "rarity": [
+                {
+                    "name": "R",
+                    "fullname": "Rare"
+                }
+            ],
+            "nationalPokedexNumbers": [
+                818
+            ],
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "regulationMark": "D",
+            "variants": [
+                {
+                    "name": "Standard",
+                    "image": ""
+                },
+                {
+                    "name": "Reverse Holo",
+                    "image": ""
+                }
+            ]
+        },
+        {
+            "id": "swsh1-60",
+            "name": "Chewtle",
+            "supertype": "Pokémon",
+            "subtypes": "Basic",
+            "hp": "80",
+            "types": [
+                {
+                    "name": "Water",
+                    "imageWidth": 25,
+                    "imageHeight": 25
+                }
+            ],
+            "attacks": [
+                {
+                    "name": "Bite",
+                    "cost": [
+                        {
+                            "name": "ColorlessColorless",
+                            "image": ""
+                        }
+                    ],
+                    "convertedEnergyCost": 2,
+                    "damage": "30"
+                },
+                {
+                    "name": "Water Gun",
+                    "cost": [
+                        {
+                            "name": "WaterCololessColorless",
+                            "image": ""
+                        }
+                    ],
+                    "convertedEnergyCost": 3,
+                    "damage": "50"
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Lightning",
+                    "image": "https://www.dropbox.com/s/lwau9fj1j6zgq2a/Lightning.png?dl=1",
+                    "imageWidth": 25,
+                    "imageHeight": 25,
+                    "value": "×2"
+                }
+            ],
+            "retreatCost": [
+                {
+                    "name": "ColorlessColorless",
+                    "image": ""
+                }
+            ],
+            "setinfo": [
+                {
+                    "id": "swsh1-en",
+                    "name": "Sword & Shield",
+                    "series": "Sword & Shield Series",
+                    "language": "English",
+                    "completeSet": 202,
+                    "masterSet": 381,
+                    "ptcgoCode": "SWSH"
+                }
+            ],
+            "number": "060",
+            "artist": "Mina Nakai",
+            "rarity": [
+                {
+                    "name": "C",
+                    "fullname": "Common"
+                }
+            ],
+            "nationalPokedexNumbers": [
+                833
+            ],
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "regulationMark": "D",
+            "variants": [
+                {
+                    "name": "Standard",
+                    "image": ""
+                },
+                {
+                    "name": "Reverse Holo",
+                    "image": ""
+                }
+            ]
+        },
+        {
+            "id": "swsh1-61",
+            "name": "Drednaw",
+            "supertype": "Pokémon",
+            "subtypes": "Stage 1",
+            "hp": "130",
+            "types": [
+                {
+                    "name": "Water",
+                    "imageWidth": 25,
+                    "imageHeight": 25
+                }
+            ],
+            "evolvesFrom": "Evolves from Chewtle",
+            "attacks": [
+                {
+                    "name": "Vise Bite",
+                    "cost": [
+                        {
+                            "name": "WaterColorlessColorless",
+                            "image": ""
+                        }
+                    ],
+                    "convertedEnergyCost": 3,
+                    "damage": "60+",
+                    "text": "This attack does 30 more damage for each Colorless in your opponent's Active Pokémon's Retreat Cost."
+                },
+                {
+                    "name": "Jaw Lock",
+                    "cost": [
+                        {
+                            "name": "WaterCololessColorlessColorless",
+                            "image": ""
+                        }
+                    ],
+                    "convertedEnergyCost": 4,
+                    "damage": "130",
+                    "text": "During your opponent's next turn, the Defending Pokémon can't retreat."
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Lightning",
+                    "image": "https://www.dropbox.com/s/lwau9fj1j6zgq2a/Lightning.png?dl=1",
+                    "imageWidth": 25,
+                    "imageHeight": 25,
+                    "value": "×2"
+                }
+            ],
+            "retreatCost": [
+                {
+                    "name": "ColorlessColorlessColorless",
+                    "image": ""
+                }
+            ],
+            "setinfo": [
+                {
+                    "id": "swsh1-en",
+                    "name": "Sword & Shield",
+                    "series": "Sword & Shield Series",
+                    "language": "English",
+                    "completeSet": 202,
+                    "masterSet": 381,
+                    "ptcgoCode": "SWSH"
+                }
+            ],
+            "number": "061",
+            "artist": "Hitoshi Ariga",
+            "rarity": [
+                {
+                    "name": "R",
+                    "fullname": "Rare"
+                }
+            ],
+            "nationalPokedexNumbers": [
+                834
+            ],
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "regulationMark": "D",
+            "variants": [
+                {
+                    "name": "Standard",
+                    "image": ""
+                },
+                {
+                    "name": "Reverse Holo",
+                    "image": ""
+                }
+            ]
+        },
+        {
+            "id": "swsh1-62",
+            "name": "Cramorant",
+            "supertype": "Pokémon",
+            "subtypes": "Basic",
+            "hp": "110",
+            "types": [
+                {
+                    "name": "Water",
+                    "imageWidth": 25,
+                    "imageHeight": 25
+                }
+            ],
+            "attacks": [
+                {
+                    "name": "Water Arrow",
+                    "cost": [
+                        {
+                            "name": "Water",
+                            "image": ""
+                        }
+                    ],
+                    "convertedEnergyCost": 1,
+                    "text": "This attack does 20 damage to 1 of your opponent's Pokémon. (Don't apply Weakness and Resistance for Benched Pokémon.)"
+                },
+                {
+                    "name": "Water Gun",
+                    "cost": [
+                        {
+                            "name": "WaterWater",
+                            "image": ""
+                        }
+                    ],
+                    "convertedEnergyCost": 2,
+                    "damage": "50"
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Lightning",
+                    "image": "https://www.dropbox.com/s/lwau9fj1j6zgq2a/Lightning.png?dl=1",
+                    "imageWidth": 25,
+                    "imageHeight": 25,
+                    "value": "×2"
+                }
+            ],
+            "retreatCost": [
+                {
+                    "name": "Colorless",
+                    "image": ""
+                }
+            ],
+            "setinfo": [
+                {
+                    "id": "swsh1-en",
+                    "name": "Sword & Shield",
+                    "series": "Sword & Shield Series",
+                    "language": "English",
+                    "completeSet": 202,
+                    "masterSet": 381,
+                    "ptcgoCode": "SWSH"
+                }
+            ],
+            "number": "062",
+            "artist": "Shin Nagasawa",
+            "rarity": [
+                {
+                    "name": "R",
+                    "fullname": "Rare"
+                }
+            ],
+            "nationalPokedexNumbers": [
+                845
+            ],
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "regulationMark": "D",
+            "variants": [
+                {
+                    "name": "Standard",
+                    "image": ""
+                },
+                {
+                    "name": "Reverse Holo",
+                    "image": ""
+                }
+            ]
+        },
+        {
+            "id": "swsh1-63",
+            "name": "Snom",
+            "supertype": "Pokémon",
+            "subtypes": "Basic",
+            "hp": "50",
+            "types": [
+                {
+                    "name": "Water",
+                    "imageWidth": 25,
+                    "imageHeight": 25
+                }
+            ],
+            "attacks": [
+                {
+                    "name": "Ram",
+                    "cost": [
+                        {
+                            "name": "Colorless",
+                            "image": ""
+                        }
+                    ],
+                    "convertedEnergyCost": 1,
+                    "damage": "10"
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Lightning",
+                    "image": "https://www.dropbox.com/s/lwau9fj1j6zgq2a/Lightning.png?dl=1",
+                    "imageWidth": 25,
+                    "imageHeight": 25,
+                    "value": "×2"
+                }
+            ],
+            "retreatCost": [
+                {
+                    "name": "Colorless",
+                    "image": ""
+                }
+            ],
+            "setinfo": [
+                {
+                    "id": "swsh1-en",
+                    "name": "Sword & Shield",
+                    "series": "Sword & Shield Series",
+                    "language": "English",
+                    "completeSet": 202,
+                    "masterSet": 381,
+                    "ptcgoCode": "SWSH"
+                }
+            ],
+            "number": "063",
+            "artist": "Mina Nakai",
+            "rarity": [
+                {
+                    "name": "C",
+                    "fullname": "Common"
+                }
+            ],
+            "nationalPokedexNumbers": [
+                872
+            ],
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "regulationMark": "D",
+            "variants": [
+                {
+                    "name": "Standard",
+                    "image": ""
+                },
+                {
+                    "name": "Reverse Holo",
+                    "image": ""
+                }
+            ]
+        },
+        {
+            "id": "swsh1-64",
+            "name": "Frosmoth",
+            "supertype": "Pokémon",
+            "subtypes": "Stage 1",
+            "hp": "90",
+            "types": [
+                {
+                    "name": "Water",
+                    "imageWidth": 25,
+                    "imageHeight": 25
+                }
+            ],
+            "evolvesFrom": "Evolves from Snom",
+            "abilities": [
+                {
+                    "name": "Ice Dance",
+                    "image": "https://www.dropbox.com/s/9tmqfudg1dqteml/Ability.png?dl=1",
+                    "imageWidth": 80,
+                    "imageHeight": 25,
+                    "text": "As often as you like during your turn, you may attach a Water Energy card from your hand to 1 of your Benched Water Pokémon."
+                }
+            ],
+            "attacks": [
+                {
+                    "name": "Aurora Beam",
+                    "cost": [
+                        {
+                            "name": "WaterColorless",
+                            "image": ""
+                        }
+                    ],
+                    "convertedEnergyCost": 2,
+                    "damage": "30"
+                }
+            ],
+            "weaknesses": [
+                {
+                    "type": "Lightning",
+                    "image": "https://www.dropbox.com/s/lwau9fj1j6zgq2a/Lightning.png?dl=1",
+                    "imageWidth": 25,
+                    "imageHeight": 25,
+                    "value": "×2"
+                }
+            ],
+            "retreatCost": [
+                {
+                    "name": "ColorlessColorless",
+                    "image": ""
+                }
+            ],
+            "setinfo": [
+                {
+                    "id": "swsh1-en",
+                    "name": "Sword & Shield",
+                    "series": "Sword & Shield Series",
+                    "language": "English",
+                    "completeSet": 202,
+                    "masterSet": 381,
+                    "ptcgoCode": "SWSH"
+                }
+            ],
+            "number": "064",
+            "artist": "Kagemaru Himeno",
+            "rarity": [
+                {
+                    "name": "RH",
+                    "fullname": "Rare Holo"
+                }
+            ],
+            "nationalPokedexNumbers": [
+                873
+            ],
+            "legalities": {
+                "unlimited": "Legal",
+                "standard": "Legal",
+                "expanded": "Legal"
+            },
+            "regulationMark": "D",
+            "variants": [
+                {
+                    "name": "Standard Holo",
+                    "image": ""
+                },
+                {
+                    "name": "Reverse Holo",
+                    "image": ""
                 }
             ]
         }
