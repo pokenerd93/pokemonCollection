@@ -11894,9 +11894,7 @@
             "setassoc": "Sword & Shield",
             "numberassoc": "202",
             "supertype": "Trainer",
-            "subtypes": [
-                "Pokémon Tool"
-            ],
+            "subtypes": "Pokémon Tool",
             "rules": [
                 "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached.",
                 "The Retreat Cost of the Pokémon this card is attached to is ColorlessColorless less.",
@@ -11933,9 +11931,7 @@
             "setassoc": "Sword & Shield",
             "numberassoc": "202",
             "supertype": "Trainer",
-            "subtypes": [
-                "Supporter"
-            ],
+            "subtypes": "Supporter",
             "rules": [
                 "Attach a basic Energy card from your hand to 1 of your Benched Pokémon.",
                 "You may play only 1 Supporter card during your turn."
@@ -11971,9 +11967,7 @@
             "setassoc": "Sword & Shield",
             "numberassoc": "202",
             "supertype": "Trainer",
-            "subtypes": [
-                "Pokémon Tool"
-            ],
+            "subtypes": "Pokémon Tool",
             "rules": [
                 "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached.",
                 "The Pokémon this card is attached to gets +30 HP.",
@@ -12010,9 +12004,7 @@
             "setassoc": "Sword & Shield",
             "numberassoc": "202",
             "supertype": "Trainer",
-            "subtypes": [
-                "Item"
-            ],
+            "subtypes": "Item",
             "rules": [
                 "Flip a coin. If heads, discard an Energy from 1 of your opponent's Pokémon.",
                 "You may play any number of Item cards during your turn."
@@ -12048,9 +12040,7 @@
             "setassoc": "Sword & Shield",
             "numberassoc": "202",
             "supertype": "Trainer",
-            "subtypes": [
-                "Item"
-            ],
+            "subtypes": "Item",
             "rules": [
                 "Put up to 2 basic Energy cards from your discard pile into your hand.",
                 "You may play any number of Item cards during your turn."
@@ -12086,9 +12076,7 @@
             "setassoc": "Sword & Shield",
             "numberassoc": "202",
             "supertype": "Trainer",
-            "subtypes": [
-                "Item"
-            ],
+            "subtypes": "Item",
             "rules": [
                 "Search your deck for a basic Energy card, reveal it, and put it into your hand. Then, shuffle your deck.",
                 "You may play any number of Item cards during your turn."
@@ -12124,9 +12112,7 @@
             "setassoc": "Sword & Shield",
             "numberassoc": "202",
             "supertype": "Trainer",
-            "subtypes": [
-                "Item"
-            ],
+            "subtypes": "Item",
             "rules": [
                 "Move a basic Energy from 1 of your Pokémon to another of your Pokémon.",
                 "You may play any number of Item cards during your turn."
@@ -12162,9 +12148,7 @@
             "setassoc": "Sword & Shield",
             "numberassoc": "202",
             "supertype": "Trainer",
-            "subtypes": [
-                "Item"
-            ],
+            "subtypes": "Item",
             "rules": [
                 "Search your deck for an Evolution Pokémon, reveal it, and put it into your hand. Then, shuffle your deck.",
                 "You may play any number of Item cards during your turn."
@@ -12200,9 +12184,7 @@
             "setassoc": "Sword & Shield",
             "numberassoc": "202",
             "supertype": "Trainer",
-            "subtypes": [
-                "Item"
-            ],
+            "subtypes": "Item",
             "rules": [
                 "Look at the top 7 cards of your deck. You may reveal a Pokémon you find there and put it into your hand. Shuffle the other cards back into your deck.",
                 "You may play any number of Item cards during your turn."
@@ -12238,9 +12220,7 @@
             "setassoc": "Sword & Shield",
             "numberassoc": "202",
             "supertype": "Trainer",
-            "subtypes": [
-                "Supporter"
-            ],
+            "subtypes": "Supporter",
             "rules": [
                 "Draw 3 cards.",
                 "You may play only 1 Supporter card during your turn."
@@ -12276,9 +12256,7 @@
             "setassoc": "Sword & Shield",
             "numberassoc": "202",
             "supertype": "Trainer",
-            "subtypes": [
-                "Item"
-            ],
+            "subtypes": "Item",
             "rules": [
                 "Heal 120 damage from 1 of your Pokémon that has at least 2 Energy attached. If you healed any damage in this way, discard 2 Energy from it.",
                 "You may play any number of Item cards during your turn."
@@ -12314,9 +12292,7 @@
             "setassoc": "Sword & Shield",
             "numberassoc": "202",
             "supertype": "Trainer",
-            "subtypes": [
-                "Pokémon Tool"
-            ],
+            "subtypes": "Pokémon Tool",
             "rules": [
                 "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached.",
                 "If the Pokémon this card is attached to is Knocked Out by damage from an opponent's attack, draw cards until you have 7 cards in your hand.",
@@ -12353,9 +12329,7 @@
             "setassoc": "Sword & Shield",
             "numberassoc": "202",
             "supertype": "Trainer",
-            "subtypes": [
-                "Pokémon Tool"
-            ],
+            "subtypes": "Pokémon Tool",
             "rules": [
                 "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached.",
                 "At the end of each turn, if the Pokémon this card is attached to is affected by any Special Conditions, it recovers from all of them, and discard this card.",
@@ -12392,9 +12366,7 @@
             "setassoc": "Sword & Shield",
             "numberassoc": "202",
             "supertype": "Trainer",
-            "subtypes": [
-                "Supporter"
-            ],
+            "subtypes": "Supporter",
             "rules": [
                 "Each player shuffles their hand and puts it on the bottom of their deck. If either player put any cards on the bottom of their deck in this way, you draw 5 cards, and your opponent draws 4 cards.",
                 "You may play only 1 Supporter card during your turn."
@@ -12430,9 +12402,7 @@
             "setassoc": "Sword & Shield",
             "numberassoc": "202",
             "supertype": "Trainer",
-            "subtypes": [
-                "Item"
-            ],
+            "subtypes": "Item",
             "rules": [
                 "Attach a Metal Energy card from your discard pile to 1 of your Benched Metal Pokémon.",
                 "You may play any number of Item cards during your turn."
@@ -12468,9 +12438,7 @@
             "setassoc": "Sword & Shield",
             "numberassoc": "202",
             "supertype": "Trainer",
-            "subtypes": [
-                "Item"
-            ],
+            "subtypes": "Item",
             "rules": [
                 "Choose 1 or both: • Shuffle up to 2 Pokémon from your discard pile into your deck. • Shuffle up to 2 basic Energy cards from your discard pile into your deck.",
                 "You may play any number of Item cards during your turn."
@@ -12506,9 +12474,7 @@
             "setassoc": "Sword & Shield",
             "numberassoc": "202",
             "supertype": "Trainer",
-            "subtypes": [
-                "Item"
-            ],
+            "subtypes": "Item",
             "rules": [
                 "Shuffle up to 2 Supporter cards from your discard pile into your deck.",
                 "You may play any number of Item cards during your turn."
@@ -12544,9 +12510,7 @@
             "setassoc": "Sword & Shield",
             "numberassoc": "202",
             "supertype": "Trainer",
-            "subtypes": [
-                "Supporter"
-            ],
+            "subtypes": "Supporter",
             "rules": [
                 "Search your deck for a Pokémon, reveal it, and put it into your hand. Then, shuffle your deck.",
                 "You may play only 1 Supporter card during your turn."
@@ -12582,9 +12546,7 @@
             "setassoc": "Sword & Shield",
             "numberassoc": "202",
             "supertype": "Trainer",
-            "subtypes": [
-                "Item"
-            ],
+            "subtypes": "Item",
             "rules": [
                 "Look at the top 7 cards of your deck. You may reveal a Supporter card you find there and put it into your hand. Shuffle the other cards back into your deck.",
                 "You may play any number of Item cards during your turn."
@@ -12620,9 +12582,7 @@
             "setassoc": "Sword & Shield",
             "numberassoc": "202",
             "supertype": "Trainer",
-            "subtypes": [
-                "Item"
-            ],
+            "subtypes": "Item",
             "rules": [
                 "Flip a coin. If heads, switch 1 of your opponent's Benched Pokémon with their Active Pokémon.",
                 "You may play any number of Item cards during your turn."
@@ -12658,9 +12618,7 @@
             "setassoc": "Sword & Shield",
             "numberassoc": "202",
             "supertype": "Trainer",
-            "subtypes": [
-                "Supporter"
-            ],
+            "subtypes": "Supporter",
             "rules": [
                 "Heal 60 damage from 1 of your Pokémon, and it recovers from all Special Conditions.",
                 "You may play only 1 Supporter card during your turn."
@@ -12696,9 +12654,7 @@
             "setassoc": "Sword & Shield",
             "numberassoc": "202",
             "supertype": "Trainer",
-            "subtypes": [
-                "Item"
-            ],
+            "subtypes": "Item",
             "rules": [
                 "Heal 30 damage from 1 of your Pokémon.",
                 "You may play any number of Item cards during your turn."
@@ -12734,9 +12690,7 @@
             "setassoc": "Sword & Shield",
             "numberassoc": "202",
             "supertype": "Trainer",
-            "subtypes": [
-                "Supporter"
-            ],
+            "subtypes": "Supporter",
             "rules": [
                 "Discard your hand and draw 7 cards.",
                 "You may play only 1 Supporter card during your turn."
@@ -12772,9 +12726,7 @@
             "setassoc": "Sword & Shield",
             "numberassoc": "202",
             "supertype": "Trainer",
-            "subtypes": [
-                "Item"
-            ],
+            "subtypes": "Item",
             "rules": [
                 "You can play this card only if you discard another card from your hand.",
                 "Search your deck for a Basic Pokémon, reveal it, and put it into your hand. Then, shuffle your deck.",
@@ -12811,9 +12763,7 @@
             "setassoc": "Sword & Shield",
             "numberassoc": "202",
             "supertype": "Trainer",
-            "subtypes": [
-                "Item"
-            ],
+            "subtypes": "Item",
             "rules": [
                 "Choose 1 of your Basic Pokémon in play. If you have a Stage 2 card in your hand that evolves from that Pokémon, put that card onto the Basic Pokémon to evolve it, skipping the Stage 1. You can't use this card during your first turn or on a Basic Pokémon that was put into play this turn.",
                 "You may play any number of Item cards during your turn."
@@ -12849,9 +12799,7 @@
             "setassoc": "Sword & Shield",
             "numberassoc": "202",
             "supertype": "Trainer",
-            "subtypes": [
-                "Item"
-            ],
+            "subtypes": "Item",
             "rules": [
                 "Draw cards until you have 6 cards in your hand. Your turn ends.",
                 "You may play any number of Item cards during your turn."
@@ -12887,9 +12835,7 @@
             "setassoc": "Sword & Shield",
             "numberassoc": "202",
             "supertype": "Trainer",
-            "subtypes": [
-                "Pokémon Tool"
-            ],
+            "subtypes": "Pokémon Tool",
             "rules": [
                 "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached.",
                 "At the end of each turn, if the Pokémon this card is attached to has 3 or more damage counters on it, heal 30 damage from it and discard this card.",
@@ -12926,9 +12872,7 @@
             "setassoc": "Sword & Shield",
             "numberassoc": "202",
             "supertype": "Trainer",
-            "subtypes": [
-                "Item"
-            ],
+            "subtypes": "Item",
             "rules": [
                 "Switch your Active Pokémon with 1 of your Benched Pokémon.",
                 "You may play any number of Item cards during your turn."
@@ -12964,9 +12908,7 @@
             "setassoc": "Sword & Shield",
             "numberassoc": "202",
             "supertype": "Trainer",
-            "subtypes": [
-                "Supporter"
-            ],
+            "subtypes": "Supporter",
             "rules": [
                 "Put an Energy attached to 1 of your opponent's Pokémon into their hand.",
                 "You may play only 1 Supporter card during your turn."
@@ -13002,9 +12944,7 @@
             "setassoc": "Sword & Shield",
             "numberassoc": "202",
             "supertype": "Trainer",
-            "subtypes": [
-                "Pokémon Tool"
-            ],
+            "subtypes": "Pokémon Tool",
             "rules": [
                 "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached.",
                 "The attacks of the Pokémon this card is attached to do 10 more damage to your opponent's Active Pokémon (before applying Weakness and Resistance).",
@@ -13041,9 +12981,7 @@
             "setassoc": "Sword & Shield",
             "numberassoc": "202",
             "supertype": "Energy",
-            "subtypes": [
-                "Special"
-            ],
+            "subtypes": "Special",
             "rules": [
                 "You can attach this card to 1 of your Pokémon only if you discard another card from your hand.",
                 "As long as this card is attached to a Pokémon, it provides every type of Energy but provides only 1 Energy at a time."
@@ -14124,9 +14062,7 @@
             "setassoc": "Sword & Shield",
             "numberassoc": "202",
             "supertype": "Trainer",
-            "subtypes": [
-                "Supporter"
-            ],
+            "subtypes": "Supporter",
             "rules": [
                 "Attach a basic Energy card from your hand to 1 of your Benched Pokémon.",
                 "You may play only 1 Supporter card during your turn."
@@ -14162,9 +14098,7 @@
             "setassoc": "Sword & Shield",
             "numberassoc": "202",
             "supertype": "Trainer",
-            "subtypes": [
-                "Supporter"
-            ],
+            "subtypes": "Supporter",
             "rules": [
                 "Each player shuffles their hand and puts it on the bottom of their deck. If either player put any cards on the bottom of their deck in this way, you draw 5 cards, and your opponent draws 4 cards.",
                 "You may play only 1 Supporter card during your turn."
@@ -14200,9 +14134,7 @@
             "setassoc": "Sword & Shield",
             "numberassoc": "202",
             "supertype": "Trainer",
-            "subtypes": [
-                "Supporter"
-            ],
+            "subtypes": "Supporter",
             "rules": [
                 "Discard your hand and draw 7 cards.",
                 "You may play only 1 Supporter card during your turn."
@@ -14238,9 +14170,7 @@
             "setassoc": "Sword & Shield",
             "numberassoc": "202",
             "supertype": "Trainer",
-            "subtypes": [
-                "Supporter"
-            ],
+            "subtypes": "Supporter",
             "rules": [
                 "Put an Energy attached to 1 of your opponent's Pokémon into their hand.",
                 "You may play only 1 Supporter card during your turn."
@@ -14590,9 +14520,7 @@
             "setassoc": "Sword & Shield",
             "numberassoc": "202",
             "supertype": "Trainer",
-            "subtypes": [
-                "Supporter"
-            ],
+            "subtypes": "Supporter",
             "rules": [
                 "Attach a basic Energy card from your hand to 1 of your Benched Pokémon.",
                 "You may play only 1 Supporter card during your turn."
@@ -14628,9 +14556,7 @@
             "setassoc": "Sword & Shield",
             "numberassoc": "202",
             "supertype": "Trainer",
-            "subtypes": [
-                "Supporter"
-            ],
+            "subtypes": "Supporter",
             "rules": [
                 "Each player shuffles their hand and puts it on the bottom of their deck. If either player put any cards on the bottom of their deck in this way, you draw 5 cards, and your opponent draws 4 cards.",
                 "You may play only 1 Supporter card during your turn."
@@ -14666,9 +14592,7 @@
             "setassoc": "Sword & Shield",
             "numberassoc": "202",
             "supertype": "Trainer",
-            "subtypes": [
-                "Supporter"
-            ],
+            "subtypes": "Supporter",
             "rules": [
                 "Discard your hand and draw 7 cards.",
                 "You may play only 1 Supporter card during your turn."
@@ -14704,9 +14628,7 @@
             "setassoc": "Sword & Shield",
             "numberassoc": "202",
             "supertype": "Trainer",
-            "subtypes": [
-                "Supporter"
-            ],
+            "subtypes": "Supporter",
             "rules": [
                 "Put an Energy attached to 1 of your opponent's Pokémon into their hand.",
                 "You may play only 1 Supporter card during your turn."
@@ -14924,9 +14846,7 @@
             "setassoc": "Sword & Shield",
             "numberassoc": "202",
             "supertype": "Trainer",
-            "subtypes": [
-                "Pokémon Tool"
-            ],
+            "subtypes": "Pokémon Tool",
             "rules": [
                 "Attach a Pokémon Tool to 1 of your Pokémon that doesn't already have a Pokémon Tool attached.",
                 "The Retreat Cost of the Pokémon this card is attached to is ColorlessColorless less.",
@@ -14963,9 +14883,7 @@
             "setassoc": "Sword & Shield",
             "numberassoc": "202",
             "supertype": "Trainer",
-            "subtypes": [
-                "Item"
-            ],
+            "subtypes": "Item",
             "rules": [
                 "Attach a Metal Energy card from your discard pile to 1 of your Benched Metal Pokémon.",
                 "You may play any number of Item cards during your turn."
@@ -15001,9 +14919,7 @@
             "setassoc": "Sword & Shield",
             "numberassoc": "202",
             "supertype": "Trainer",
-            "subtypes": [
-                "Item"
-            ],
+            "subtypes": "Item",
             "rules": [
                 "Choose 1 or both: • Shuffle up to 2 Pokémon from your discard pile into your deck. • Shuffle up to 2 basic Energy cards from your discard pile into your deck.",
                 "You may play any number of Item cards during your turn."
@@ -15039,9 +14955,7 @@
             "setassoc": "Sword & Shield",
             "numberassoc": "202",
             "supertype": "Trainer",
-            "subtypes": [
-                "Item"
-            ],
+            "subtypes": "Item",
             "rules": [
                 "You can play this card only if you discard another card from your hand.",
                 "Search your deck for a Basic Pokémon, reveal it, and put it into your hand. Then, shuffle your deck.",
