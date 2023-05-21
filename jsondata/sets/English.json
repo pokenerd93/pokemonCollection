@@ -1,6 +1,18 @@
 {
     "English": [
         {
+            "id": "xy1-en",
+            "name": "XY",
+            "series": "XY Series",
+            "language": "English",
+            "completeSet": 146,
+            "masterSet": 269,
+            "exclusives": 0,
+            "ptcgoCode": "XY",
+            "releaseDate": "February 5, 2014",
+            "description": "Open Your Eyes to a Whole New Kind of Pokémon! Kalos has been revealed, yet so much still remains unseen! New Trainers, new tactics, and the awe-inspiring Xerneas and Yveltal await—as does something else. Something...different. Something to make even the mightiest of Pokémon-EX tremble! A new age begins in the Pokémon TCG with Mega Evolution! "
+        },
+        {
             "id": "swsh1-en",
             "name": "Sword & Shield",
             "series": "Sword & Shield Series",
