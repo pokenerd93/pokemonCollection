@@ -27,222 +27,128 @@
     ],
     "French": [
         {
-            "id": "swsh1",
+            "id": "swsh1-en",
             "name": "Sword & Shield",
             "series": "Sword & Shield Series",
-            "language": "French",
+            "language": "English",
             "completeSet": 202,
             "masterSet": 381,
-            "exclusives": 100,
+            "exclusives": 0,
             "ptcgoCode": "SWSH",
             "releaseDate": "February 7, 2020",
-            "description": "Start a New Journey & Meet New Pokémon V! Welcome to the Galar region! Meet more than a dozen powerful new Pokémon V, including the Legendary Zacian and Zamazenta—and some, like Stonjourner and Snorlax, that can evolve into enormous Pokémon VMAX for even more power! You'll also find first partners Grookey, Scorbunny, and Sobble, little cuties like Wooloo and Yamper, and a handful of familiar Pokémon in their new Galarian forms. Catch up with a new generation in the Pokémon TCG: Sword & Shield expansion!",
-            "images": {
-                "validateSymbol": false,
-                "symbol": "https://www.dropbox.com/s/oxkz7sy6xrgizvp/symbol-swsh1.png?dl=1",
-                "symbolWidth": 25,
-                "symbolHeight": 25,
-                "validateLogo": false,
-                "logo": "https://www.dropbox.com/s/c3anenjg4rr8sa0/swsh1-fr-logo.png?dl=1",
-                "logoWidth": 300,
-                "logoHeight": 100
-            }
+            "description": "Start a New Journey & Meet New Pokémon V! Welcome to the Galar region! Meet more than a dozen powerful new Pokémon V, including the Legendary Zacian and Zamazenta—and some, like Stonjourner and Snorlax, that can evolve into enormous Pokémon VMAX for even more power! You'll also find first partners Grookey, Scorbunny, and Sobble, little cuties like Wooloo and Yamper, and a handful of familiar Pokémon in their new Galarian forms. Catch up with a new generation in the Pokémon TCG: Sword & Shield expansion!"
         }
     ],
     "German": [
         {
-            "id": "swsh1",
+            "id": "swsh1-en",
             "name": "Sword & Shield",
             "series": "Sword & Shield Series",
-            "language": "German",
+            "language": "English",
             "completeSet": 202,
             "masterSet": 381,
-            "exclusives": 100,
+            "exclusives": 0,
             "ptcgoCode": "SWSH",
             "releaseDate": "February 7, 2020",
-            "description": "Start a New Journey & Meet New Pokémon V! Welcome to the Galar region! Meet more than a dozen powerful new Pokémon V, including the Legendary Zacian and Zamazenta—and some, like Stonjourner and Snorlax, that can evolve into enormous Pokémon VMAX for even more power! You'll also find first partners Grookey, Scorbunny, and Sobble, little cuties like Wooloo and Yamper, and a handful of familiar Pokémon in their new Galarian forms. Catch up with a new generation in the Pokémon TCG: Sword & Shield expansion!",
-            "images": {
-                "validateSymbol": false,
-                "symbol": "https://www.dropbox.com/s/oxkz7sy6xrgizvp/symbol-swsh1.png?dl=1",
-                "symbolWidth": 25,
-                "symbolHeight": 25,
-                "validateLogo": false,
-                "logo": "https://www.dropbox.com/s/9mdxel2r3ov3yco/logo-swsh1.png?dl=1",
-                "logoWidth": 300,
-                "logoHeight": 100
-            }
+            "description": "Start a New Journey & Meet New Pokémon V! Welcome to the Galar region! Meet more than a dozen powerful new Pokémon V, including the Legendary Zacian and Zamazenta—and some, like Stonjourner and Snorlax, that can evolve into enormous Pokémon VMAX for even more power! You'll also find first partners Grookey, Scorbunny, and Sobble, little cuties like Wooloo and Yamper, and a handful of familiar Pokémon in their new Galarian forms. Catch up with a new generation in the Pokémon TCG: Sword & Shield expansion!"
         }
     ],
     "Italian": [
         {
-            "id": "swsh1",
+            "id": "swsh1-en",
             "name": "Sword & Shield",
             "series": "Sword & Shield Series",
-            "language": "Italian",
+            "language": "English",
             "completeSet": 202,
             "masterSet": 381,
-            "exclusives": 100,
+            "exclusives": 0,
             "ptcgoCode": "SWSH",
             "releaseDate": "February 7, 2020",
-            "description": "Start a New Journey & Meet New Pokémon V! Welcome to the Galar region! Meet more than a dozen powerful new Pokémon V, including the Legendary Zacian and Zamazenta—and some, like Stonjourner and Snorlax, that can evolve into enormous Pokémon VMAX for even more power! You'll also find first partners Grookey, Scorbunny, and Sobble, little cuties like Wooloo and Yamper, and a handful of familiar Pokémon in their new Galarian forms. Catch up with a new generation in the Pokémon TCG: Sword & Shield expansion!",
-            "images": {
-                "validateSymbol": false,
-                "symbol": "https://www.dropbox.com/s/oxkz7sy6xrgizvp/symbol-swsh1.png?dl=1",
-                "symbolWidth": 25,
-                "symbolHeight": 25,
-                "validateLogo": false,
-                "logo": "https://www.dropbox.com/s/9mdxel2r3ov3yco/logo-swsh1.png?dl=1",
-                "logoWidth": 300,
-                "logoHeight": 100
-            }
+            "description": "Start a New Journey & Meet New Pokémon V! Welcome to the Galar region! Meet more than a dozen powerful new Pokémon V, including the Legendary Zacian and Zamazenta—and some, like Stonjourner and Snorlax, that can evolve into enormous Pokémon VMAX for even more power! You'll also find first partners Grookey, Scorbunny, and Sobble, little cuties like Wooloo and Yamper, and a handful of familiar Pokémon in their new Galarian forms. Catch up with a new generation in the Pokémon TCG: Sword & Shield expansion!"
         }
     ],
     "Spanish": [
         {
-            "id": "swsh1",
+            "id": "swsh1-en",
             "name": "Sword & Shield",
             "series": "Sword & Shield Series",
-            "language": "Spanish",
+            "language": "English",
             "completeSet": 202,
             "masterSet": 381,
-            "exclusives": 100,
+            "exclusives": 0,
             "ptcgoCode": "SWSH",
             "releaseDate": "February 7, 2020",
-            "description": "Start a New Journey & Meet New Pokémon V! Welcome to the Galar region! Meet more than a dozen powerful new Pokémon V, including the Legendary Zacian and Zamazenta—and some, like Stonjourner and Snorlax, that can evolve into enormous Pokémon VMAX for even more power! You'll also find first partners Grookey, Scorbunny, and Sobble, little cuties like Wooloo and Yamper, and a handful of familiar Pokémon in their new Galarian forms. Catch up with a new generation in the Pokémon TCG: Sword & Shield expansion!",
-            "images": {
-                "validateSymbol": false,
-                "symbol": "https://www.dropbox.com/s/oxkz7sy6xrgizvp/symbol-swsh1.png?dl=1",
-                "symbolWidth": 25,
-                "symbolHeight": 25,
-                "validateLogo": false,
-                "logo": "https://www.dropbox.com/s/9mdxel2r3ov3yco/logo-swsh1.png?dl=1",
-                "logoWidth": 300,
-                "logoHeight": 100
-            }
+            "description": "Start a New Journey & Meet New Pokémon V! Welcome to the Galar region! Meet more than a dozen powerful new Pokémon V, including the Legendary Zacian and Zamazenta—and some, like Stonjourner and Snorlax, that can evolve into enormous Pokémon VMAX for even more power! You'll also find first partners Grookey, Scorbunny, and Sobble, little cuties like Wooloo and Yamper, and a handful of familiar Pokémon in their new Galarian forms. Catch up with a new generation in the Pokémon TCG: Sword & Shield expansion!"
         }
     ],
     "Korean": [
         {
-            "id": "swsh1",
+            "id": "swsh1-en",
             "name": "Sword & Shield",
             "series": "Sword & Shield Series",
-            "language": "Korean",
+            "language": "English",
             "completeSet": 202,
             "masterSet": 381,
-            "exclusives": 100,
+            "exclusives": 0,
             "ptcgoCode": "SWSH",
             "releaseDate": "February 7, 2020",
-            "description": "Start a New Journey & Meet New Pokémon V! Welcome to the Galar region! Meet more than a dozen powerful new Pokémon V, including the Legendary Zacian and Zamazenta—and some, like Stonjourner and Snorlax, that can evolve into enormous Pokémon VMAX for even more power! You'll also find first partners Grookey, Scorbunny, and Sobble, little cuties like Wooloo and Yamper, and a handful of familiar Pokémon in their new Galarian forms. Catch up with a new generation in the Pokémon TCG: Sword & Shield expansion!",
-            "images": {
-                "validateSymbol": false,
-                "symbol": "https://www.dropbox.com/s/oxkz7sy6xrgizvp/symbol-swsh1.png?dl=1",
-                "symbolWidth": 25,
-                "symbolHeight": 25,
-                "validateLogo": false,
-                "logo": "https://www.dropbox.com/s/9mdxel2r3ov3yco/logo-swsh1.png?dl=1",
-                "logoWidth": 300,
-                "logoHeight": 100
-            }
+            "description": "Start a New Journey & Meet New Pokémon V! Welcome to the Galar region! Meet more than a dozen powerful new Pokémon V, including the Legendary Zacian and Zamazenta—and some, like Stonjourner and Snorlax, that can evolve into enormous Pokémon VMAX for even more power! You'll also find first partners Grookey, Scorbunny, and Sobble, little cuties like Wooloo and Yamper, and a handful of familiar Pokémon in their new Galarian forms. Catch up with a new generation in the Pokémon TCG: Sword & Shield expansion!"
         }
     ],
     "Portuguese": [
         {
-            "id": "swsh1",
+            "id": "swsh1-en",
             "name": "Sword & Shield",
             "series": "Sword & Shield Series",
-            "language": "Portuguese",
+            "language": "English",
             "completeSet": 202,
             "masterSet": 381,
-            "exclusives": 100,
+            "exclusives": 0,
             "ptcgoCode": "SWSH",
             "releaseDate": "February 7, 2020",
-            "description": "Start a New Journey & Meet New Pokémon V! Welcome to the Galar region! Meet more than a dozen powerful new Pokémon V, including the Legendary Zacian and Zamazenta—and some, like Stonjourner and Snorlax, that can evolve into enormous Pokémon VMAX for even more power! You'll also find first partners Grookey, Scorbunny, and Sobble, little cuties like Wooloo and Yamper, and a handful of familiar Pokémon in their new Galarian forms. Catch up with a new generation in the Pokémon TCG: Sword & Shield expansion!",
-            "images": {
-                "validateSymbol": false,
-                "symbol": "https://www.dropbox.com/s/oxkz7sy6xrgizvp/symbol-swsh1.png?dl=1",
-                "symbolWidth": 25,
-                "symbolHeight": 25,
-                "validateLogo": false,
-                "logo": "https://www.dropbox.com/s/9mdxel2r3ov3yco/logo-swsh1.png?dl=1",
-                "logoWidth": 300,
-                "logoHeight": 100
-            }
+            "description": "Start a New Journey & Meet New Pokémon V! Welcome to the Galar region! Meet more than a dozen powerful new Pokémon V, including the Legendary Zacian and Zamazenta—and some, like Stonjourner and Snorlax, that can evolve into enormous Pokémon VMAX for even more power! You'll also find first partners Grookey, Scorbunny, and Sobble, little cuties like Wooloo and Yamper, and a handful of familiar Pokémon in their new Galarian forms. Catch up with a new generation in the Pokémon TCG: Sword & Shield expansion!"
         }
     ],
     "Chinese": [
         {
-            "id": "swsh1",
+            "id": "swsh1-en",
             "name": "Sword & Shield",
             "series": "Sword & Shield Series",
-            "language": "Chinese",
+            "language": "English",
             "completeSet": 202,
             "masterSet": 381,
-            "exclusives": 100,
+            "exclusives": 0,
             "ptcgoCode": "SWSH",
             "releaseDate": "February 7, 2020",
-            "description": "Start a New Journey & Meet New Pokémon V! Welcome to the Galar region! Meet more than a dozen powerful new Pokémon V, including the Legendary Zacian and Zamazenta—and some, like Stonjourner and Snorlax, that can evolve into enormous Pokémon VMAX for even more power! You'll also find first partners Grookey, Scorbunny, and Sobble, little cuties like Wooloo and Yamper, and a handful of familiar Pokémon in their new Galarian forms. Catch up with a new generation in the Pokémon TCG: Sword & Shield expansion!",
-            "images": {
-                "validateSymbol": false,
-                "symbol": "https://www.dropbox.com/s/oxkz7sy6xrgizvp/symbol-swsh1.png?dl=1",
-                "symbolWidth": 25,
-                "symbolHeight": 25,
-                "validateLogo": false,
-                "logo": "https://www.dropbox.com/s/9mdxel2r3ov3yco/logo-swsh1.png?dl=1",
-                "logoWidth": 300,
-                "logoHeight": 100
-            }
+            "description": "Start a New Journey & Meet New Pokémon V! Welcome to the Galar region! Meet more than a dozen powerful new Pokémon V, including the Legendary Zacian and Zamazenta—and some, like Stonjourner and Snorlax, that can evolve into enormous Pokémon VMAX for even more power! You'll also find first partners Grookey, Scorbunny, and Sobble, little cuties like Wooloo and Yamper, and a handful of familiar Pokémon in their new Galarian forms. Catch up with a new generation in the Pokémon TCG: Sword & Shield expansion!"
         }
     ],
     "Indonesian": [
         {
-            "id": "swsh1",
+            "id": "swsh1-en",
             "name": "Sword & Shield",
             "series": "Sword & Shield Series",
-            "language": "Indonesian",
+            "language": "English",
             "completeSet": 202,
             "masterSet": 381,
-            "exclusives": 100,
+            "exclusives": 0,
             "ptcgoCode": "SWSH",
             "releaseDate": "February 7, 2020",
-            "description": "Start a New Journey & Meet New Pokémon V! Welcome to the Galar region! Meet more than a dozen powerful new Pokémon V, including the Legendary Zacian and Zamazenta—and some, like Stonjourner and Snorlax, that can evolve into enormous Pokémon VMAX for even more power! You'll also find first partners Grookey, Scorbunny, and Sobble, little cuties like Wooloo and Yamper, and a handful of familiar Pokémon in their new Galarian forms. Catch up with a new generation in the Pokémon TCG: Sword & Shield expansion!",
-            "images": {
-                "validateSymbol": false,
-                "symbol": "https://www.dropbox.com/s/oxkz7sy6xrgizvp/symbol-swsh1.png?dl=1",
-                "symbolWidth": 25,
-                "symbolHeight": 25,
-                "validateLogo": false,
-                "logo": "https://www.dropbox.com/s/9mdxel2r3ov3yco/logo-swsh1.png?dl=1",
-                "logoWidth": 300,
-                "logoHeight": 100
-            }
+            "description": "Start a New Journey & Meet New Pokémon V! Welcome to the Galar region! Meet more than a dozen powerful new Pokémon V, including the Legendary Zacian and Zamazenta—and some, like Stonjourner and Snorlax, that can evolve into enormous Pokémon VMAX for even more power! You'll also find first partners Grookey, Scorbunny, and Sobble, little cuties like Wooloo and Yamper, and a handful of familiar Pokémon in their new Galarian forms. Catch up with a new generation in the Pokémon TCG: Sword & Shield expansion!"
         }
     ],
     "Japanese": [
         {
-            "id": "promo1-jpn",
-            "name": "Promos",
-            "series": "Promos",
-            "language": "Japanese",
-            "completeSet": 1,
-            "masterSet": 1,
+            "id": "swsh1-en",
+            "name": "Sword & Shield",
+            "series": "Sword & Shield Series",
+            "language": "English",
+            "completeSet": 202,
+            "masterSet": 381,
             "exclusives": 0,
-            "ptcgoCode": "PROMO",
-            "releaseDate": "January 1, 2000",
-            "description": "Start a New Journey & Meet New Pokémon V! Welcome to the Galar region! Meet more than a dozen powerful new Pokémon V, including the Legendary Zacian and Zamazenta—and some, like Stonjourner and Snorlax, that can evolve into enormous Pokémon VMAX for even more power! You'll also find first partners Grookey, Scorbunny, and Sobble, little cuties like Wooloo and Yamper, and a handful of familiar Pokémon in their new Galarian forms. Catch up with a new generation in the Pokémon TCG: Sword & Shield expansion!",
-            "images": {
-                "validateSymbol": false,
-                "symbol": "https://www.dropbox.com/s/oxkz7sy6xrgizvp/symbol-swsh1.png?dl=1",
-                "symbolWidth": 25,
-                "symbolHeight": 25,
-                "validateLogo": false,
-                "logo": "https://www.dropbox.com/s/9mdxel2r3ov3yco/logo-swsh1.png?dl=1",
-                "logoWidth": 175,
-                "logoHeight": 75
-            }
+            "ptcgoCode": "SWSH",
+            "releaseDate": "February 7, 2020",
+            "description": "Start a New Journey & Meet New Pokémon V! Welcome to the Galar region! Meet more than a dozen powerful new Pokémon V, including the Legendary Zacian and Zamazenta—and some, like Stonjourner and Snorlax, that can evolve into enormous Pokémon VMAX for even more power! You'll also find first partners Grookey, Scorbunny, and Sobble, little cuties like Wooloo and Yamper, and a handful of familiar Pokémon in their new Galarian forms. Catch up with a new generation in the Pokémon TCG: Sword & Shield expansion!"
         }
-    ],
-    "page": 1,
-    "pageSize": 250,
-    "count": 152,
-    "totalCount": 152
+    ]
 }
